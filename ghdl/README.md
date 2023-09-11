@@ -21,6 +21,7 @@ $ sudo make install
 * Download [GHDL](https://github.com/ghdl/ghdl/releases)
   * ghdl-0.37-mingw32-mcode.zip
   * Extract All... > ghdl-0.37-mingw32-mcode
+  * You may have to scroll down on the initial page to get to the right version!
 * Download [GTKWave](https://sourceforge.net/projects/gtkwave/files)
   * gtkwave-3.3.100-bin-win32.zip
   * Extract All... > gtkwave-3.3.100-bin-win32
@@ -30,6 +31,7 @@ $ sudo make install
 * Edit Environment Variables > Path > New
   * C:\eda\ghdl
   * C:\eda\gtkwave
+ * At the end of this process, the executables you need should be "C:\eda\ghdl\bin\ghdl" and "C:\eda\gtkwave\bin\gtkwave" if you have any issues with the Path
 
 ## On macOS, download [GHDL](https://github.com/ghdl/ghdl/releases) and [GTKWave](https://sourceforge.net/projects/gtkwave/files)
 
