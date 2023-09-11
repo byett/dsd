@@ -1,5 +1,6 @@
 # Digital System Design (DSD)
 Computer Engineering CPE 487
+* Bernard Yett from 2023 Fall to ???
 * [Darian Muresan](http://pictomic.com/Stevens/CPE487/dcdManual.pdf) from 2022 Fall to 2023 Spring
 * In memory of [Michel Ouendeno](https://www.stevens.edu/news/stevens-adds-32-faculty-members-for-2022-2023-academic-year) 1968&mdash;2022
 * [Kevin Lu](https://www.stevens.edu/profile/klu2) from 2018 Fall to 2022 Spring
@@ -348,35 +349,6 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [YouTube Channel: Adiuvo Engineering & Training](https://www.youtube.com/channel/UCPzekRaaKiZiU3ST0FJNoLg)
   * [Adiuvo](https://en.wiktionary.org/wiki/adiuvo) is a Latin word that means “to help, assist”
 
-### AMD Xilinx
-* [AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices) [Xilinx](https://en.wikipedia.org/wiki/Xilinx)
-* [NI](https://en.wikipedia.org/wiki/National_Instruments) [Digilent FPGA boards](https://reference.digilentinc.com/programmable-logic/start)
-  * Digilent Nexys 4 DDR rebranded as [Nexys A7-100T](https://store.digilentinc.com/nexys-a7-fpga-trainer-board-recommended-for-ece-curriculum)
-  * [Double data rate](https://en.wikipedia.org/wiki/Double_data_rate) (DDR)
-* Reference Manuals
-  * [Nexys A7 Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-a7/reference-manual)
-  * [Nexys 4 DDR Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/reference-manual)
-  * [Basys 3 Reference Manual](https://reference.digilentinc.com/programmable-logic/basys-3/reference-manual)
-  * [Cmod A7 Reference Manual](https://reference.digilentinc.com/programmable-logic/cmod-a7/reference-manual)
-* [Vivado ML Standard Edition](https://www.xilinx.com/products/design-tools/vivado.html) by Xilinx
-  * [Vivado installation](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/README.md)
-  * [Board files](https://github.com/Digilent/vivado-boards)
-    * [Download board files in ZIP](https://github.com/Digilent/vivado-boards/archive/master.zip)
-  * [Tool command language (Tcl)](https://docs.xilinx.com/r/en-US/ug835-vivado-tcl-commands)
-  * [Lab 1](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-1): Seven-Segment Decoder
-  * [Lab 2](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-2): Four-Digit Hex Counter
-  * [Lab 3](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-3): Bouncing Ball
-  * [Lab 4](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-4): Hex Calculator
-  * [Lab 5](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-5): Digital-to-Analog Converter (DAC) Siren
-  * [Lab 6](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-6): Video Game PONG
-* [What’s different between Vivado and Vitis](https://digilent.com/blog/whats-different-between-vivado-and-vitis/)
-  > Vivado offers a hardware-centric approach to designing hardware, while Vitis offers a software-centric approach to developing *both* hardware and software.
-* Digilent Peripheral Modules or [Pmods](https://store.digilentinc.com/pmod-modules-connectors/)
-  * Lab 4: 16-button Keypad [KYPD](https://store.digilentinc.com/pmod-kypd-16-button-keypad/) with optional [2x6-pin](https://store.digilentinc.com/2x6-pin-pmod-cable/) cable
-  * Lab 5: Inter-IC Sound [I2S](https://reference.digilentinc.com/reference/pmod/pmodi2s/start) has been replaced with [I2S2](https://store.digilentinc.com/pmod-i2s2-stereo-audio-input-and-output/)
-  * Lab 6: Two 12-bit analog-to-digital converter [AD1](https://store.digilentinc.com/pmod-ad1-two-12-bit-a-d-inputs/) with [6-pin](https://store.digilentinc.com/pmod-cable-kit-6-pin/) cable and a 5k&Omega; potentiometer
-  * Columbia University [EE E3082 - Digital Electronics Laboratory](https://www.bioee.ee.columbia.edu/courses/ee3082/) by Prof. [Ken Shepard](https://en.wikipedia.org/wiki/Kenneth_L_Shepard)
-
 ### Intel Altera
 * [Intel](https://en.wikipedia.org/wiki/Intel)
 * [Altera](https://en.wikipedia.org/wiki/Altera)
@@ -425,43 +397,3 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [Bosch, Infineon, Nordic, NXP, and Qualcomm Join Hands to Give the RISC-V Ecosystem a Big Boost](https://www.hackster.io/news/bosch-infineon-nordic-nxp-and-qualcomm-join-hands-to-give-the-risc-v-ecosystem-a-big-boost-d47050949111)
 * [SymbiFlow](https://symbiflow.github.io/)
   * [Examples](https://symbiflow-examples.readthedocs.io/en/latest/)
-
-### Projects
-* [All About FPGA](https://allaboutfpga.com/) by Shahul Akthar of Invent Logics
-  * [Binary Counter FPGA Implementation](https://allaboutfpga.com/binary-counter-fpga-implementation/)
-  * [BCD to 7 Segment FPGA Implementation](https://allaboutfpga.com/bcd-to-7-segment-fpga-implementation/)
-  * [ALU Structural Modeling FPGA Implementation](https://allaboutfpga.com/tutorial-3-alu-structural-modelling-fpga-implementation/)
-  * [VHDL Code for 4-Bit ALU](https://allaboutfpga.com/vhdl-code-for-4-bit-alu/)
-* [Cyberdeck Cafe](https://cyberdeck.cafe/)
-* [Digilent Blog Projects](https://digilent.com/blog/category/applications/projects/)
-  * [VHDL Etch-a-Sketch](https://digilent.com/blog/vhdl-etch-a-sketch/)
-* [FPGA eink controller](https://hackaday.io/project/21168-fpga-eink-controller)
-  * [GitHub repository](https://github.com/julbouln/ice40_eink_controller)
-  * [Controlling a Broken Kindle Display With an FPGA](https://www.hackster.io/news/controlling-a-broken-kindle-display-with-an-fpga-edb6f5666a03)
-  * [E Ink](https://en.wikipedia.org/wiki/E_Ink)
-* [FPGA4fun](https://www.fpga4fun.com/)
-* [FPGA4students](https://www.fpga4student.com)
-* [FPGA Based VGA Driver and Arcade Game](https://static.armandas.lt/res/fpga_based_vga_driver_and_arcade_game.pdf)
-* [Xilinx community projects](https://www.xilinx.com/community/projects.html)
-* [Hackaday](https://en.wikipedia.org/wiki/Hackaday)
-  * [Hackaday FPGA projects](https://hackaday.io/projects?tag=FPGA)
-  * [The Hobbyists Guide to FPGAs](https://hackaday.io/project/27550-the-hobbyists-guide-to-fpgas)
-* [Greg Scott Davill](https://gregdavill.com/) (GsD)
-  * [LED Icosahedron](https://github.com/gregdavill/d20-hardware)
-* [Jason Mobarack](https://github.com/silverjam/VHDL)
-  * [8-bit calculator](https://github.com/silverjam/VHDL/tree/master/8bit-calculator)
-  * [IEEE 754 multiplier](https://github.com/silverjam/VHDL/tree/master/ieee-754-multiplier)
-  * [Vending machine](https://github.com/silverjam/VHDL/tree/master/vending-machine)
-* [Martin Kellermann](https://www.linkedin.com/today/author/martinkellermann)
-  * [TinyML That Can Be Upgraded Without Resynthesizing or Rebooting the FPGA](https://www.iotforall.com/tinyml-that-can-be-updated-without-resynthesizing-or-rebooting-the-fpga)
-* [One-Time PAD FPGA](https://github.com/homerflander/One-Time-Pad-FPGA) in Verilog
-  * [One-time pad](https://en.wikipedia.org/wiki/One-time_pad)
-* [OpenFASoC](https://github.com/idea-fasoc/OpenFASOC)
-* [Project F: FPGA Development](https://projectf.io/) in Verilog
-* [T-Rex Run! Implemented in VHDL](https://www.secs.oakland.edu/~llamocca/Courses/ECE4710/W20/FinalProject/Group4_trexonvga.pdf)
-
-### FPGA Design Contests
-* [Intel Innovate Design Contests](https://www.intel.com/content/www/us/en/programmable/support/training/university/events-contests.html)
-* [Terasic InnovateFPGA Design Contest](https://www.innovatefpga.com/)
-* [tinyML Vision Challenge](https://www.hackster.io/contests/tinyml-vision)
-* [Xilinx Design Contests](https://www.xilinx.com/support/university/design-contests.html)
