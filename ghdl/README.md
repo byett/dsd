@@ -60,7 +60,7 @@ GTKWave > File > Open New Tab > Select a folder and a VCD file to load
 * Open a [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS)) on macOS or GNU/Linux, or [Windows Terminal](https://en.wikipedia.org/wiki/Windows_Terminal) on Windows
 * Clone 'dsd' repository, make and change directory to a new 'vhdl' directory, copy vhdl code to the current directory '.'
 ```sh
-$ git clone https://github.com/kevinwlu/dsd.git
+$ git clone https://github.com/byett/dsd.git
 $ mkdir vhdl
 $ cd vhdl
 $ cp ~/dsd/ghdl/*vhdl .
