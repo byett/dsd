@@ -7,8 +7,9 @@
 * [CHIPS and Science Act](https://en.wikipedia.org/wiki/CHIPS_and_Science_Act)
   * [Advanced Chip Engineering Design and Fabrication (ACED Fab)](https://beta.nsf.gov/funding/opportunities/advanced-chip-engineering-design-fabrication-aced)
   * [Experiential Learning for Emerging and Novel Technologies (ExLENT)](https://beta.nsf.gov/funding/opportunities/experiential-learning-emerging-novel-technologies)
+* [CHIPS for America](https://www.nist.gov/chips)
+  * [CHIPS R&D Standards Summit](https://www.nist.gov/news-events/events/2023/09/chips-rd-standards-summit)
 * [European Chips Act](https://en.wikipedia.org/wiki/European_Chips_Act)
-
 ## Lists
 * [Analog Devices](https://en.wikipedia.org/wiki/Analog_Devices)
   * [AD9364](https://www.analog.com/en/products/ad9364.html) RF Agile Transceiver
@@ -20,6 +21,7 @@
 * [HiSilicon](https://en.wikipedia.org/wiki/HiSilicon)
   * [Huawei Mate series](https://en.wikipedia.org/wiki/Huawei_Mate_series)
 * [Intel](https://en.wikipedia.org/wiki/List_of_Intel_processors)
+  * [Intel Innovation](https://www.intel.com/content/www/us/en/events/on-event-series/innovation.html)
   * [List of Intel CPU microarchitectures](https://en.wikipedia.org/wiki/List_of_Intel_CPU_microarchitectures)
   * [Altera](https://en.wikipedia.org/wiki/Altera)
   * [Process–architecture–optimization model](https://en.wikipedia.org/wiki/Process%E2%80%93architecture%E2%80%93optimization_model)
@@ -27,19 +29,27 @@
   * [Sapphire Rapids](https://en.wikipedia.org/wiki/Sapphire_Rapids)
   * [Intel in Ohio](https://www.intel.com/content/www/us/en/corporate-responsibility/intel-in-ohio.html)
   * [Intel Introduces New RibbonFET and PowerVia Technologies](https://www.intel.com/content/www/us/en/corporate/usa-chipmaking/news-and-resources/video-intel-intros-ribbonfet-powervia-technologies.html)
+  * [Intel Unveils Industry-Leading Glass Substrates to Meet Demand for More Powerful Compute](https://www.intel.com/content/www/us/en/newsroom/news/intel-unveils-industry-leading-glass-substrates.html)
+  * [Intel’s New Chip to Advance Silicon Spin Qubit Research for Quantum Computing](https://www.intel.com/content/www/us/en/newsroom/news/quantum-computing-chip-to-advance-research.html)
 * [Microchip](https://en.wikipedia.org/wiki/Microchip_Technology)
   * [Atmel](https://en.wikipedia.org/wiki/Atmel)
+  * [Microchip Studio](https://www.microchip.com/en-us/education/developer-help/learn-tools-software/mcu-mpu/studio)
 * [Nordic Semiconductor](https://en.wikipedia.org/wiki/Nordic_Semiconductor)
   * [nRF7002](https://www.nordicsemi.com/Products/nRF7002)
 * [NVIDIA graphics processing units](https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units)
   * [NVIDIA GPU Technology Conference](https://en.wikipedia.org/wiki/Nvidia_GTC) (GTC)
+  * S. K. Moore, ["The Secret to Nvidia’s AI Success,"](https://spectrum.ieee.org/nvidia-gpu) *IEEE Spectrum*, September 7, 2023
   * [GeForce GTX 16 Series](https://www.nvidia.com/en-us/geforce/graphics-cards/16-series/)
   * [GeForce RTX 20 Series](https://www.nvidia.com/en-us/geforce/20-series/)
   * [GeForce RTX 30 Series](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/)
   * [GeForce RTX 40 Series](https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/)
   * [NVIDIA H100 Tensor Core GPU](https://www.nvidia.com/en-us/data-center/h100/)
 * [NXP](https://en.wikipedia.org/wiki/List_of_NXP_products)
-* Qualcomm [Snapdragon](https://en.wikipedia.org/wiki/List_of_Qualcomm_Snapdragon_processors)
+* [Qualcomm](https://en.wikipedia.org/wiki/Qualcomm)
+  * *The Future of AI is Hybrid*
+    * [Part I](https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/Whitepaper-The-future-of-AI-is-hybrid-Part-1-Unlocking-the-generative-AI-future-with-on-device-and-hybrid-AI.pdf)
+    * [Part II](https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/Whitepaper-The-future-of-AI-is-hybrid-Part-2-Qualcomm-is-uniquely-positioned-to-scale-hybrid-AI.pdf)
+  * [Snapdragon](https://en.wikipedia.org/wiki/List_of_Qualcomm_Snapdragon_processors)
 * Samsung [Exynos](https://en.wikipedia.org/wiki/Exynos)
 
 ## Packaging

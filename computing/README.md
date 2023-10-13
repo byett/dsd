@@ -21,6 +21,8 @@
   * [Unknowability](https://en.wikipedia.org/wiki/Unknowability)
   * [Ignoramus et ignorabimus](https://en.wikipedia.org/wiki/Ignoramus_et_ignorabimus)
 * [Instruction set architecture](https://en.wikipedia.org/wiki/Instruction_set_architecture) (ISA)
+* [Implicit SPMD Program Compiler](https://ispc.github.io/) (ISPC)
+  * [Single program, multiple data](https://en.wikipedia.org/wiki/Single_program,_multiple_data) (SPMD) 
 * [Integrated Tunable Laser Assembly](https://de.wikipedia.org/wiki/Integrated_Tunable_Laser_Assembly) (ITLA)
 * [Low-dropout regulator](https://en.wikipedia.org/wiki/Low-dropout_regulator) (LDO regulator)
 * [Mach–Zehnder interferometer](https://en.wikipedia.org/wiki/Mach%E2%80%93Zehnder_interferometer)
@@ -38,3 +40,6 @@
   * [Dynamical Anatomy of NARMA10 Benchmark Task](https://www.arxiv-vanity.com/papers/1906.04608/)
 * [Spintronics](https://en.wikipedia.org/wiki/Spintronics)
 * X. Shi, X. Peng, L. He, Y. Zhao, and H. Jin, "[Waterwave: A GPU Memory Flow Engine for Concurrent DNN Training](https://ezproxy.stevens.edu:2161/document/10130297)," in *IEEE Transactions on Computers*, pp. 1-14, 2023. doi: 10.1109/TC.2023.3278530
+## Server
+* [Lambda](https://lambdalabs.com/)
+* [Microway](https://www.microway.com/)
