@@ -80,6 +80,7 @@
   * Memory Device: s25fl128sxxxxxx0-spi-x1_x2_x4
   * Configuration file > Click ... > Select C:/Users/.../hex4counter.runs/impl_1/hexcount.mcs > OK
   * PRM file > Click ... > Select C:/Users/.../hex4counter.runs/impl_1/hexcount.prm > OK
+      * When I got to this step, it would not allow me to select this PRM file. The rest of the process seemed to go correctly without this step, so for now if this happens to you just move on to the next step - Prof. Yett
   * Address Range > Click V > Select "Entire Configuration Memory Device" > OK
   * Flash programming completed successfully > OK
 
