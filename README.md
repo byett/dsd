@@ -374,11 +374,11 @@ After several language standardization steps that took place in 1987, 1993, 2000
     * [Download board files in ZIP](https://github.com/Digilent/vivado-boards/archive/master.zip)
   * [Tool command language (Tcl)](https://docs.xilinx.com/r/en-US/ug835-vivado-tcl-commands)
   * [Lab 1](https://github.com/byett/dsd/tree/CPE487-Spring2024/Nexys-A7/Lab-1): Seven-Segment Decoder
-  * [Lab 2](https://github.com/byett/dsd/tree/CPE487-Spring2024/Lab-2): Four-Digit Hex Counter
-  * [Lab 3](https://github.com/byett/dsd/tree/CPE487-Spring2024/Lab-3): Bouncing Ball
-  * [Lab 4](https://github.com/byett/dsd/tree/CPE487-Spring2024/Lab-4): Hex Calculator
-  * [Lab 5](https://github.com/byett/dsd/tree/CPE487-Spring2024/Lab-5): Digital-to-Analog Converter (DAC) Siren
-  * [Lab 6](https://github.com/byett/dsd/tree/CPE487-Spring2024/Lab-6): Video Game PONG
+  * [Lab 2](https://github.com/byett/dsd/tree/CPE487-Spring2024/Nexys-A7/Lab-2): Four-Digit Hex Counter
+  * [Lab 3](https://github.com/byett/dsd/tree/CPE487-Spring2024/Nexys-A7/Lab-3): Bouncing Ball
+  * [Lab 4](https://github.com/byett/dsd/tree/CPE487-Spring2024/Nexys-A7/Lab-4): Hex Calculator
+  * [Lab 5](https://github.com/byett/dsd/tree/CPE487-Spring2024/Nexys-A7/Lab-5): Digital-to-Analog Converter (DAC) Siren
+  * [Lab 6](https://github.com/byett/dsd/tree/CPE487-Spring2024/Nexys-A7/Lab-6): Video Game PONG
 * [What’s different between Vivado and Vitis](https://digilent.com/blog/whats-different-between-vivado-and-vitis/)
   > Vivado offers a hardware-centric approach to designing hardware, while Vitis offers a software-centric approach to developing *both* hardware and software.
 * Digilent Peripheral Modules or [Pmods](https://digilent.com/reference/pmod/start)
