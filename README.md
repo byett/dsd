@@ -41,6 +41,10 @@ Computer Engineering CPE 487
   * [Byte](https://en.wikipedia.org/wiki/Byte)
   * [Bit rate](https://en.wikipedia.org/wiki/Bit_rate)
   * [Baud](https://en.wikipedia.org/wiki/Baud)
+* [Endianness](https://en.wikipedia.org/wiki/Endianness) refers to the order of bytes within a binary representation of a number in computing
+  * [Danny Cohen](https://en.wikipedia.org/wiki/Danny_Cohen_(computer_scientist)) 1937&mdash;2019
+  * A big-endian ordering places the most significant byte first and the least significant byte last, e.g., networking protocols such as [Transmission Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol) (TCP)
+  * A little-endian ordering places the least significant byte first and the most significant byte last, e.g., processor architectures such as [x86](https://en.wikipedia.org/wiki/X86)
 * [Binary-coded decimal](https://en.wikipedia.org/wiki/Binary-coded_decimal) (BCD)
 * [Ternary computer](https://en.wikipedia.org/wiki/Ternary_computer)
   * [Ternary numeral system](https://en.wikipedia.org/wiki/Ternary_numeral_system)
@@ -56,6 +60,7 @@ Computer Engineering CPE 487
   * [Exascale computing](https://en.wikipedia.org/wiki/Exascale_computing)
   * [Zettascle computing](https://en.wikipedia.org/wiki/Zettascale_computing)
 * [Hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal)
+  * The prefix 0x denotes hexadecimal numerals, e.g., 0x2AF3 = 10 995
 * [Black box](https://en.wikipedia.org/wiki/Black_box)
   * [White box](https://en.wikipedia.org/wiki/White_box_(software_engineering))
 * [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra)
@@ -76,6 +81,7 @@ Computer Engineering CPE 487
   * [Metastability](https://en.wikipedia.org/wiki/Metastability)
 * [Turing machine](https://en.wikipedia.org/wiki/Turing_machine) by [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) 1912&mdash;1954
 * [Finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine) (FSM)
+  * [Mealy and Moore Machines](https://www.geeksforgeeks.org/mealy-and-moore-machines-in-toc/) by GeeksforGeeks
   * [Mealy vs. Moore machine overview video](https://www.youtube.com/watch?v=S352lyPZP00) by Bruce Boatner
     * The Moore-type outputs are only a function of the states and not the external inputs
     * The Mealy-type outputs are a function of the states and the external inputs
@@ -134,6 +140,7 @@ Computer Engineering CPE 487
 * [Programmable logic controller](https://en.wikipedia.org/wiki/Programmable_logic_controller) (PLC)
 * [Programmable Array Logic](https://en.wikipedia.org/wiki/Programmable_Array_Logic) (PAL)
 * [Complex programmable logic device](https://en.wikipedia.org/wiki/Complex_programmable_logic_device) (CPLD)
+  * [CPLD vs. FPGA](https://resources.pcb.cadence.com/blog/2019-cpld-vs-fpga-which-do-you-need-for-your-digital-system)
 * [Field-programmable gate array](https://en.wikipedia.org/wiki/Field-programmable_gate_array) (FPGA)
   * [FPGA for Beginners: Glossary and Setup](https://digilent.com/blog/fpga-for-beginners-glossary-and-setup/) by [Miranda Hansen](https://digilent.com/blog/author/mirandamay7/)
     > FPGA firmware: Though the code deployed on the FPGA is sometimes referred to as its firmware, this is a slight misconception. Firmware is indeed embedded and dedicated code, but the code is executed. FPGA code is written in a description language, then is interpreted, synthesized, and ultimately produces hardware. So, I see it fit to refer to the FPGA, when it is configured, as hardware, and to the code itself as a description language.  
@@ -161,7 +168,9 @@ Computer Engineering CPE 487
 * [Application-specific integrated circuit](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit) (ASIC)
 * [Electromagnetic interference](https://en.wikipedia.org/wiki/Electromagnetic_interference) (EMI)
 * [Electromagnetic shielding](https://en.wikipedia.org/wiki/Electromagnetic_shielding)
-* [Restriction of Hazardous Substances Directive](https://en.wikipedia.org/wiki/Restriction_of_Hazardous_Substances_Directive) (RoHS 1)
+* [CE marking](https://en.wikipedia.org/wiki/CE_marking)
+* [Restriction of Hazardous Substances Directive](https://en.wikipedia.org/wiki/Restriction_of_Hazardous_Substances_Directive) (RoHS)
+* [Waste Electrical and Electronic Equipment Directive](https://en.wikipedia.org/wiki/Waste_Electrical_and_Electronic_Equipment_Directive) (WEEE)
 * [Hardware acceleration](https://en.wikipedia.org/wiki/Hardware_acceleration)
   * [AI accelerator](https://en.wikipedia.org/wiki/AI_accelerator) or neural processing unit (NPU)
   * [Printed circuit board](https://en.wikipedia.org/wiki/Printed_circuit_board) (PCB)
@@ -348,6 +357,39 @@ After several language standardization steps that took place in 1987, 1993, 2000
 * [Adam Taylor](https://www.hackster.io/adam-taylor)
   * [YouTube Channel: Adiuvo Engineering & Training](https://www.youtube.com/channel/UCPzekRaaKiZiU3ST0FJNoLg)
   * [Adiuvo](https://en.wiktionary.org/wiki/adiuvo) is a Latin word that means “to help, assist”
+
+### AMD Xilinx
+* [AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices) [Xilinx](https://en.wikipedia.org/wiki/Xilinx)
+* [NI](https://en.wikipedia.org/wiki/National_Instruments) [Digilent FPGA boards](https://reference.digilentinc.com/programmable-logic/start)
+  * Digilent Nexys 4 DDR rebranded as [Nexys A7-100T](https://digilent.com/shop/nexys-a7-fpga-trainer-board-recommended-for-ece-curriculum/)
+  * [Double data rate](https://en.wikipedia.org/wiki/Double_data_rate) (DDR)
+* Reference Manuals
+  * [Nexys A7 Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-a7/reference-manual)
+  * [Nexys 4 DDR Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/reference-manual)
+  * [Basys 3 Reference Manual](https://reference.digilentinc.com/programmable-logic/basys-3/reference-manual)
+  * [Cmod A7 Reference Manual](https://reference.digilentinc.com/programmable-logic/cmod-a7/reference-manual)
+* [Vivado ML Standard Edition](https://www.xilinx.com/products/design-tools/vivado.html) by Xilinx
+  * [Vivado installation](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/README.md)
+  * [Board files](https://github.com/Digilent/vivado-boards)
+    * [Download board files in ZIP](https://github.com/Digilent/vivado-boards/archive/master.zip)
+  * [Tool command language (Tcl)](https://docs.xilinx.com/r/en-US/ug835-vivado-tcl-commands)
+  * [Lab 1](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-1): Seven-Segment Decoder
+  * [Lab 2](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-2): Four-Digit Hex Counter
+  * [Lab 3](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-3): Bouncing Ball
+  * [Lab 4](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-4): Hex Calculator
+  * [Lab 5](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-5): Digital-to-Analog Converter (DAC) Siren
+  * [Lab 6](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-6): Video Game PONG
+* [What’s different between Vivado and Vitis](https://digilent.com/blog/whats-different-between-vivado-and-vitis/)
+  > Vivado offers a hardware-centric approach to designing hardware, while Vitis offers a software-centric approach to developing *both* hardware and software.
+* Digilent Peripheral Modules or [Pmods](https://digilent.com/reference/pmod/start)
+  * Lab 4: 16-button Keypad [Pmod KYPD](https://digilent.com/shop/pmod-kypd-16-button-keypad/) with optional [2x6-pin](https://digilent.com/shop/2x6-pin-pmod-cable/) cable
+  * Lab 5: Inter-IC Sound [Pmod I2S](https://reference.digilentinc.com/reference/pmod/pmodi2s/start) has been replaced with [Pmod I2S2](https://digilent.com/shop/pmod-i2s2-stereo-audio-input-and-output/)
+  * Lab 6: Two 12-bit analog-to-digital converter [Pmod AD1](https://digilent.com/shop/pmod-ad1-two-12-bit-a-d-inputs/) with [6-pin](https://digilent.com/shop/pmod-cable-kit-6-pin/) cable and a 5k&Omega; potentiometer
+  * [Pmod DA3](https://digilent.com/shop/pmod-da3-one-16-bit-d-a-output/) 16-bit digital-to-analog converter
+  * [Pmod DHB1](https://digilent.com/shop/pmod-dhb1-dual-h-bridge/) dual H-bridge motor driver
+  * [Pmod DPOT](https://digilent.com/shop/pmod-dpot-digital-potentiometer/) digital potentiometer
+  * [Pmod JSTK2](https://digilent.com/shop/pmod-jstk2-two-axis-joystick/) two-axis joystick
+  * Columbia University [EE E3082 - Digital Electronics Laboratory](https://www.bioee.ee.columbia.edu/courses/ee3082/) by Prof. [Ken Shepard](https://en.wikipedia.org/wiki/Kenneth_L_Shepard)
 
 ### Intel Altera
 * [Intel](https://en.wikipedia.org/wiki/Intel)

@@ -4,6 +4,11 @@
 * [ForrestKnight](https://www.youtube.com/@fknight/) by [Forrest Knight](https://www.linkedin.com/in/forrestpknight/) | [GitHub](https://github.com/ForrestKnight)
 * [Up and Atom](https://www.youtube.com/@upandatom) by [Jade Tan-Holmes](https://www.linkedin.com/in/jade-tan-holmes-2b6846175/)
 ##
+* [High-performance computing](https://en.wikipedia.org/wiki/High-performance_computing) (HPC)
+* [Parallel computing](https://en.wikipedia.org/wiki/Parallel_computing)
+* [Message Passing Interface](https://en.wikipedia.org/wiki/Message_Passing_Interface) (MPI)
+* [Open MPI](https://en.wikipedia.org/wiki/Open_MPI)
+##
 * [Artificial neural network](https://en.wikipedia.org/wiki/Artificial_neural_network) (ANN)
 * [Backpropagation through time](https://en.wikipedia.org/wiki/Backpropagation_through_time) (BPTT)
 * [Cochleagram](https://en.wiktionary.org/wiki/cochleagram)
@@ -38,6 +43,7 @@
 * [Reservoir computing](https://en.wikipedia.org/wiki/Reservoir_computing)
   * [Autoregressive–moving-average model](https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model) (ARMA)
   * [Dynamical Anatomy of NARMA10 Benchmark Task](https://www.arxiv-vanity.com/papers/1906.04608/)
+* [Spatial computing](https://en.wikipedia.org/wiki/Spatial_computing)
 * [Spintronics](https://en.wikipedia.org/wiki/Spintronics)
 * X. Shi, X. Peng, L. He, Y. Zhao, and H. Jin, "[Waterwave: A GPU Memory Flow Engine for Concurrent DNN Training](https://ezproxy.stevens.edu:2161/document/10130297)," in *IEEE Transactions on Computers*, pp. 1-14, 2023. doi: 10.1109/TC.2023.3278530
 ## Server

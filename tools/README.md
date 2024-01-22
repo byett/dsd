@@ -77,6 +77,7 @@
   * [Agilent 34410A Digital Multimeter, 6.5 Digit](https://www.keysight.com/us/en/support/34410A/digital-multimeter-6-digit.html)
   * [Keysight 34460A Digital Multimeter, 6.5 Digit, Basic Truevolt](https://www.keysight.com/us/en/support/34460A/digital-multimeter-6-5-digit-basic-truevolt.html) in the Elsie Hattrick Design Laboratory
   * [Keysight 34461A Digital Multimeter, 6.5 Digit, Truevolt DMM](https://www.keysight.com/us/en/support/34461A/digital-multimeter-6-5-digit-truevolt-dmm.html) in the Software Engineering Lab
+* [Noise generator](https://en.wikipedia.org/wiki/Noise_generator)
 * [Oscilloscope](https://en.wikipedia.org/wiki/Oscilloscope)
   * [HP 54601B 4 Channel, 100 MHz Oscilloscope](https://www.keysight.com/us/en/support/54601B/4-channel-100-mhz-oscilloscope.html)
   * [Agilent 54622D 2+16 Channel, 100 MHz Mixed-Signal Oscilloscope](https://www.keysight.com/us/en/support/54622D/portable-mso.html)
@@ -90,6 +91,8 @@
   * [Agilent E3630A 35 W Triple Output, 6V, 2.5A and ±20V, 0.5A](https://www.keysight.com/us/en/support/E3630A/35-w-triple-output-6v-2-5a-20v-0-5a.html)
   * [HP E3631A 80W Triple Output Power Supply, 6V, 5A & ±25V, 1A](https://www.keysight.com/us/en/support/E3631A/80w-triple-output-power-supply-6v-5a--25v-1a.html) in the Elsie Hattrick Design Laboratory
   * [Keysight E3634A 200W Power Supply, 25V, 7A or 50V, 4A](https://www.keysight.com/us/en/support/E3634A/200w-power-supply-25v-7a-50v-4a.html) in the Software Engineering Lab
+* [Signal generator](https://en.wikipedia.org/wiki/Signal_generator)
+  * [Agilent 8648B Synthesized RF Signal Generator, 9 kHz to 2000 MHz](https://www.keysight.com/us/en/support/8648B/synthesized-rf-signal-generator-9-khz-to-2000-mhz.html)
 * [Spectrum Analyzer](https://en.wikipedia.org/wiki/Spectrum_analyzer)
   * [Agilent E4401B ESA-E Spectrum Analyzer, 9 kHz to 1.5 GHz](https://www.keysight.com/us/en/support/E4401B/esae-spectrum-analyzer-9-khz-to-15-ghz.html)
   * [Agilent E4411B ESA-L Basic Spectrum Analyzer, 9 kHz to 1.5 GHz (50-ohm)](https://www.keysight.com/us/en/support/E4411B/esa-l-basic-spectrum-analyzer-9khz-1-5ghz.html)

@@ -131,6 +131,7 @@
 * [List of MEMS foundries](https://en.wikipedia.org/wiki/List_of_MEMS_foundries)
 * [List of EDA companies](https://en.wikipedia.org/wiki/List_of_EDA_companies)
   * [Synopsys](https://en.wikipedia.org/wiki/Synopsys)
+    * [Ansys](https://en.wikipedia.org/wiki/Ansys)
   * [Cadence Design Systems](https://en.wikipedia.org/wiki/Cadence_Design_Systems)
   * Siemens EDA (formerly [Mentor Graphics](https://en.wikipedia.org/wiki/Mentor_Graphics))  
   * [Aldec](https://en.wikipedia.org/wiki/Aldec)
@@ -200,7 +201,7 @@
 * [Vishay Intertechnology](https://en.wikipedia.org/wiki/Vishay_Intertechnology)
 * [Western Design Center](https://en.wikipedia.org/wiki/Western_Design_Center) (WDC)
 * [Western Digital](https://en.wikipedia.org/wiki/Western_Digital)
-* [Wolfspeed](https://en.wikipedia.org/wiki/Wolfspeed)
+* [Wolfspeed](https://en.wikipedia.org/wiki/Wolfspeed), formerly Cree, Inc.
 ## Australia
 * [BrainChip](https://en.wikipedia.org/wiki/BrainChip)
 ## China
@@ -231,7 +232,11 @@
 ## India
 * [Electronics and semiconductor manufacturing industry in India](https://en.wikipedia.org/wiki/Electronics_and_semiconductor_manufacturing_industry_in_India)
 ## Israel
-* Intel [Mobileye](https://en.wikipedia.org/wiki/Mobileye)
+* [Anobit](https://en.wikipedia.org/wiki/Anobit) was acquired by Apple on January 6, 2012
+* [Ceva (semiconductor company)](https://en.wikipedia.org/wiki/Ceva_(semiconductor_company))
+* [Mobileye](https://en.wikipedia.org/wiki/Mobileye) was acquired by Intel in 2017 and went public again in 2022
+* [Sony Semiconductor Israel](https://en.wikipedia.org/wiki/Sony_Semiconductor_Israel), formerly Altair Semiconductor
+* [Tower Semiconductor](https://en.wikipedia.org/wiki/Tower_Semiconductor)
 ## Japan
 * [Asahi Kasei](https://en.wikipedia.org/wiki/Asahi_Kasei)
 * [Fujitsu](https://en.wikipedia.org/wiki/Fujitsu)
@@ -275,7 +280,7 @@
 * [ams-OSRAM](https://en.wikipedia.org/wiki/Ams-OSRAM)
 * [ARM](https://en.wikipedia.org/wiki/Arm_Ltd.)
 * [Elmos Semiconductor](https://en.wikipedia.org/wiki/Elmos_Semiconductor)
-* [FTDI](https://en.wikipedia.org/wiki/FTDI)
+* [FTDI](https://en.wikipedia.org/wiki/FTDI) Future Technology Devices International Limited headquartered in Glasgow, Scotland
 * [Graphcore](https://en.wikipedia.org/wiki/Graphcore)
 * [Imagination Technologies](https://en.wikipedia.org/wiki/Imagination_Technologies)
 $ [Magnachip](https://www.magnachip.com/)
