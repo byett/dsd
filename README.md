@@ -316,7 +316,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
 * The 17-minute [tutorial](https://archive.fosdem.org/2018/schedule/speaker/tristan_gingold/) plus 7-minute Q&A by [Tristan Gingold](https://fr.linkedin.com/in/tristan-gingold-31a3864) at [FOSDEM](https://en.wikipedia.org/wiki/FOSDEM) 2018
   * Downloadable [slides](https://archive.fosdem.org/2018/schedule/event/cad_fpga_intro/attachments/slides/2136/export/events/attachments/cad_fpga_intro/slides/2136/fpga_design.pdf)
 * [GHDL Documentation](https://ghdl.github.io/ghdl/)
-* [GHDL labs](https://github.com/kevinwlu/dsd/tree/master/ghdl) including hello_world, half adder, full adder, 8-bit square root, D flip-flop, T flip-flop, SR flip-flop, 4-to-1 multiplexer, and 1-to-4 demultiplexer
+* [GHDL labs](https://github.com/byett/dsd/tree/CPE487-Spring2024/ghdl) including hello_world, half adder, full adder, 8-bit square root, D flip-flop, T flip-flop, SR flip-flop, 4-to-1 multiplexer, and 1-to-4 demultiplexer
 * 4-Bit Ripple [Counter](https://en.wikipedia.org/wiki/Counter_(digital)), 4x4 Unsigned Mulitplier, and [Hamming Distance](https://en.wikipedia.org/wiki/Hamming_distance) Circuit by [Chloe Quinto](https://github.com/chloequinto/CPE-487-Digital-System-Design)
 * [Textbook](http://freerangefactory.org/pdf/df344hdh4h8kjfh3500ft2/free_range_vhdl.pdf) Exercises of Chapters 3 to 5 and Chapters 7 to 10 by [Sarah Bertussi](https://github.com/sbertussi/CPE-487/tree/master/textbook)
 * Textbook Chapter 13 Test Benches by [Jake Foglia](https://github.com/jakefoglia/foglia-DSD/tree/master/GHDL%20Test%20Directory/ch13)
@@ -369,16 +369,16 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [Basys 3 Reference Manual](https://reference.digilentinc.com/programmable-logic/basys-3/reference-manual)
   * [Cmod A7 Reference Manual](https://reference.digilentinc.com/programmable-logic/cmod-a7/reference-manual)
 * [Vivado ML Standard Edition](https://www.xilinx.com/products/design-tools/vivado.html) by Xilinx
-  * [Vivado installation](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/README.md)
+  * [Vivado installation](https://github.com/byett/dsd/blob/CPE487-Spring2024/Nexys-A7/README.md)
   * [Board files](https://github.com/Digilent/vivado-boards)
     * [Download board files in ZIP](https://github.com/Digilent/vivado-boards/archive/master.zip)
   * [Tool command language (Tcl)](https://docs.xilinx.com/r/en-US/ug835-vivado-tcl-commands)
-  * [Lab 1](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-1): Seven-Segment Decoder
-  * [Lab 2](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-2): Four-Digit Hex Counter
-  * [Lab 3](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-3): Bouncing Ball
-  * [Lab 4](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-4): Hex Calculator
-  * [Lab 5](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-5): Digital-to-Analog Converter (DAC) Siren
-  * [Lab 6](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-6): Video Game PONG
+  * [Lab 1](https://github.com/byett/dsd/tree/CPE487-Spring2024/Nexys-A7/Lab-1): Seven-Segment Decoder
+  * [Lab 2](https://github.com/byett/dsd/tree/CPE487-Spring2024/Lab-2): Four-Digit Hex Counter
+  * [Lab 3](https://github.com/byett/dsd/tree/CPE487-Spring2024/Lab-3): Bouncing Ball
+  * [Lab 4](https://github.com/byett/dsd/tree/CPE487-Spring2024/Lab-4): Hex Calculator
+  * [Lab 5](https://github.com/byett/dsd/tree/CPE487-Spring2024/Lab-5): Digital-to-Analog Converter (DAC) Siren
+  * [Lab 6](https://github.com/byett/dsd/tree/CPE487-Spring2024/Lab-6): Video Game PONG
 * [What’s different between Vivado and Vitis](https://digilent.com/blog/whats-different-between-vivado-and-vitis/)
   > Vivado offers a hardware-centric approach to designing hardware, while Vitis offers a software-centric approach to developing *both* hardware and software.
 * Digilent Peripheral Modules or [Pmods](https://digilent.com/reference/pmod/start)
@@ -398,7 +398,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [DE0-CV](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=163&No=921)
   * [DE0-Nano](http://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=593) 
 * [Quartus Prime Lite Edition](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/overview.html) by [Intel](https://en.wikipedia.org/wiki/Intel)
-  * [Labs](https://github.com/kevinwlu/dsd/tree/master/DE0-CV)
+  * [Labs](https://github.com/byett/dsd/tree/CPE487-Spring2024/DE0-CV)
 * Cornell [ECE 5760](https://people.ece.cornell.edu/land/courses/ece5760/index.html) Advanced Microcontroller Design and System-on-Chip [Projects](https://people.ece.cornell.edu/land/courses/ece5760/FinalProjects/)
   * [Terasic DE1-SoC](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=836)
 * Georgia Tech [ECE 2031](https://www.ece.gatech.edu/courses/course_outline/ECE2031) Digital Design Laboratory
