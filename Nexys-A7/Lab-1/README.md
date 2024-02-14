@@ -2,9 +2,9 @@
 
 * Built a single-digit (4-bit) hex counter to display its value on eight-digit common anode seven-segment LED displays (See Section 9.1 Seven-Segment Display of the [Reference Manual]( https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf))
 
-![a7.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-1/a7.png)
+![a7.png](https://github.com/byett/dsd/blob/CPE487-Spring2024/Nexys-A7/Lab-1/a7.png)
 
-![7s.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-1/7s.png)
+![7s.png](https://github.com/byett/dsd/blob/CPE487-Spring2024/Nexys-A7/Lab-1/7s.png)
 
 * A '0' on the cathode turns a segment on
 
@@ -53,9 +53,13 @@
 
 * Sources > Constraints > Right click to open, copy, and paste leddec.xdc from the GitHub Raw > Save File
 
+* As an alternative, you can instead download files from Github and import them into your project when creating the project. The source file or files would still be imported during the Source step, and the constraint file or files would still be imported during the Constraints step.
+
 ### 2. Run synthesis
 
-### 3. Run implementation (optional: open implemented design)
+### 3. Run implementation 
+
+### 3b. (optional, generally not recommended as it is difficult to extract information from and can cause Vivado shutdown) Open implemented design
 
 ### 4. Generate bitstream, open hardware manager, and program device
 
@@ -67,15 +71,17 @@
 
 * Click 'Program Device' then xc7a100t_0 to download leddec.runs/impl_1/leddec.bit to the Nexys A7-100T board
 
+* Note: as you make modifications to the code, you may be prompted to re-do this process (synthesis, implementation, and bitstream). You DO have to do this for your new code to take effect.
+
 ### 5. Slide switches on the Nexys A7-100T board
 
-* Slide switches 13, 14, and 15 to determine which display is illuminated (see [modifications](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-1/Modifications))
+* Slide switches 13, 14, and 15 to determine which display is illuminated (see [modifications](https://github.com/byett/dsd/tree/CPE487-Spring2024/Nexys-A7/Lab-1/Modifications))
 
 * Slide switches 0, 1, 2, and 3 to display the value of 4-bit hex digit from 0 to F
 
 * Slide only one switch at a time to display the [Gray code](https://en.wikipedia.org/wiki/Gray_code) from 0 to F, i.e., 0-1-3-2-6-7-5-4-C-d-F-E-A-b-9-8
 
-### 6. Close project
+### 6. Close project (only once completely done with testing)
 
 * File > Close Project
 
@@ -83,7 +89,7 @@
 
 * Build a 4-bit counter to display a hex character
 
-![cnt.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-1/cnt.png)
+![cnt.png](https://github.com/byett/dsd/blob/CPE487-Spring2024/Nexys-A7/Lab-1/cnt.png)
 
 * The counter module builds a 29-bit binary counter cnt clocked by the input clk
 * Bits 25 to 28 generate a 4-bit value count used to drive the LED decoder
@@ -113,9 +119,13 @@
 
 * Sources > Constraints > Right click to open, copy, and paste hexcount.xdc from the GitHub Raw, and save file
 
+* As an alternative, you can instead download files from Github and import them into your project when creating the project. The source file or files would still be imported during the Source step, and the constraint file or files would still be imported during the Constraints step.
+
 ### 2. Run synthesis
 
-### 3. Run implementation and open implemented design
+### 3. Run implementation
+
+### 3b. (optional, generally not recommended as it is difficult to extract information from and can cause Vivado shutdown) Open implemented design
 
 ### 4. Generate bitstream, open hardware manager, and program device
 
@@ -126,6 +136,8 @@
 * Click 'Program Device' then xc7a100t_0 to download hexconter.runs/impl_1/hexcount.bit to the Nexys A7-100T board
 
 * The least significant 7-segment decoder counts cycles from 0 to F
+
+* Note: as you make modifications to the code, you may be prompted to re-do this process (synthesis, implementation, and bitstream). You DO have to do this for your new code to take effect.
 
 ### 5. Close project
 
