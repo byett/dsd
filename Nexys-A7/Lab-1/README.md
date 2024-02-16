@@ -139,6 +139,12 @@
 
 * Note: as you make modifications to the code, you may be prompted to re-do this process (synthesis, implementation, and bitstream). You DO have to do this for your new code to take effect.
 
-### 5. Close project
+### 5. Work on and edit code with the following modifications (this will be your Lab 1 Extension/Submission!)
+
+* Speed up OR slow down the rate at which different hex values appear on the board
+* Some behavior of your choosing to change the location where the hex value appears on your board (rotating through all spots, bouncing back and forth between 2 spots, location controlled by 1 or more switches, etc.)
+  * This is expected to be a "live" change (aka something that occurs as the program is running, not just an initial change to the code that changes the location only at the start of the program) 
+
+### 6. Close project (only once completely done with testing)
 
 * File > Close Project
