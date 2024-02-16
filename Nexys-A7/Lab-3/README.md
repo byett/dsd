@@ -50,9 +50,13 @@
 
 * Click constraints and copy the code from vga_top.xdc
 
+* As an alternative, you can instead download files from Github and import them into your project when creating the project. The source file or files would still be imported during the Source step, and the constraint file or files would still be imported during the Constraints step.
+
 ### 2. Run synthesis
 
-### 3. Run implementation and open implemented design
+### 3. Run implementation
+
+### 3b. (optional, generally not recommended as it is difficult to extract information from and can cause Vivado shutdown) Open implemented design
 
 ### 4. Generate bitstream, open hardware manager, and program device
 
