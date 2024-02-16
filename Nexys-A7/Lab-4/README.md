@@ -2,7 +2,7 @@
 
 * Program the FPGA on the Nexys A7-100T board to function as a simple hexadecimal calculator capable of adding and subtracting four-digit hexadecimal numbers using a 16-button keypad module ([Pmod KYPD](https://store.digilentinc.com/pmod-kypd-16-button-keypad/)) connected to the Pmod port JA (See Section 10 of the [Reference Manual](https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf)) directly or via an optional [2x6-pin cable](https://digilent.com/shop/2x6-pin-pmod-cable/) with three dots (or VDD/GND) facing up on both ends
 
-![kypd.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-4/kypd.png)
+![kypd.png](https://github.com/byett/dsd/blob/CPE487-Spring2024/Nexys-A7/Lab-4/kypd.png)
 
 * The top level source module is called **_hexcalc_** that
   * Creates an instance of the keypad interface and 7-segment decoder interface modules
@@ -10,7 +10,7 @@
   * Has a timing process to generate [clock signals](https://en.wikipedia.org/wiki/Clock_signal) for the keypad, display multiplexer, and [finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine)
   * Implements a finite-state machine for the operations of the calculator in response to button pushes
 
-![hexcalc.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-4/hexcalc.png)
+![hexcalc.png](https://github.com/byett/dsd/blob/CPE487-Spring2024/Nexys-A7/Lab-4/hexcalc.png)
 
 * The finite-state machine uses a number of variables to keep track of the addition operation
   * The variable _acc_ is an accumulator that holds the current summation result
@@ -43,9 +43,13 @@
 
 * Click constraints and copy the code from hexcalc.xdc
 
+* As an alternative, you can instead download files from Github and import them into your project when creating the project. The source file or files would still be imported during the Source step, and the constraint file or files would still be imported during the Constraints step.
+
 ### 2. Run synthesis
 
-### 3. Run implementation and open implemented design
+### 3. Run implementation
+
+### 3b. (optional, generally not recommended as it is difficult to extract information from and can cause Vivado shutdown) Open implemented design
 
 ### 4. Generate bitstream, open hardware manager, and program device
 
@@ -57,7 +61,7 @@
 
 ### 5. Use keypad and buttons
 
-* Enter a multi-digit hex number using the keypad one character at a time to appear on the 7-segment displays
+* Enter a multi-digit hex (yes, it is specifically hexadecimal!) number using the keypad one character at a time to appear on the 7-segment displays
 
 * Enter the first operand, press the “+” key (BTNU)
 
@@ -67,20 +71,16 @@
 
 ### 6. Edit code with the following modifications
 
-#### A) Edit the leddec16 module to perform leading zero suppression
+#### A) Perform leading zero suppression
 
 * With the leading zeros suppressed, the number “0023” appears as “23” 
 
 * Hint: You can turn off any digit in the display by never taking its anode to ‘0’
 
-* Modify the “anode <=” conditional assignment statement in leddec16 so that it only turns on a particular digit if it is non-zero or if there is non-zero information in the higher order digits of the data word
+* Modify a particular assignment statement so that it only turns on a particular digit if it is non-zero or if there is non-zero information in the higher order digits of the data word
 
 #### B) Expand the calculator to also do subtraction operations
 
 * Use the button BTND (pin P18 on the Nexys A7-100T board) as the “–” key
 
-* Hint: Modify the ENTER_ACC state to also test for the “–” key being depressed
-
-* Create a new signal to record whether the “+” key or the “–” key was pushed
-
-* Then, when in state ENTER_OP and the “=” key is pressed, test the new signal to determine whether to do an addition or a subtraction
+* Hint: Modify the ENTER_ACC state to also test for the “–” key being depressed, then follow a similar procedure as for addition
