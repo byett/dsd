@@ -2,11 +2,11 @@
 
 * Build a four-digit (16-bit) [counter](https://en.wikipedia.org/wiki/Counter_(digital)) to display its value on 7-segment displays (See Section 9.1 Seven-Segment Display of the [Refenece Manual](https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf))
 
-![mpx.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-2/mpx.png)
+![mpx.png](https://github.com/byett/dsd/blob/CPE487-Spring2024/Nexys-A7/Lab-2/mpx.png)
 
-![counter.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-2/counter.png)
+![counter.png](https://github.com/byett/dsd/blob/CPE487-Spring2024/Nexys-A7/Lab-2/counter.png)
 
-![hexcount.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-2/hexcount.png)
+![hexcount.png](https://github.com/byett/dsd/blob/CPE487-Spring2024/Nexys-A7/Lab-2/hexcount.png)
 
 * The counter module generates a 16-bit count value using bits 23 to 38 of the 39-bit binary counter at a frequency of 100 MHz / 2<sup>23</sup> ≈ 12 Hz with a complete cycle taking approximately 16<sup>4</sup> / 12 ≈ 5461 seconds or 91 minutes
 
@@ -40,11 +40,13 @@
 
 * Click constraints, copy hexcount.xdc from the GitHub Raw, and save file
 
+* As an alternative, you can instead download files from Github and import them into your project when creating the project. The source file or files would still be imported during the Source step, and the constraint file or files would still be imported during the Constraints step.
+
 ### 2. Run synthesis
 
 ### 3. Run implementation
 
-### 4. Open implemented design
+### 3b. (optional, generally not recommended as it is difficult to extract information from and can cause Vivado shutdown) Open implemented design
 
 * Tools > Edit Device Properties > Configuration Modes > Check "Master SPI x1"
 
@@ -57,6 +59,8 @@
 * Click 'Program Device' then xc7a100t_0 to download hex4counter.runs/impl_1/hexcount.bit to the Nexys A7-100T board
 
 * The four digit counter counts from 0000 to FFFF (see [Modifications](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-2/Modifications) for an eight-digit counter)
+
+* Note: as you make modifications to the code, you may be prompted to re-do this process (synthesis, implementation, and bitstream). You DO have to do this for your new code to take effect.
 
 ### 6. Generate and boot from configuration memory, and close project
 
@@ -92,6 +96,16 @@
 
 * POWER OFF > POWER ON > Wait for 10 seconds > The counter starts
 
-![hexcounter.gif](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-2/hexcounter.gif)
+![hexcounter.gif](https://github.com/byett/dsd/blob/CPE487-Spring2024/Nexys-A7/Lab-2/hexcounter.gif)
 
 * POWER OFF > Move the blue MODE jumper on the board from QSPI to JTAG
+### The above is important so that you can successfully re-reprogram the board next time!
+
+### 7. Work on and edit code with the following modifications (this will be your Lab 2 Extension/Submission!)
+
+* On paper, create a FSM (either Moore or Mealy) that recognizes a sequence of inputs. The sequence should be at least 5 bits in length and should flip between 0 and 1 exactly one time.
+* Using one of the simulation tools available to us, create the code required to replicate the FSM you designed. Test that it behaves appropriately using a testbench. You are free to pull from programs created during the course to aid you.
+* Incorporate the core code of your FSM into the code of Lab 2 in Vivado. This should be done in the "counter" file as it already incorporates a clock and as the direction of the counter can be reversed as part of this code. Choose one of the bits of the "cnt" signal as the "input" to your FSM. The output of your FSM should modify the direction of the counter (so for example, when your output becomes 1, your counter switches from counting up to counting down or vice versa).
+* A short answer on your thoughts as to why we have the "only flip between 0 and 1 one time" requirement and what might happen if we did not have that requirement.
+* Other specifics of this intentionally left open-ended to allow for different approaches, but ask questions if you are unsure about these instructions or anything left unsaid!
+
