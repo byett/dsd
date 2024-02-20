@@ -9,27 +9,27 @@ ARCHITECTURE behavior OF TFF_tb IS
 
     COMPONENT TFF
     PORT(
-         din : IN  std_logic;
+         T : IN  std_logic;
          clk : IN  std_logic;
          rst : IN  std_logic;
-         dout : OUT  std_logic
+         Q : OUT  std_logic
         );
     END COMPONENT;
     
-   signal din : std_logic := '0';
+   signal T : std_logic := '0';
    signal clk : std_logic := '0';
    signal rst : std_logic := '0';
-   signal dout : std_logic;
+   signal Q : std_logic;
 
    constant clk_period : time := 10 ns;
 
 BEGIN
 
    uut: TFF PORT MAP (
-          din => din,
+          T => T,
           clk => clk,
           rst => rst,
-          dout => dout
+          Q => Q
         );
 
   clk_process :process
@@ -50,11 +50,11 @@ BEGIN
   wait for 50 ns; 
 
   rst <= '0';
-  din <= '0';
+  T <= '0';
   wait for 50 ns;
   
   rst <= '0';
-  din <= '1';  
+  T <= '1';  
   wait for 50 ns;
 
   rst <= '1';
