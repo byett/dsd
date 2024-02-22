@@ -70,9 +70,13 @@ Program the FPGA on the Nexys A7-100T board to generate a wailing audio siren us
 
 * Click constraints and copy the code from siren.xdc
 
+* As an alternative, you can instead download files from Github and import them into your project when creating the project. The source file or files would still be imported during the Source step, and the constraint file or files would still be imported during the Constraints step.
+
 ### 2. Run synthesis
 
-### 3. Run implementation and open implemented design
+### 3. Run implementation
+
+### 3b. (optional, generally not recommended as it is difficult to extract information from and can cause Vivado shutdown) Open implemented design
 
 ### 4. Generate bitstream, open hardware manager, and program device
 
@@ -82,7 +86,7 @@ Program the FPGA on the Nexys A7-100T board to generate a wailing audio siren us
 
 * Click 'Program Device' then xc7a100t_0 to download siren.bit to the Nexys A7-100T board
 
-### 5. Work on and edit code with the following modifications (this will be your Fifth Lab Extension/Submission!)
+### 5. Work on and edit code with the following modifications (depending on when you do this, it will be your Fourth, Fifth, or Sixth Lab Extension/Submission!)
 
 #### A) Incorporate a square wave
 
