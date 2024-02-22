@@ -69,7 +69,7 @@
 
 * Press the “clear” key (BTNC) to set the result on the display to zero
 
-### 6. Edit code with the following modifications
+### 6. Work on and edit code with the following modifications (depending on when you do this, it will be your Fourth, Fifth, or Sixth Lab Extension/Submission!)
 
 #### A) Perform leading zero suppression
 
