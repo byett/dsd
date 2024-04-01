@@ -39,7 +39,7 @@ ARCHITECTURE Behavioral OF pong IS
             serve : IN STD_LOGIC;
             red : OUT STD_LOGIC;
             green : OUT STD_LOGIC;
-            blue : OUT STD_LOGIC;
+            blue : OUT STD_LOGIC
         );
     END COMPONENT;
     COMPONENT vga_sync IS
@@ -94,7 +94,7 @@ BEGIN
         serve => btn0, 
         red => S_red, 
         green => S_green, 
-        blue => S_blue,
+        blue => S_blue
     );
     
     vga_driver : vga_sync
