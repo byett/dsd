@@ -3,17 +3,28 @@
 * [Brilliant.org](https://www.youtube.com/c/BrilliantOrg)
 * [ForrestKnight](https://www.youtube.com/@fknight/) by [Forrest Knight](https://www.linkedin.com/in/forrestpknight/) | [GitHub](https://github.com/ForrestKnight)
 * [Up and Atom](https://www.youtube.com/@upandatom) by [Jade Tan-Holmes](https://www.linkedin.com/in/jade-tan-holmes-2b6846175/)
-##
+---
+* [Computer (occupation)](https://en.wikipedia.org/wiki/Computer_(occupation))
+* [Computer](https://en.wikipedia.org/wiki/Computer)
+* [List of pioneers in computer science](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
+* [Charles Babbage](https://en.wikipedia.org/wiki/Charles_Babbage) 1791&mdash;1871
+* [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) 1815&mdash;1852
+* [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) 1903&mdash;1957
+* [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) 1912&mdash;1954
+* [Seymour Cray](https://en.wikipedia.org/wiki/Seymour_Cray) 1925&mdash;1996
+  * [Cray](https://en.wikipedia.org/wiki/Cray)
+* [Gordon Bell](https://en.wikipedia.org/wiki/Gordon_Bell) 1934&mdash;2024
 * [High-performance computing](https://en.wikipedia.org/wiki/High-performance_computing) (HPC)
 * [Parallel computing](https://en.wikipedia.org/wiki/Parallel_computing)
 * [Message Passing Interface](https://en.wikipedia.org/wiki/Message_Passing_Interface) (MPI)
 * [Open MPI](https://en.wikipedia.org/wiki/Open_MPI)
-##
+---
 * [Artificial neural network](https://en.wikipedia.org/wiki/Artificial_neural_network) (ANN)
 * [Backpropagation through time](https://en.wikipedia.org/wiki/Backpropagation_through_time) (BPTT)
 * [Cochleagram](https://en.wiktionary.org/wiki/cochleagram)
 * [Cognitive computer](https://en.wikipedia.org/wiki/Cognitive_computer)
 * [Computational auditory scene analysis](https://en.wikipedia.org/wiki/Computational_auditory_scene_analysis) (CASA)
+* [Deadlock](https://en.wikipedia.org/wiki/Deadlock)
 * [Echo state network](https://en.wikipedia.org/wiki/Echo_state_network) (ESN)
 * [Electro-optic modulator](https://en.wikipedia.org/wiki/Electro-optic_modulator) (EOM)
 * [Fabry–Pérot interferometer](https://en.wikipedia.org/wiki/Fabry%E2%80%93P%C3%A9rot_interferometer) (FPI)
@@ -35,6 +46,7 @@
 * [Mackey–Glass equations](https://en.wikipedia.org/wiki/Mackey%E2%80%93Glass_equations)
 * [MNIST database](https://en.wikipedia.org/wiki/MNIST_database)
 * [Optical attenuator](https://en.wikipedia.org/wiki/Optical_attenuator)
+* [Optical interconnect](https://en.wikipedia.org/wiki/Optical_interconnect)
 * [P versus NP problem](https://en.wikipedia.org/wiki/P_versus_NP_problem)
   * [List of unsolved problems in computer science](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science)
 * [Phase shift module](https://en.wikipedia.org/wiki/Phase_shift_module)

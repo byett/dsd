@@ -35,6 +35,7 @@ Computer Engineering CPE 487
 
 ## DSD Fundamentals
 
+* [A Symbolic Analysis of Relay and Switching Circuits](https://en.wikipedia.org/wiki/A_Symbolic_Analysis_of_Relay_and_Switching_Circuits) 1938 by [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) 1916&mdash;2001
 * [Bit numbering](https://en.wikipedia.org/wiki/Bit_numbering)
   * [Bit](https://en.wikipedia.org/wiki/Bit)
   * [Nibble](https://en.wikipedia.org/wiki/Nibble), half-byte, or quadbit
@@ -54,7 +55,10 @@ Computer Engineering CPE 487
   * [Three-valued logic](https://en.wikipedia.org/wiki/Three-valued_logic)
 * [IEEE 754](https://en.wikipedia.org/wiki/IEEE_754) Standard for [Floating-Point Arithmetic](https://en.wikipedia.org/wiki/Floating-point_arithmetic)
   * [Significand](https://en.wikipedia.org/wiki/Significand)
+  * [Single-precision floating-point format](https://en.wikipedia.org/wiki/Single-precision_floating-point_format)
   * [Double-precision floating-point format](https://en.wikipedia.org/wiki/Double-precision_floating-point_format)
+  * [Quadruple-precision floating-point format](https://en.wikipedia.org/wiki/Quadruple-precision_floating-point_format)
+  * [Minifloat](https://en.wikipedia.org/wiki/Minifloat)
 * [Floating point operations per second](https://en.wikipedia.org/wiki/FLOPS) (FLOPS)
   * [Petascale computing](https://en.wikipedia.org/wiki/Petascale_computing)
   * [Exascale computing](https://en.wikipedia.org/wiki/Exascale_computing)
@@ -113,6 +117,7 @@ Computer Engineering CPE 487
 * [Random-access memory](https://en.wikipedia.org/wiki/Random-access_memory) (RAM)
   * [64GB DDR4-3200 PC4-25600 2Rx4 RDIMM ECC Registered Memory by NEMIX RAM](https://www.amazon.com/DDR4-3200-PC4-25600-RDIMM-Registered-Memory/dp/B081K8X1N3)
 * [Dynamic random-access memory](https://en.wikipedia.org/wiki/Dynamic_random-access_memory) (DRAM)
+  * [Robert H. Dennard](https://en.wikipedia.org/wiki/Robert_H._Dennard) 1932&mdash;2024
 * [Resistive random-access memory](https://en.wikipedia.org/wiki/Resistive_random-access_memory) (ReRAM or RRAM)
 * [Reduced Latency DRAM](https://en.wikipedia.org/wiki/RLDRAM) (RLDRAM)
 * [Memristor](https://en.wikipedia.org/wiki/Memristor)
@@ -174,6 +179,9 @@ Computer Engineering CPE 487
 * [Hardware acceleration](https://en.wikipedia.org/wiki/Hardware_acceleration)
   * [AI accelerator](https://en.wikipedia.org/wiki/AI_accelerator) or neural processing unit (NPU)
   * [Printed circuit board](https://en.wikipedia.org/wiki/Printed_circuit_board) (PCB)
+    * [*Fundamentals of Printed Circuit Board Technologies*](https://asc-i.com/fundamentals-pcb-tech/download-e-book) by [American Standard Circuits](https://asc-i.com/)
+    * [Gerber format](https://en.wikipedia.org/wiki/Gerber_format) is named after [Heinz Joseph Gerber](https://en.wikipedia.org/wiki/Joseph_Gerber) 1924&mdash;1996
+    * [Microstrip](https://en.wikipedia.org/wiki/Microstrip)
   * [Eurocard](https://en.wikipedia.org/wiki/Eurocard_(printed_circuit_board))
   * [Advanced Technology eXtended](https://en.wikipedia.org/wiki/ATX) (ATX)
   * [Nano-ITX](https://en.wikipedia.org/wiki/Nano-ITX)
@@ -183,8 +191,10 @@ Computer Engineering CPE 487
   * [Open Compute Project](https://en.wikipedia.org/wiki/Open_Compute_Project) (OCP)
   * [Open Rack](https://en.wikipedia.org/wiki/Open_Rack)
 * [Central processing unit](https://en.wikipedia.org/wiki/Central_processing_unit) (CPU)
+  * [CPU socket](https://en.wikipedia.org/wiki/CPU_socket)
   * [AMD WRX80 Motherboard64GB RAM ](https://www.gigabyte.com/Motherboard/WRX80-SU8-IPMI-rev-10#kf)
   * [AMD Ryzen Threadripper PRO 3955WX 16-core, 32-thread desktop processor](https://www.amazon.com/AMD-Ryzen-Threadripper-PRO-3955WX/dp/B08V5J11BD)
+* [Data processing unit](https://en.wikipedia.org/wiki/Data_processing_unit) (DPU)
 * [Graphical processing unit](https://en.wikipedia.org/wiki/Graphics_processing_unit) (GPU)
   * [FPGA vs. GPU, What to Choose?](https://hardwarebee.com/fpga-vs-gpu-choose/)
   * [FPGA vs. GPU for Deep Learning](https://www.intel.com/content/www/us/en/artificial-intelligence/programmable/fpga-gpu.html)
@@ -218,7 +228,7 @@ Computer Engineering CPE 487
 * [VHDL](https://en.wikipedia.org/wiki/VHDL) (VHSIC HDL)
 * Textbook: [Free Range VHDL, 2019 Edition](/free_range_vhdl_2019.pdf) 
 by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fabrizio Tappero](https://github.com/fabriziotappero)
-  > Page 7: "Modeling digital circuits with VHDL is a form of modern digital design distinct from schematic-based approaches."\
+  > Page 7: "Modeling digital circuits with VHDL is a form of modern digital design distinct from [schematic](https://en.wikipedia.org/wiki/Schematic)-based approaches."\
   > Page 120: "The tendency at this juncture in your VHDL programming career is to use some type of [schematic capture](https://en.wikipedia.org/wiki/Schematic_capture) software instead of learning the structural modeling approach. The fact is that no one of consequence uses the schematic capture software these days even though it is taught in many university textbooks. The funny part about this entire process is that the schematic capture software is a tool that allows you to visually represent circuits but in the end generates VHDL code (the only thing the synthesizer understands is VHDL code)."\
   > Page 131: “Digital design using schematic capture is an outdated approach: you should resist the inclination and/or directive at all costs.”\
   > Page 173: "After years of development by the US Department of Defense, in February 1986 all VHDL rights were transferred to the Institute of Electrical and Electronics Engineers (IEEE) which since then has carried on the process of standardization of the language.
@@ -352,6 +362,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
 * [Kastner Research Group](https://kastner.ucsd.edu/) (KRG), UC San Diego
 * [FPGARelated.com](https://www.fpgarelated.com/)
 * [Enclustra](https://www.enclustra.com/en/home/)
+  * [Design-in Kit Mercury XU5](https://www.enclustra.com/design-in-kit)
   * [Universal DSP Library](https://www.enclustra.com/en/products/ip-cores/universal-dsp-library/)
 * [FPGA Developer](https://www.fpgadeveloper.com/) by [Jeff Johnson](https://github.com/fpgadeveloper)
 * [Adam Taylor](https://www.hackster.io/adam-taylor)
@@ -381,15 +392,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [Lab 6](https://github.com/byett/dsd/tree/CPE487-Spring2024/Nexys-A7/Lab-6): Video Game PONG
 * [What’s different between Vivado and Vitis](https://digilent.com/blog/whats-different-between-vivado-and-vitis/)
   > Vivado offers a hardware-centric approach to designing hardware, while Vitis offers a software-centric approach to developing *both* hardware and software.
-* Digilent Peripheral Modules or [Pmods](https://digilent.com/reference/pmod/start)
-  * Lab 4: 16-button Keypad [Pmod KYPD](https://digilent.com/shop/pmod-kypd-16-button-keypad/) with optional [2x6-pin](https://digilent.com/shop/2x6-pin-pmod-cable/) cable
-  * Lab 5: Inter-IC Sound [Pmod I2S](https://reference.digilentinc.com/reference/pmod/pmodi2s/start) has been replaced with [Pmod I2S2](https://digilent.com/shop/pmod-i2s2-stereo-audio-input-and-output/)
-  * Lab 6: Two 12-bit analog-to-digital converter [Pmod AD1](https://digilent.com/shop/pmod-ad1-two-12-bit-a-d-inputs/) with [6-pin](https://digilent.com/shop/pmod-cable-kit-6-pin/) cable and a 5k&Omega; potentiometer
-  * [Pmod DA3](https://digilent.com/shop/pmod-da3-one-16-bit-d-a-output/) 16-bit digital-to-analog converter
-  * [Pmod DHB1](https://digilent.com/shop/pmod-dhb1-dual-h-bridge/) dual H-bridge motor driver
-  * [Pmod DPOT](https://digilent.com/shop/pmod-dpot-digital-potentiometer/) digital potentiometer
-  * [Pmod JSTK2](https://digilent.com/shop/pmod-jstk2-two-axis-joystick/) two-axis joystick
-  * Columbia University [EE E3082 - Digital Electronics Laboratory](https://www.bioee.ee.columbia.edu/courses/ee3082/) by Prof. [Ken Shepard](https://en.wikipedia.org/wiki/Kenneth_L_Shepard)
+* Columbia University [EE E3082 - Digital Electronics Laboratory](https://www.bioee.ee.columbia.edu/courses/ee3082/) by Prof. [Ken Shepard](https://en.wikipedia.org/wiki/Kenneth_L_Shepard)
 
 ### Intel Altera
 * [Intel](https://en.wikipedia.org/wiki/Intel)

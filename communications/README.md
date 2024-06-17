@@ -1,11 +1,19 @@
 # Communications
 ## YouTube Channels
 * [Zach Star](https://www.youtube.com/@zachstar) by [Zachary Star](https://www.linkedin.com/in/zachary-s-777033ab/)
+* [Iain Explains Signals, Systems, and Digital Communications](https://www.youtube.com/@iain_explains) by Professor [Iain Collings](https://www.iaincollings.com/)
+* [Signals and Systems](https://www.youtube.com/playlist?app=desktop&list=PLXOYj6DUOGrrAlYxrAu5U2tteJTrSe5Gt)
+* [Fourier transform](https://www.youtube.com/playlist?app=desktop&list=PLBlnK6fEyqRhkN2yGQpH40Pk-paIJzzvv)
+  * [Joseph Fourier](https://en.wikipedia.org/wiki/Joseph_Fourier) 1768&mdash;1830
 ##
 * [Complex Variables With Applications](https://ocw.mit.edu/courses/18-04-complex-variables-with-applications-spring-2018/) by [Jeremy Orloff](https://kleinex.mit.edu/directory/profile.html?pid=1369)
 * [Complex analysis](https://en.wikipedia.org/wiki/Complex_analysis)
 * [Taylor series](https://en.wikipedia.org/wiki/Taylor_series)
+  * [Taylor's theorem](https://en.wikipedia.org/wiki/Taylor%27s_theorem)
+  * [Brook Taylor](https://en.wikipedia.org/wiki/Brook_Taylor) 1685&mdash;1731
 * [Laurent series](https://en.wikipedia.org/wiki/Laurent_series)
+  * [Laurent polynomial](https://en.wikipedia.org/wiki/Laurent_polynomial)
+  * [Pierre Alphonse Laurent](https://en.wikipedia.org/wiki/Pierre_Alphonse_Laurent) 1813&mdash;1854
 * [Cauchy's integral theorem](https://en.wikipedia.org/wiki/Cauchy%27s_integral_theorem)
   * [Augustin-Louis Cauchy](https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy) 1789&mdash;1857
 * [Residue theorem](https://en.wikipedia.org/wiki/Residue_theorem)
@@ -13,11 +21,35 @@
   * [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) 1749&mdash;1827
 * [*Alice's Adventures in Wonderland*](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland) by [Lewis Carroll](https://en.wikipedia.org/wiki/Lewis_Carroll) 1832&mdash;1898
 * [Last mile](https://en.wikipedia.org/wiki/Last_mile_(telecommunications))
+---
+* [Chemical-mechanical polishing](https://en.wikipedia.org/wiki/Chemical-mechanical_polishing) (CMP)
+* [Extinction ratio](https://en.wikipedia.org/wiki/Extinction_ratio)
+* [Fabry–Pérot interferometer](https://en.wikipedia.org/wiki/Fabry%E2%80%93P%C3%A9rot_interferometer)
+* [Hydrogen silsesquioxane](https://en.wikipedia.org/wiki/Hydrogen_silsesquioxane) (HSQ)
+* [Inductively coupled plasma](https://en.wikipedia.org/wiki/Inductively_coupled_plasma) (ICP)
+  * [Capacitively coupled plasma](https://en.wikipedia.org/wiki/Capacitively_coupled_plasma) (CCP)
+* [Ion milling machine](https://en.wikipedia.org/wiki/Ion_milling_machine)
+* [Lithium niobate](https://en.wikipedia.org/wiki/Lithium_niobate)
+* [Plasma-enhanced chemical vapor deposition](https://en.wikipedia.org/wiki/Plasma-enhanced_chemical_vapor_deposition) (PECVD)
+* [Q factor](https://en.wikipedia.org/wiki/Q_factor)
+* [Spectral power distribution](https://en.wikipedia.org/wiki/Spectral_power_distribution) (SPD)
+## Telecommunications
+* [Telecommunications](https://en.wikipedia.org/wiki/Telecommunications)
+* [Morse code](https://en.wikipedia.org/wiki/Morse_code) by [Samuel Morse](https://en.wikipedia.org/wiki/Samuel_Morse) 1791&mdash;1872
+* [Baudot code](https://en.wikipedia.org/wiki/Baudot_code) by [Émile Baudot](https://en.wikipedia.org/wiki/%C3%89mile_Baudot) 1845&mdash;1903
+* [Baud](https://en.wikipedia.org/wiki/Baud)
+* [Erlang](https://en.wikipedia.org/wiki/Erlang_(unit))
+  * [Agner Krarup Erlang](https://en.wikipedia.org/wiki/Agner_Krarup_Erlang) 1878&mdash;1929
+* [Telephone](https://en.wikipedia.org/wiki/Telephone) by [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell) 1847&mdash;1922
+* [Original North American area codes](https://en.wikipedia.org/wiki/Original_North_American_area_codes)
 ## Information Theory
 * [A Mathematical Theory of Communication](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication) by [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) 1916&mdash;2001
 * [Entropy (information theory)](https://en.wikipedia.org/wiki/Entropy_(information_theory))
 * [Nyquist–Shannon sampling theorem](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem)
+  * [Harry Nyquist](https://en.wikipedia.org/wiki/Harry_Nyquist) 1889&mdash;1976
+  * [Nyquist frequency](https://en.wikipedia.org/wiki/Nyquist_frequency)
 * [Shannon–Hartley theorem](https://en.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem)
+  * [Ralph Hartley](https://en.wikipedia.org/wiki/Ralph_Hartley) 1888&mdash;1970
 ## Coding Theory
 * [Coding theory](https://en.wikipedia.org/wiki/Coding_theory)
 * [Hamming code](https://en.wikipedia.org/wiki/Hamming_code) by [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming) 1915&mdash;1998

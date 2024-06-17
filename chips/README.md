@@ -34,16 +34,24 @@
 * [Microchip](https://en.wikipedia.org/wiki/Microchip_Technology)
   * [Atmel](https://en.wikipedia.org/wiki/Atmel)
   * [Microchip Studio](https://www.microchip.com/en-us/education/developer-help/learn-tools-software/mcu-mpu/studio)
+  * [PolarFire](https://www.microchip.com/en-us/products/fpgas-and-plds/fpgas/polarfire-fpgas)
+    * [GitHub repositories](https://github.com/polarfire-soc)
 * [Nordic Semiconductor](https://en.wikipedia.org/wiki/Nordic_Semiconductor)
   * [nRF7002](https://www.nordicsemi.com/Products/nRF7002)
 * [NVIDIA graphics processing units](https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units)
   * [NVIDIA GPU Technology Conference](https://en.wikipedia.org/wiki/Nvidia_GTC) (GTC)
-  * S. K. Moore, ["The Secret to Nvidia’s AI Success,"](https://spectrum.ieee.org/nvidia-gpu) *IEEE Spectrum*, September 7, 2023
+  * [NVIDIA DGX](https://en.wikipedia.org/wiki/Nvidia_DGX)
+  * S. K. Moore, ["The Secret to NVIDIA’s AI Success,"](https://spectrum.ieee.org/nvidia-gpu) *IEEE Spectrum*, September 7, 2023
   * [GeForce GTX 16 Series](https://www.nvidia.com/en-us/geforce/graphics-cards/16-series/)
   * [GeForce RTX 20 Series](https://www.nvidia.com/en-us/geforce/20-series/)
   * [GeForce RTX 30 Series](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/)
   * [GeForce RTX 40 Series](https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/)
   * [NVIDIA H100 Tensor Core GPU](https://www.nvidia.com/en-us/data-center/h100/)
+  * [NVIDIA Nsight Systems](https://developer.nvidia.com/nsight-systems) performance analysis tool
+  * [NVIDIA Nsight Visual Studio Edition](https://developer.nvidia.com/nsight-visual-studio-edition) (VSE) to build and debug integrated GPU kernels and native CPE code as well as inspect the state of the GPU and memory
+  * [Hopper](https://en.wikipedia.org/wiki/Hopper_(microarchitecture))
+  * [David Blackwell](https://en.wikipedia.org/wiki/David_Blackwell) 1919&mdash;2010
+  * [NVIDIA Omniverse](https://en.wikipedia.org/wiki/Nvidia_Omniverse)
 * [NXP](https://en.wikipedia.org/wiki/List_of_NXP_products)
   * [MIFARE](https://en.wikipedia.org/wiki/MIFARE)
 * [Qualcomm](https://en.wikipedia.org/wiki/Qualcomm)

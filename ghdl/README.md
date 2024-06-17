@@ -34,7 +34,9 @@ $ sudo make install
  * At the end of this process, the executables you need should be "C:\eda\ghdl\bin\ghdl" and "C:\eda\gtkwave\bin\gtkwave" if you have any issues with the Path
 
 ## On macOS, download [GHDL](https://github.com/ghdl/ghdl/releases) and [GTKWave](https://sourceforge.net/projects/gtkwave/files)
-
+> [Use Homebrew to install GTKWave](https://formulae.brew.sh/cask/gtkwave)\
+> [Compatibility issue](https://github.com/gtkwave/gtkwave/issues/250)\
+> [Fliplot](https://github.com/raczben/fliplot) is an alternative to GTKWave, implemented in HTML, JavaScript, and Python
 * Open a Terminal
 ```sh
 $ cd Downloads

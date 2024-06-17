@@ -1,9 +1,11 @@
 # Tools
 ## YouTube Channels
+* [American Standard Circuits](https://www.youtube.com/@americanstandardcircuits8780) 77-Second Webinars
 * [Nandland](https://www.youtube.com/@Nandland) by [Russell Merrick](https://www.linkedin.com/in/russell-merrick-6058b34)
+* [Phil's Lab](https://www.youtube.com/@PhilsLab) by [Philip Salmony](https://github.com/pms67)
 * [Simple Tutorials for Embedded Systems](https://www.youtube.com/@SimplyEmbedded) by [Greidi Ajalik](https://www.linkedin.com/in/greidi-ajalik/) 
   * [Greidi Ajalik](https://www.youtube.com/c/GreidiAjalik)
-* [w2aew](https://www.youtube.com/@w2aew) by [Alan Wolke](https://www.linkedin.com/in/alan-wolke-68a0292)
+* [w2aew](https://www.youtube.com/@w2aew) by [Alan Wolke](https://www.linkedin.com/in/alan-wolke-68a0292), [Radio Frequency](https://en.wikipedia.org/wiki/Radio_frequency) (RF) [Applications Engineer](https://en.wikipedia.org/wiki/Applied_engineering_(field)) at [Tektronix](https://en.wikipedia.org/wiki/Tektronix)
 ## Documentation
 * [Overleaf electronics templates](https://www.overleaf.com/latex/templates/tagged/electronics)
 * [Q-circuit](https://physics.unm.edu/CQuIC/Qcircuit/)
@@ -43,6 +45,9 @@
 * [Specctra](https://en.wikipedia.org/wiki/Specctra)
 * [XFdtd](https://en.wikipedia.org/wiki/XFdtd) X (Window System) Finite Difference Time Domain (FDTD)
   * [Finite-difference time-domain method](https://en.wikipedia.org/wiki/Finite-difference_time-domain_method)
+## Optical Systems
+* [Ansys](https://en.wikipedia.org/wiki/Ansys)
+  * [Zemax](https://en.wikipedia.org/wiki/Zemax)
 ## Test Equipment
 * [Automatic test equipment](https://en.wikipedia.org/wiki/Automatic_test_equipment) (ATE)
 * [Electronic test equipment](https://en.wikipedia.org/wiki/Electronic_test_equipment)
@@ -93,7 +98,7 @@
   * [Keysight E3634A 200W Power Supply, 25V, 7A or 50V, 4A](https://www.keysight.com/us/en/support/E3634A/200w-power-supply-25v-7a-50v-4a.html) in the Software Engineering Lab
 * [Signal generator](https://en.wikipedia.org/wiki/Signal_generator)
   * [Agilent 8648B Synthesized RF Signal Generator, 9 kHz to 2000 MHz](https://www.keysight.com/us/en/support/8648B/synthesized-rf-signal-generator-9-khz-to-2000-mhz.html)
-* [Spectrum Analyzer](https://en.wikipedia.org/wiki/Spectrum_analyzer)
+* [Spectrum analyzer](https://en.wikipedia.org/wiki/Spectrum_analyzer)
   * [Agilent E4401B ESA-E Spectrum Analyzer, 9 kHz to 1.5 GHz](https://www.keysight.com/us/en/support/E4401B/esae-spectrum-analyzer-9-khz-to-15-ghz.html)
   * [Agilent E4411B ESA-L Basic Spectrum Analyzer, 9 kHz to 1.5 GHz (50-ohm)](https://www.keysight.com/us/en/support/E4411B/esa-l-basic-spectrum-analyzer-9khz-1-5ghz.html)
-  * [Tektronix RSA306B USB spectrum/signal analyzer](https://www.tek.com/en/products/spectrum-analyzers/rsa306) was a loaner returned to Tektronix
+  * [Tektronix RSA306B USB Spectrum Analyzer, 9 kHz to 6.2 GHz](https://www.tek.com/en/products/spectrum-analyzers/rsa306) was a loaner returned to Tektronix
