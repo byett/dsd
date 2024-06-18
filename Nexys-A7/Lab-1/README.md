@@ -4,7 +4,7 @@
 
 ![a7.png](a7.png)
 
-![7s.png](https://github.com/byett/dsd/blob/CPE487-Spring2024/Nexys-A7/Lab-1/7s.png)
+![7s.png](7s.png)
 
 * A '0' on the cathode turns a segment on
 
@@ -75,7 +75,7 @@
 
 ### 5. Slide switches on the Nexys A7-100T board
 
-* Slide switches 13, 14, and 15 to determine which display is illuminated (see [modifications](https://github.com/byett/dsd/tree/CPE487-Spring2024/Nexys-A7/Lab-1/Modifications))
+* Slide switches 13, 14, and 15 to determine which display is illuminated (see [modifications](/Modifications))
 
 * Slide switches 0, 1, 2, and 3 to display the value of 4-bit hex digit from 0 to F
 
@@ -89,7 +89,7 @@
 
 * Build a 4-bit counter to display a hex character
 
-![cnt.png](https://github.com/byett/dsd/blob/CPE487-Spring2024/Nexys-A7/Lab-1/cnt.png)
+![cnt.png](cnt.png)
 
 * The counter module builds a 29-bit binary counter cnt clocked by the input clk
 * Bits 25 to 28 generate a 4-bit value count used to drive the LED decoder
