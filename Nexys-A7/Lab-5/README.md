@@ -4,7 +4,7 @@ Program the FPGA on the Nexys A7-100T board to generate a wailing audio siren us
 
 * Pmod I2S requires a [3.5-mm connector](https://en.wikipedia.org/wiki/Phone_connector_(audio)) for a headphone or speaker
 
-![i2s.png](https://github.com/byett/dsd/blob/CPE487-Spring2024/Nexys-A7/Lab-5/i2s.png)
+![i2s.png](i2s.png)
 
 * The [Pmod I2S](https://reference.digilentinc.com/reference/pmod/pmodi2s/start) has been replaced with the [Pmod I2S2](https://store.digilentinc.com/pmod-i2s2-stereo-audio-input-and-output/): stereo audio input (blue) and output (green)
   > The Digilent Pmod I2S2 features a [Cirrus CS5343](https://www.cirrus.com/products/cs5343-44/) Multi-Bit Audio A/D Converter and
@@ -12,7 +12,7 @@ Program the FPGA on the Nexys A7-100T board to generate a wailing audio siren us
   > These circuits allow a system board to transmit and receive stereo audio signals via the I2S protocol.
   > The Pmod I2S2 supports 24-bit resolution per channel at input sample rates up to 108 KHz.
 
-![i2s2.jpg](https://github.com/byett/dsd/blob/CPE487-Spring2024/Nexys-A7/Lab-5/i2s2.jpg)
+![i2s2.jpg](i2s2.jpg)
 
 * The **_dac_if_** module takes 16-bit parallel stereo data and converts it to the serial format required by the digital to analog converter.
   * When L_start is high, a 16-bit left channel data word  is loaded into the 16-bit serial shift register SREG on the falling edge of SCLK.
@@ -35,7 +35,7 @@ Program the FPGA on the Nexys A7-100T board to generate a wailing audio siren us
   * The sawtooth count is split up into 4 quadrants quad and an index value within the quadrant.
   * The signals quad and index are used to generate a triangle wave.
 
-![wave.png](https://github.com/byett/dsd/blob/CPE487-Spring2024/Nexys-A7/Lab-5/wave.png)
+![wave.png](wave.png)
 
 * The **_wail_** module creates an instance of the module tone and then modulates the pitch up and down to produce a “wailing” siren
   * The inputs hi_pitch and lo_pitch define the upper and lower limits of the generated tone.
@@ -96,7 +96,7 @@ Program the FPGA on the Nexys A7-100T board to generate a wailing audio siren us
 
   * This step is important! We need to properly consider the overall hierarchy of the project when incorporating new inputs
 
-* Get the correct pin number for this push button from the [Reference Manual](https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf) or from the full version of the [constraint file](https://github.com/byett/dsd/blob/CPE487-Spring2024/Nexys-A7/Nexys-A7-100T-Master.xdc). This needs to be changed on the constraint (.xdc) file as well!
+* Get the correct pin number for this push button from the [Reference Manual](https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf) or from the full version of the [constraint file](https://github.com/byett/dsd/blob/CPE487-Fall2024/Nexys-A7/Nexys-A7-100T-Master.xdc). This needs to be changed on the constraint (.xdc) file as well!
 
 * Note the difference in the quality of the tone when switching to a square wave tone
 
@@ -112,5 +112,5 @@ Program the FPGA on the Nexys A7-100T board to generate a wailing audio siren us
 
 * Use different high and low tone limits and wailing speed for the right audio channel
 
-* Note: you will need headphones or another wired device with left and right audio output channels to hear both channels at once. If you do not have immediate access to such a device, modify your code to include a button press that toggles the primary output between the left and right audio channels in some way.
+* Note: you will need headphones or another wired device with left and right audio output channels to hear both channels at once.
 
