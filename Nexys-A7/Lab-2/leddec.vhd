@@ -13,6 +13,7 @@ END leddec;
 ARCHITECTURE Behavioral OF leddec IS
 BEGIN
 	-- Turn on segments corresponding to 4-bit data word
+	-- This is simply making the shapes of the numbers and words and generally should not be changed
 	seg <= "0000001" WHEN data = "0000" ELSE -- 0
 	       "1001111" WHEN data = "0001" ELSE -- 1
 	       "0010010" WHEN data = "0010" ELSE -- 2
@@ -31,6 +32,8 @@ BEGIN
 	       "0111000" WHEN data = "1111" ELSE -- F
 	       "1111111";
 	-- Turn on anode of 7-segment display addressed by 3-bit digit selector dig
+        -- A 0 bit is considered HIGH (aka a 0 in position 0 turns on that particular anode in the display)
+	-- If we uncommented the bottom four options and made some other modifications, we could use all 8 anodes instead of just 4
 	anode <= "11111110" WHEN dig = "000" ELSE -- 0
 	         "11111101" WHEN dig = "001" ELSE -- 1
 	         "11111011" WHEN dig = "010" ELSE -- 2
