@@ -7,8 +7,8 @@ USE IEEE.STD_LOGIC_UNSIGNED.ALL;
 ENTITY counter IS
 	PORT (
 		clk : IN STD_LOGIC;
-		count : OUT STD_LOGIC_VECTOR (15 DOWNTO 0); -- NEED REVISE! 16 bits
-		mpx : OUT STD_LOGIC_VECTOR (2 DOWNTO 0)); -- NEW ONE ADD! send signal to select displays
+		count : OUT STD_LOGIC_VECTOR (15 DOWNTO 0); 
+		mpx : OUT STD_LOGIC_VECTOR (2 DOWNTO 0)); 
 END counter;
 
 ARCHITECTURE Behavioral OF counter IS
