@@ -71,6 +71,8 @@
 
 * Click 'Program Device' then xc7a100t_0 to download leddec.runs/impl_1/leddec.bit to the Nexys A7-100T board
 
+  * Always double-check that you are downloading the correct .bit file! There are some possible strange behaviors where the .bit file from a different project is selected and you are not able to see the changes you've been making in your code.
+
 * Note: as you make modifications to the code, you may be prompted to re-do this process (synthesis, implementation, and bitstream). You DO have to do this for your new code to take effect.
 
 ### 5. Slide switches on the Nexys A7-100T board
@@ -80,6 +82,8 @@
 * Slide switches 0, 1, 2, and 3 to display the value of 4-bit hex digit from 0 to F
 
 * Slide only one switch at a time to display the [Gray code](https://en.wikipedia.org/wiki/Gray_code) from 0 to F, i.e., 0-1-3-2-6-7-5-4-C-d-F-E-A-b-9-8
+
+   * Make sure you record this process as it should be submitted with your first report 
 
 ### 6. Close project (only once completely done with testing)
 
