@@ -98,6 +98,7 @@
 * The counter module builds a 29-bit binary counter cnt clocked by the input clk
 * Bits 25 to 28 generate a 4-bit value count used to drive the LED decoder
 * For the input clock running at 100 MHz, the value of count changes at a frequency of 100 MHz / 2<sup>25</sup> ≈ 2.98 Hz with a complete cylce taking approximately 16 / 2.98 ≈ 5.37 seconds
+* This information is important because we are intentionally delaying the clock inputs so we can actually see the numbers changing one by one. Without the cnt signal and choosing specific bits from that signal to display, the default 100 MHz frequency is far too fast!
 
 ### 1. Create a new project called _hexcount_ in Vivado
 
