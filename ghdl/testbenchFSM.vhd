@@ -8,17 +8,19 @@ end testbench;
 architecture tb of testbench is
 component fsm is
 	port (X, CLK, RESET: in std_logic;
-    Y : out std_logic_vector(1 downto 0);
+    Y : out std_logic_vector(2 downto 0);
     Z : out std_logic);
 end component fsm;
 signal X, CLK, RESET, Z : std_logic;
-signal Y : std_logic_vector(1 downto 0);
+signal Y : std_logic_vector(2 downto 0);
 
 constant period : time := 20 ns;
 constant simulationTime : time := 240 ns;
 begin
 
-oct12: fsm port map(X, CLK, RESET, Y, Z);
+fsmtestbench: entity work.fsm(fsmMealy1101) port map(X, CLK, RESET, Y, Z);
+--Uncomment the following line to use Moore instead of Mealy!
+--fsmtestbench: entity work.fsm(fsmMoore1101) port map(X, CLK, RESET, Y, Z);
 
 clk_process: process
 begin
