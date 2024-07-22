@@ -5,7 +5,7 @@
   * 2019-11-15 pull request by Peter Ho with the 800x600@60Hz support for 100MHz clock
   * In 2020 Fall, [Zikang Sheng](https://github.com/karlsheng99/CPE487_dsd/tree/master/lab/lab%206) made an [alternative design](https://github.com/byett/dsd/tree/CPE487-Spring2024/Nexys-A7/Lab-6/Alternative) that used onboard BTNL and BTNR buttons to control the motion of the bat without Pmod AD1 and potentiometer
  
-# You will be told to start from either the PMOD attachment "main" code or the button-based "Alternative" code. For the "Alternative", the only files that change are pong.vhd (use pong_2.vhd instead) and pong.xdc (use pong_2.xdc instead). All other components of the "main" code should still be used!
+# You will be told to start from either the PMOD attachment "main" code or the button-based "Alternative" code. For the "Alternative", the only files that change are pong.vhd (use pong_2.vhd instead) and pong.xdc (use pong_2.xdc instead). You should also include leddec16.vhd from Lab 4! All other components of the "main" code should still be used!
 
 ![ad1.jpg](https://github.com/byett/dsd/blob/CPE487-Spring2024/Nexys-A7/Lab-6/ad1.jpg)
 
