@@ -14,7 +14,7 @@ Here are master XDC files for A7-100T and A7-50T boards with identical constrain
 
 The master XDC files of all Digilent boards can be found [here](https://github.com/Digilent/digilent-xdc).
 
-## [Xilinx Downloads](https://www.xilinx.com/support/download.html) provide Xilinx Unified Installer: Windows (or Linux) Self Extracting Web Installer
+## [Xilinx Downloads](https://www.xilinx.com/support/download.html) provide Xilinx Unified Installer: Windows (or Linux) Self Extracting Web Installer - IF YOU HAVE A MAC KEEP SCROLLING
 
 * Download, extract, and open Xilinx Unified Installer
   * To reduce installation time, disable any anti-virus software and power saving settings when running the installer
@@ -52,6 +52,13 @@ The master XDC files of all Digilent boards can be found [here](https://github.c
   * [Getting Started With Vivado](https://digilent.com/reference/vivado/getting_started/start)
   * [Design Hubs](https://www.xilinx.com/support/documentation-navigation/design-hubs.html)
   * [Tool command language](https://vhdlwhiz.com/why-you-need-to-learn-tcl/) (Tcl)
+
+## MAC USERS
+* https://github.com/ichi4096/vivado-on-silicon-mac/pull/32 <--- this is the pr you need to pull
+
+* https://github.com/ichi4096/vivado-on-silicon-mac <-- this is the main github with the read me
+
+* I do not have a Mac to test these myself, but I hope these resources are enough to get your installation started, and I will do my best to assist if needed.
 
 ## Nexys A7 FPGA Board
 * [Reference Manual](https://digilent.com/reference/programmable-logic/nexys-a7/reference-manual) and [schematic](https://digilent.com/reference/_media/reference/programmable-logic/nexys-4-ddr/nexys_a7_sch-public.pdf)
