@@ -9,8 +9,6 @@ architecture behav of adder_tb is
     port (i0, i1 : in bit; ci : in bit; s : out bit; co : out bit);
   end component;
 
-  --  Specifies which entity is bound with the component.
-  for adder_0: adder use entity work.adder;
   signal i0, i1, ci, s, co : bit;
 begin
   --  Component instantiation.
