@@ -29,7 +29,15 @@
 
 # Past Projects (these were vetted by me personally)
 ## 2024 Spring
-
+* [Space Invaders](https://github.com/vrenda720/DSD_Project/tree/main)
+* [Full Pong Game](https://github.com/j-ferber/dsd-final-project)
+* [Pretty Colors](https://github.com/Cowlord3001/Digital-System-Design/tree/main/Final-Project)
+* [Lateral Leap](https://github.com/erik-bobinski/CPE487_finalProject)
+* [Collect](https://github.com/snehabanda30/dsdfinalproject-)
+* [Music Recording and Playback](https://github.com/JoshuaMarinoo/FinalProjectCPE487)
+* [Breakout](https://github.com/juchen3637/cpe-487-project)
+* [Another Brick Breaker](https://github.com/zreece-sit/CPE-487-Final-Project/tree/main)
+* [Lab 6 Game](https://github.com/edisanti/dsd)
 ## 2023 Fall
 * [Brick Breaker](https://github.com/redassser/487Final)
 * [Evade](https://github.com/Aoli03/DSD-Final-Lab-Project)
