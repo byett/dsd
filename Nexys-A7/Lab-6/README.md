@@ -15,7 +15,6 @@
 * The **_pong_** module is the top level.
   * BTN0 on the Nexys2 board is used to initiate a serve.
   * The process ckp is used to generate timing signals for the VGA and ADC modules.
-  * The output of the adc_if module drives bat_x of the bat_n_ball module.
 
 ### 1. Create a new RTL project _pong_ in Vivado Quick Start
 
