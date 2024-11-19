@@ -31,6 +31,7 @@
 ## 2024 Spring
 
 ## 2023 Fall
+* [Tetris](https://github.com/csirikak/CPE-487-Final)
 * [Brick Breaker](https://github.com/redassser/487Final)
 * [Evade](https://github.com/Aoli03/DSD-Final-Lab-Project)
 # Past Projects (these were not vetted by me personally)
