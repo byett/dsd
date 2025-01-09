@@ -1,11 +1,19 @@
 # Audio
+* [Sound](https://en.wikipedia.org/wiki/Sound)
+* [Microphone](https://en.wikipedia.org/wiki/Microphone)
+* [Hydrophone](https://en.wikipedia.org/wiki/Hydrophone)
+* [Amplifier](https://en.wikipedia.org/wiki/Amplifier)
+* [Audio power amplifier](https://en.wikipedia.org/wiki/Audio_power_amplifier)
+* [Power amplifier classes](https://en.wikipedia.org/wiki/Power_amplifier_classes)
+* [Loudspeaker](https://en.wikipedia.org/wiki/Loudspeaker)
+  * [Amar Bose](https://en.wikipedia.org/wiki/Amar_Bose) 1929&mdash;2013
+  * [Bose Corporation](https://en.wikipedia.org/wiki/Bose_Corporation)
+* [JackTrip](https://jacktrip.github.io/jacktrip/)
+---
 * [Timeline of audio formats](https://en.wikipedia.org/wiki/Timeline_of_audio_formats)
-* [A440](https://en.wikipedia.org/wiki/A440_(pitch_standard))
 * [Advanced Audio Coding](https://en.wikipedia.org/wiki/Advanced_Audio_Coding) (AAC)
   * [High-Efficiency Advanced Audio Coding](https://en.wikipedia.org/wiki/High-Efficiency_Advanced_Audio_Coding) (HE-AAC or AAC+)
 * [Album](https://en.wikipedia.org/wiki/Album)
-* [Amar Bose](https://en.wikipedia.org/wiki/Amar_Bose) 1929&mdash;2013
-  * [Bose Corporation](https://en.wikipedia.org/wiki/Bose_Corporation)
 * [Digital audio](https://en.wikipedia.org/wiki/Digital_audio)
 * [Dolby](https://en.wikipedia.org/wiki/Dolby)
   * [Ray Dolby](https://en.wikipedia.org/wiki/Ray_Dolby) 1933&mdash;2013
@@ -27,7 +35,6 @@
 * [Cymatics](https://en.wikipedia.org/wiki/Cymatics)
 * [Hearing range](https://en.wikipedia.org/wiki/Hearing_range)
 * [Musical acoustics](https://en.wikipedia.org/wiki/Musical_acoustics)
-* [Music and mathematics](https://en.wikipedia.org/wiki/Music_and_mathematics)
 ---
 * [Guide to the orchestra](https://www.minnesotaorchestra.org/community-education/educators-families/resources/guide/)
 * [List of concert halls](https://en.wikipedia.org/wiki/List_of_concert_halls)
@@ -37,12 +44,33 @@
 * [Glossary of music terminology](https://en.wikipedia.org/wiki/Glossary_of_music_terminology)
 * [List of musical symbols](https://en.wikipedia.org/wiki/List_of_musical_symbols)
 * [Metronome](https://en.wikipedia.org/wiki/Metronome)
+* [Music and mathematics](https://en.wikipedia.org/wiki/Music_and_mathematics)
+* [Musical tone](https://en.wikipedia.org/wiki/Musical_tone)
+  * [Pitch (music)](https://en.wikipedia.org/wiki/Pitch_(music))
+  * [Duration (music)](https://en.wikipedia.org/wiki/Duration_(music))
+  * [Loudness](https://en.wikipedia.org/wiki/Loudness)
+  * [Timbre](https://en.wikipedia.org/wiki/Timbre)
 * [Musical notation](https://en.wikipedia.org/wiki/Musical_notation)
+  * [Scientific pitch notation](https://en.wikipedia.org/wiki/Scientific_pitch_notation) (SPN)
 * [Musical note](https://en.wikipedia.org/wiki/Musical_note)
   * [A440 (pitch standard)](https://en.wikipedia.org/wiki/A440_(pitch_standard))
   * [Electronic tuner](https://en.wikipedia.org/wiki/Electronic_tuner)
 * [Sheet music](https://en.wikipedia.org/wiki/Sheet_music)
+* [Music of China](https://en.wikipedia.org/wiki/Music_of_China)
+  * [Chinese musicology](https://en.wikipedia.org/wiki/Chinese_musicology)
+  * [Pentatonic scale](https://en.wikipedia.org/wiki/Pentatonic_scale)
+  * [Shi'er lü](https://en.wikipedia.org/wiki/Shi%27er_l%C3%BC)
+* [Music of Japan](https://en.wikipedia.org/wiki/Music_of_Japan)
+  * [Japanese mode](https://en.wikipedia.org/wiki/Japanese_mode)
+* [Music of India](https://en.wikipedia.org/wiki/Music_of_India)
 ---
-* [Andrea Giuffredi](https://www.youtube.com/watch?v=V_VPLLQIBEA), a master of [bel canto](https://en.wikipedia.org/wiki/Bel_canto) trumpet style
-  * [La Califfa](https://en.wikipedia.org/wiki/La_Califfa) 1970 and [Gabriel's Oboe](https://en.wikipedia.org/wiki/Gabriel%27s_Oboe) 1986 by [Ennio Morricone](https://en.wikipedia.org/wiki/Ennio_Morricone) 1928&mdash;2020
-* [Piano Concerto No. 21](https://en.wikipedia.org/wiki/Piano_Concerto_No._21_(Mozart)) 1785 by [Wolfgang Amadeus Mozart](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart) 1756&mdash;1791
+* [Vocal music](https://en.wikipedia.org/wiki/Vocal_music)
+* [Vocal range](https://en.wikipedia.org/wiki/Vocal_range)
+* [Vocal register](https://en.wikipedia.org/wiki/Vocal_register)
+* [Head voice](https://en.wikipedia.org/wiki/Head_voice)
+* [Falsetto](https://en.wikipedia.org/wiki/Falsetto)
+  * [Bee Gees](https://en.wikipedia.org/wiki/Bee_Gees)
+  * [The Weeknd](https://en.wikipedia.org/wiki/The_Weeknd)
+* [Whistle register](https://en.wikipedia.org/wiki/Whistle_register)
+  * [Mariah Carey](https://en.wikipedia.org/wiki/Mariah_Carey)
+  * [Ariana Grande](https://en.wikipedia.org/wiki/Ariana_Grande)

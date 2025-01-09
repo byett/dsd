@@ -1,7 +1,7 @@
 # Digital System Design (DSD)
-Computer Engineering CPE 487
-* Bernard Yett from 2023 Fall to ???
-* [Darian Muresan](http://pictomic.com/Stevens/CPE487/dcdManual.pdf) from 2022 Fall to 2023 Spring
+## Computer Engineering CPE 487
+* [Bernard Yett](https://www.stevens.edu/profile/byett1) since 2023 Fall
+* [Darian Muresan](https://www.stevens.edu/profile/dmuresan) from 2022 Fall to 2023 Spring
 * In memory of [Michel Ouendeno](https://www.stevens.edu/news/stevens-adds-32-faculty-members-for-2022-2023-academic-year) 1968&mdash;2022
 * [Kevin Lu](https://www.stevens.edu/profile/klu2) from 2018 Fall to 2022 Spring
 * [Bryan Ackland](https://personal.stevens.edu/~backland/Courses/Course487_Spring_18.htm) from Fall 2011 to Spring 2018
@@ -36,6 +36,8 @@ Computer Engineering CPE 487
 ## DSD Fundamentals
 
 * [A Symbolic Analysis of Relay and Switching Circuits](https://en.wikipedia.org/wiki/A_Symbolic_Analysis_of_Relay_and_Switching_Circuits) 1938 by [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) 1916&mdash;2001
+* [Digital data](https://en.wikipedia.org/wiki/Digital_data)
+  * [George Stibitz](https://en.wikipedia.org/wiki/George_Stibitz) 1904&mdash;1995
 * [Bit numbering](https://en.wikipedia.org/wiki/Bit_numbering)
   * [Bit](https://en.wikipedia.org/wiki/Bit)
   * [Nibble](https://en.wikipedia.org/wiki/Nibble), half-byte, or quadbit
@@ -118,6 +120,7 @@ Computer Engineering CPE 487
   * [64GB DDR4-3200 PC4-25600 2Rx4 RDIMM ECC Registered Memory by NEMIX RAM](https://www.amazon.com/DDR4-3200-PC4-25600-RDIMM-Registered-Memory/dp/B081K8X1N3)
 * [Dynamic random-access memory](https://en.wikipedia.org/wiki/Dynamic_random-access_memory) (DRAM)
   * [Robert H. Dennard](https://en.wikipedia.org/wiki/Robert_H._Dennard) 1932&mdash;2024
+* [Synchronous dynamic random-access memory](https://en.wikipedia.org/wiki/Synchronous_dynamic_random-access_memory) (SDRAM)
 * [Resistive random-access memory](https://en.wikipedia.org/wiki/Resistive_random-access_memory) (ReRAM or RRAM)
 * [Reduced Latency DRAM](https://en.wikipedia.org/wiki/RLDRAM) (RLDRAM)
 * [Memristor](https://en.wikipedia.org/wiki/Memristor)
@@ -135,6 +138,7 @@ Computer Engineering CPE 487
 * [Erasable programmable read-only memory](https://en.wikipedia.org/wiki/EPROM) (EPROM)
 * [Electrically erasable programmable read-only memory](https://en.wikipedia.org/wiki/EEPROM) (EEPROM)
   * [Bootloader](https://en.wikipedia.org/wiki/Bootloader)
+* [High Bandwidth Memory](https://en.wikipedia.org/wiki/High_Bandwidth_Memory) (HBM)
 * [Embedded system](https://en.wikipedia.org/wiki/Embedded_system)
 * [Firmware](https://en.wikipedia.org/wiki/Firmware)
   * [Basic Input/Output System](https://en.wikipedia.org/wiki/BIOS) (BIOS)

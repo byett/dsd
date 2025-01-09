@@ -9,13 +9,24 @@
   * [Experiential Learning for Emerging and Novel Technologies](https://beta.nsf.gov/funding/opportunities/experiential-learning-emerging-novel-technologies) (ExLENT)
 * [CHIPS for America](https://www.nist.gov/chips)
   * [CHIPS R&D Standards Summit](https://www.nist.gov/news-events/events/2023/09/chips-rd-standards-summit)
+* [Building a Robust Semiconductor Ecosystem in New York State](https://esd.ny.gov/industries/semiconductors)
 * [European Chips Act](https://en.wikipedia.org/wiki/European_Chips_Act)
+---
+* [John Bardeen](https://en.wikipedia.org/wiki/John_Bardeen) 1908&mdash;1991
+* [Walter Houser Brattain](https://en.wikipedia.org/wiki/Walter_Houser_Brattain) 1902&mdash;1987
+* [William Shockley](https://en.wikipedia.org/wiki/William_Shockley) 1910&mdash;1989
+* [Frederick Terman](https://en.wikipedia.org/wiki/Frederick_Terman) 1900&mdash;1982
+* [Arnold Beckman](https://en.wikipedia.org/wiki/Arnold_Beckman) 1900&mdash;2004
+* [Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley)
+## YouTube Channels
+* [Anastasi In Tech](https://www.youtube.com/@AnastasiInTech) by [Anastasia](https://anastasiintech.com/)
 ## Lists
-* [Analog Devices](https://en.wikipedia.org/wiki/Analog_Devices)
-  * [AD9364](https://www.analog.com/en/products/ad9364.html) RF Agile Transceiver
 * [AMD](https://en.wikipedia.org/wiki/List_of_AMD_processors)
   * [EPYC](https://en.wikipedia.org/wiki/Epyc)
   * [Xilinx](https://en.wikipedia.org/wiki/Xilinx)
+* [Analog Devices](https://en.wikipedia.org/wiki/Analog_Devices)
+  * [AD9364](https://www.analog.com/en/products/ad9364.html) RF Agile Transceiver
+* [Annapurna Labs](https://en.wikipedia.org/wiki/Annapurna_Labs)
 * [ARM](https://en.wikipedia.org/wiki/List_of_ARM_processors)
 * [Apple](https://en.wikipedia.org/wiki/Apple_silicon)
 * [HiSilicon](https://en.wikipedia.org/wiki/HiSilicon)
@@ -50,7 +61,10 @@
   * [NVIDIA Nsight Systems](https://developer.nvidia.com/nsight-systems) performance analysis tool
   * [NVIDIA Nsight Visual Studio Edition](https://developer.nvidia.com/nsight-visual-studio-edition) (VSE) to build and debug integrated GPU kernels and native CPE code as well as inspect the state of the GPU and memory
   * [Hopper](https://en.wikipedia.org/wiki/Hopper_(microarchitecture))
-  * [David Blackwell](https://en.wikipedia.org/wiki/David_Blackwell) 1919&mdash;2010
+    * [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper) 1906&mdash;1992
+  * [Blackwell (microarchitecture)](https://en.wikipedia.org/wiki/Blackwell_(microarchitecture))
+    * [David Blackwell](https://en.wikipedia.org/wiki/David_Blackwell) 1919&mdash;2010
+  * [GB200 NVL72](https://www.nvidia.com/en-us/data-center/gb200-nvl72/) connects 36 Grace CPUs and 72 Blackwell GPUs in a rack-scale design
   * [NVIDIA Omniverse](https://en.wikipedia.org/wiki/Nvidia_Omniverse)
 * [NXP](https://en.wikipedia.org/wiki/List_of_NXP_products)
   * [MIFARE](https://en.wikipedia.org/wiki/MIFARE)
@@ -67,6 +81,8 @@
 * [Dual in-line package](https://en.wikipedia.org/wiki/Dual_in-line_package)
 * [Chip carrier](https://en.wikipedia.org/wiki/Chip_carrier)
 * [Flat no-leads package](https://en.wikipedia.org/wiki/Flat_no-leads_package)
+* [Chip-scale package](https://en.wikipedia.org/wiki/Chip-scale_package) (CSP)
+* [Wafer-level packaging](https://en.wikipedia.org/wiki/Wafer-level_packaging) (WLP)
 
 ## Others
 * [List of linear integrated circuits](https://en.wikipedia.org/wiki/List_of_linear_integrated_circuits)
@@ -78,6 +94,7 @@
 * [Watchdog timer](https://en.wikipedia.org/wiki/Watchdog_timer)
 * [AVR microcontrollers](https://en.wikipedia.org/wiki/AVR_microcontrollers)
 * [Cerebras](https://en.wikipedia.org/wiki/Cerebras) Wafer-Scale Engine (WSE)
+  * [Wafer-scale integration](https://en.wikipedia.org/wiki/Wafer-scale_integration) (WSI)
 * [ESP32](https://en.wikipedia.org/wiki/ESP32)
 * [IBM Telum](https://en.wikipedia.org/wiki/IBM_Telum_(microprocessor))
 * [RP2040](https://en.wikipedia.org/wiki/RP2040)

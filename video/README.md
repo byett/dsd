@@ -1,6 +1,6 @@
 # Video
 * [Animation](https://en.wikipedia.org/wiki/Animation)
-  * [Andreas Wannerstedt](https://andreaswannerstedt.se/)
+* [Andreas Wannerstedt](https://andreaswannerstedt.se/)
 ---
 * [Timeline of video formats](https://en.wikipedia.org/wiki/Timeline_of_video_formats)
 * [National Television System Committee](https://en.wikipedia.org/wiki/NTSC) (NTSC)
@@ -10,10 +10,14 @@
 * [Pixel](https://en.wikipedia.org/wiki/Pixel) (picture element)
   * [Pixel format](https://en.wikipedia.org/wiki/Pixel_Format)
 * [Voxel](https://en.wikipedia.org/wiki/Voxel)
-* [Primary color](https://en.wikipedia.org/wiki/Primary_color)
-* [ROYGBIV](https://en.wikipedia.org/wiki/ROYGBIV)
+* [Color chart](https://en.wikipedia.org/wiki/Color_chart)
+  * [Primary color](https://en.wikipedia.org/wiki/Primary_color)
+  * [ROYGBIV](https://en.wikipedia.org/wiki/ROYGBIV)
+  * [RAL colour standard](https://en.wikipedia.org/wiki/RAL_colour_standard)
+  * [List of RAL colors](https://en.wikipedia.org/wiki/List_of_RAL_colours)
 * [Color model](https://en.wikipedia.org/wiki/Color_model)
-* [RGB color model](https://en.wikipedia.org/wiki/RGB_color_model)
+  * [CMYK color model](https://en.wikipedia.org/wiki/CMYK_color_model) is a subtractive color model that uses four ink colors to create a wide range of colors for printing
+  * [RGB color model](https://en.wikipedia.org/wiki/RGB_color_model) is an additive color model in which the red, green, and blue primary colors of light are added together in various ways to reproduce a broad array of colors
 * [Color depth](https://en.wikipedia.org/wiki/Color_depth)
 * [8-bit color](https://en.wikipedia.org/wiki/8-bit_color)
 * [Color balance](https://en.wikipedia.org/wiki/Color_balance)
@@ -34,8 +38,10 @@
 * [StageCraft](https://en.wikipedia.org/wiki/StageCraft)
 * [Image stitching](https://en.wikipedia.org/wiki/Image_stitching)
   * [Comparison of photo stitching software](https://en.wikipedia.org/wiki/Comparison_of_photo_stitching_software)
+  * [Platonic solid](https://en.wikipedia.org/wiki/Platonic_solid)
   * [Dodecahedron](https://en.wikipedia.org/wiki/Dodecahedron) is a [polyhedron](https://en.wikipedia.org/wiki/Polyhedron) with 12 faces
     * [Circle Optics](https://circleoptics.com/)
+      * [Team Circle](https://circleoptics.com/celebrating-team-circle/)
     * [Pentagon](https://en.wikipedia.org/wiki/Pentagon)
     * [Golden ratio](https://en.wikipedia.org/wiki/Golden_ratio)
   * [Pyritohedron](https://mathworld.wolfram.com/Pyritohedron.html) is an irregular dodecahedron composed of identical irregular pentagons
@@ -95,8 +101,10 @@
   * [8K resolution](https://en.wikipedia.org/wiki/8K_resolution) (7680 × 4320)
 * [16K resolution](https://en.wikipedia.org/wiki/16K_resolution) (15360 x 8640)
 * [32K resolution](https://en.wikipedia.org/wiki/32K_resolution) (30720 x 17280)
-* [List of largest video screens](https://en.wikipedia.org/wiki/List_of_largest_video_screens)
 * [First-person view (radio control)](https://en.wikipedia.org/wiki/First-person_view_(radio_control)) (FPV)
+  * [JayByrd Films](https://www.jaybyrdfilms.com/) | [Videos](https://www.youtube.com/@jaybyrdfilms/videos)
+* [4D film](https://en.wikipedia.org/wiki/4D_film)
+  * [4DX](https://en.wikipedia.org/wiki/4DX)
 ## Camera
 * [Borescope](https://en.wikipedia.org/wiki/Borescope)
   * [Endoscope](https://en.wikipedia.org/wiki/Endoscope)
@@ -111,9 +119,9 @@
 * [Display aspect ratio](https://en.wikipedia.org/wiki/Display_aspect_ratio) (DAR)
 * [Liquid-crystal display](https://en.wikipedia.org/wiki/Liquid-crystal_display) (LCD)
 * [OLED](https://en.wikipedia.org/wiki/OLED)
-* [Sphere](https://en.wikipedia.org/wiki/Sphere_(venue))
-  * [MSG Sphere](https://www.youtube.com/@msgsphere3826)
-  * [Sphere](https://www.youtube.com/@SphereVegas)
+* [Sphere at the Venetian Resort](https://en.wikipedia.org/wiki/Sphere_(venue))
+  * [MSG Sphere](https://www.youtube.com/@msgsphere3826) | [Videos](https://www.youtube.com/@SphereVegas)
+  * [Es Devlin](https://en.wikipedia.org/wiki/Es_Devlin)
 * [List of largest video screens](https://en.wikipedia.org/wiki/List_of_largest_video_screens)
 ## Livestreaming
 * [Livestreaming](https://en.wikipedia.org/wiki/Livestreaming)

@@ -192,7 +192,8 @@
   * [IXYS Corporation](https://en.wikipedia.org/wiki/IXYS_Corporation)
 * [MACOM](https://en.wikipedia.org/wiki/MACOM_Technology_Solutions)
 * [Marvell](https://en.wikipedia.org/wiki/Marvell_Technology,_Inc.)
-* [Menlo Micro](https://en.wikipedia.org/wiki/Menlo_Micro)
+* [Menlo Micro](https://menlomicro.com/)
+  * [GE Ventures](https://en.wikipedia.org/wiki/GE_Ventures)
 * [Meta Platforms](https://en.wikipedia.org/wiki/Meta_Platforms)
 * [Microchip](https://en.wikipedia.org/wiki/Microchip_Technology)
   * [Atmel](https://en.wikipedia.org/wiki/Atmel)
@@ -203,7 +204,10 @@
 * [NVIDIA](https://en.wikipedia.org/wiki/Nvidia)
   * [Ageia](https://en.wikipedia.org/wiki/Ageia)
   * [Mellanox Technologies](https://en.wikipedia.org/wiki/Mellanox_Technologies)
-* [Onsemi](https://en.wikipedia.org/wiki/Onsemi)
+* [ON Semiconductor Corporation](https://en.wikipedia.org/wiki/Onsemi) founded in 1999, stylized and [doing business as](https://en.wikipedia.org/wiki/Trade_name) onsemi, and originally a spinoff of Motorola's Semiconductor Components Group
+  * [Shockley Semiconductor Laboratory](https://en.wikipedia.org/wiki/Shockley_Semiconductor_Laboratory) 1955&mdash;1968, later known as Shockley Transistor Corporation
+  * [Fairchild Semiconductor](https://en.wikipedia.org/wiki/Fairchild_Semiconductor) 1957&mdash;2016
+    * [Traitorous eight](https://en.wikipedia.org/wiki/Traitorous_eight)
 * [Qorvo](https://en.wikipedia.org/wiki/Qorvo)
 * [Qualcomm](https://en.wikipedia.org/wiki/Qualcomm)
   * [Qualcomm Atheros](https://en.wikipedia.org/wiki/Qualcomm_Atheros)
@@ -220,6 +224,7 @@
 * [Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.)
 * [TI](https://en.wikipedia.org/wiki/Texas_Instruments)
   * [National Semiconductor](https://en.wikipedia.org/wiki/National_Semiconductor)
+* [TTM Technologies](https://en.wikipedia.org/wiki/TTM_Technologies)
 * [Uhnder](https://www.uhnder.com/)
 * [Vishay Intertechnology](https://en.wikipedia.org/wiki/Vishay_Intertechnology)
 * [Western Design Center](https://en.wikipedia.org/wiki/Western_Design_Center) (WDC)
@@ -256,6 +261,7 @@
 ## India
 * [Electronics and semiconductor manufacturing industry in India](https://en.wikipedia.org/wiki/Electronics_and_semiconductor_manufacturing_industry_in_India)
 ## Israel
+* [Annapurna Labs](https://en.wikipedia.org/wiki/Annapurna_Labs) was acruired by Amazon in January 2015
 * [Anobit](https://en.wikipedia.org/wiki/Anobit) was acquired by Apple on January 6, 2012
 * [Ceva (semiconductor company)](https://en.wikipedia.org/wiki/Ceva_(semiconductor_company))
 * [Mobileye](https://en.wikipedia.org/wiki/Mobileye) was acquired by Intel in 2017 and went public again in 2022
@@ -272,8 +278,9 @@
 * [Panasonic](https://en.wikipedia.org/wiki/Panasonic)
   * [Sanyo](https://en.wikipedia.org/wiki/Sanyo)
 * [Rapidus](https://asia.nikkei.com/Business/Tech/Semiconductors/Toyota-joins-7-other-Japan-companies-to-make-next-generation-chips)
-* [Renesas](https://en.wikipedia.org/wiki/Renesas_Electronics)
+* [Renesas Electronics](https://en.wikipedia.org/wiki/Renesas_Electronics)
   * [Dialog Semiconductor](https://en.wikipedia.org/wiki/Dialog_Semiconductor)
+  * [Design AI/ML Applications the Easy Way](https://www.renesas.com/en/blogs/design-aiml-applications-easy-way)
 * [Ricoh](https://en.wikipedia.org/wiki/Ricoh)
 * [Sega](https://en.wikipedia.org/wiki/Sega)
 * [Sony](https://en.wikipedia.org/wiki/Sony)

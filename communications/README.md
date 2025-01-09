@@ -9,19 +9,39 @@
 * [Lithium niobate](https://en.wikipedia.org/wiki/Lithium_niobate)
 * [Plasma-enhanced chemical vapor deposition](https://en.wikipedia.org/wiki/Plasma-enhanced_chemical_vapor_deposition) (PECVD)
 * [Q factor](https://en.wikipedia.org/wiki/Q_factor)
+* [Signals intelligence](https://en.wikipedia.org/wiki/Signals_intelligence) (SIGINT)
 * [Spectral power distribution](https://en.wikipedia.org/wiki/Spectral_power_distribution) (SPD)
+---
+* [Brocade Communications Systems](https://en.wikipedia.org/wiki/Brocade_Communications_Systems)
+* [Cisco](https://en.wikipedia.org/wiki/Cisco)
+---
+* [CACI](https://en.wikipedia.org/wiki/CACI)
+* [L3Harris](https://en.wikipedia.org/wiki/L3Harris)
+* [Leidos](https://en.wikipedia.org/wiki/Leidos)
+  * [Science Applications International Corporation](https://en.wikipedia.org/wiki/Science_Applications_International_Corporation) (SAIC)
+* [MIT Lincoln Laboratory](https://en.wikipedia.org/wiki/MIT_Lincoln_Laboratory)
+* [Mitre Corporation](https://en.wikipedia.org/wiki/Mitre_Corporation)
+* [Vencore](https://en.wikipedia.org/wiki/Vencore)
+  * [Peraton Labs](https://en.wikipedia.org/wiki/Peraton_Labs)
+  * [Perspecta Inc.](https://en.wikipedia.org/wiki/Perspecta_Inc.)
+* [RTX Corporation](https://en.wikipedia.org/wiki/RTX_Corporation)
 ## Telecommunications
 * [Telecommunications](https://en.wikipedia.org/wiki/Telecommunications)
 * [Last mile](https://en.wikipedia.org/wiki/Last_mile_(telecommunications))
 * [Morse code](https://en.wikipedia.org/wiki/Morse_code) by [Samuel Morse](https://en.wikipedia.org/wiki/Samuel_Morse) 1791&mdash;1872
 * [Baudot code](https://en.wikipedia.org/wiki/Baudot_code) by [Émile Baudot](https://en.wikipedia.org/wiki/%C3%89mile_Baudot) 1845&mdash;1903
 * [Baud](https://en.wikipedia.org/wiki/Baud)
+* [BORSCHT](https://en.wikipedia.org/wiki/BORSCHT): battery feed (B), overvoltage protection (O), ringing (R), signaling (S), coding (C), hybrid (H), and test (T)
+  * [Borscht](https://en.wikipedia.org/wiki/Borscht) is a [sour soup](https://en.wikipedia.org/wiki/List_of_sour_soups)
 * [Erlang](https://en.wikipedia.org/wiki/Erlang_(unit))
   * [Agner Krarup Erlang](https://en.wikipedia.org/wiki/Agner_Krarup_Erlang) 1878&mdash;1929
 * [Telephone](https://en.wikipedia.org/wiki/Telephone) by [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell) 1847&mdash;1922
 * [Original North American area codes](https://en.wikipedia.org/wiki/Original_North_American_area_codes)
+* [Net neutrality](https://en.wikipedia.org/wiki/Net_neutrality)
 ## Information Theory
 * [A Mathematical Theory of Communication](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication) by [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) 1916&mdash;2001
+  * [Juggling robot](https://www.youtube.com/watch?v=tXU3EPg2cgA)
+  * [John Tukey](https://en.wikipedia.org/wiki/John_Tukey) 1915&mdash;2000
 * [Entropy (information theory)](https://en.wikipedia.org/wiki/Entropy_(information_theory))
 * [Nyquist–Shannon sampling theorem](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem)
   * [Harry Nyquist](https://en.wikipedia.org/wiki/Harry_Nyquist) 1889&mdash;1976
@@ -32,6 +52,7 @@
 * [Coding theory](https://en.wikipedia.org/wiki/Coding_theory)
 * [Hamming code](https://en.wikipedia.org/wiki/Hamming_code) by [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming) 1915&mdash;1998
 ## Modulation
+* [Baseband](https://en.wikipedia.org/wiki/Baseband)
 * [Modulation](https://en.wikipedia.org/wiki/Modulation)
 * [Frequency-shift keying](https://en.wikipedia.org/wiki/Frequency-shift_keying) (FSK)
 * [Intensity modulation](https://en.wikipedia.org/wiki/Intensity_modulation)/direct detection (IM/DD)
@@ -48,6 +69,7 @@
 * [Subcarrier multiplexing](https://en.wikipedia.org/wiki/Subcarrier_multiplexing)
 * [Wave interference](https://en.wikipedia.org/wiki/Wave_interference)
 ## Satellite Communications
+* [List of communications satellite firsts](https://en.wikipedia.org/wiki/List_of_communications_satellite_firsts)
 * [Low Earth orbit](https://en.wikipedia.org/wiki/Low_Earth_orbit) (LEO)
 * [Reflector antenna](https://en.wikipedia.org/wiki/Reflector_(antenna))
 * [Satellite navigation](https://en.wikipedia.org/wiki/Satellite_navigation)
@@ -60,6 +82,12 @@
   * [Channel state information](https://en.wikipedia.org/wiki/Channel_state_information) (CSI)
 * [Radio frequency](https://en.wikipedia.org/wiki/Radio_frequency)
 * [Radio spectrum](https://en.wikipedia.org/wiki/Radio_spectrum)
+* [Radio wave](https://en.wikipedia.org/wiki/Radio_wave)
+  * [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) 1831&mdash;1879
+    * [Maxwell's equations](https://en.wikipedia.org/wiki/Maxwell's_equations)
+  * [Heinrich Hertz](https://en.wikipedia.org/wiki/Heinrich_Hertz) 1857&mdash;1894
+    * [Hertz](https://en.wikipedia.org/wiki/Hertz)
+  * [Guglielmo Marconi](https://en.wikipedia.org/wiki/Guglielmo_Marconi) 1874&mdash;1937
 * [Multipath propagation](https://en.wikipedia.org/wiki/Multipath_propagation)
 * [Non-line-of-sight propagation](https://en.wikipedia.org/wiki/Non-line-of-sight_propagation) (NLOS)
 * [Over-the-air update](https://en.wikipedia.org/wiki/Over-the-air_update)
@@ -102,25 +130,58 @@
   * [Notice of proposed rulemaking](https://en.wikipedia.org/wiki/Notice_of_proposed_rulemaking) (NPRM)
     * [Expanding Use of the 12.7-13.25 GHz Band for Mobile Broadband or Other Expanded Use](https://docs.fcc.gov/public/attachments/DOC-392970A1.pdf)
 * [IEEE 5G/6G Innovation Testbed](https://testbed.ieee.org/)
+* [Platform for Open Wireless Data-driven Experimental Research](https://powderwireless.net/) (POWDER)
 * [Speedtest.net](https://en.wikipedia.org/wiki/Speedtest.net) by Ookla
 * [SIM card](https://en.wikipedia.org/wiki/SIM_card) (Subscriber Identity Module)
 * [eSIM](https://en.wikipedia.org/wiki/ESIM)
+  * [Holafly](https://esim.holafly.com/)
 * [International mobile subscriber identity](https://en.wikipedia.org/wiki/International_mobile_subscriber_identity) (IMSI)
 * [Integrated circuit card identifier](https://en.wikipedia.org/wiki/SIM_card#ICCID) (ICCID)
 * [Anechoic chamber](https://en.wikipedia.org/wiki/Anechoic_chamber)
 * [Reverberation chamber](https://en.wikipedia.org/wiki/Reverberation_room)
 * [Electromagnetic reverberation chamber](https://en.wikipedia.org/wiki/Electromagnetic_reverberation_chamber)
-* [BORSCHT](https://en.wikipedia.org/wiki/BORSCHT)
+* [First-person view (radio control)](https://en.wikipedia.org/wiki/First-person_view_(radio_control)) (FPV)
+## Software-Defined Radio
+* [Software-defined radio](https://en.wikipedia.org/wiki/Software-defined_radio) (SDR)
+  * [Vanu Bose](https://en.wikipedia.org/wiki/Vanu_Bose) 1965&mdash;2017
+  * [Matt Ettus](https://www.linkedin.com/in/matt-ettus-a54144/)
+    * [GitHub repository](https://github.com/MattEttus)
+* [List of software-defined radios](https://en.wikipedia.org/wiki/List_of_software-defined_radios)
+* [AFRL SDR Challenge](https://wbi-innovates.zohobackstage.com/afrlsdr)
+  * [Air Force Research Laboratory](https://en.wikipedia.org/wiki/Air_Force_Research_Laboratory) (AFRL)
+    * [AFRL SDR](https://afresearchlab.com/technology/information-technology/successstories/software-defined-radio/)
+  * [Wright brothers](https://en.wikipedia.org/wiki/Wright_brothers)
+  * [Wright Brothers Institute](https://www.wbi-innovates.com/) (WBI)
+  * [MathWorks | SDR University Challenge](https://www.mathworks.com/academia/student-competitions/sdr-university-challenge.html)
+* [Universal Software Radio Peripheral](https://en.wikipedia.org/wiki/Universal_Software_Radio_Peripheral) (USRP)
+  * [National Instruments](https://en.wikipedia.org/wiki/National_Instruments) (NI)
+  * [Ettus Research](https://www.ettus.com/)
+    * [Ettus USRP X310](https://www.ettus.com/all-products/x310-kit/)
+    * [Ettus USRP B210](https://www.ettus.com/all-products/ub210-kit/): 70 MHz - 6GHz
+  * [NI USRP](https://www.ni.com/en-us/shop/category/software-defined-radios.html)
+  * [USRP Hardware Driver](https://www.ettus.com/sdr-software/uhd-usrp-hardware-driver/) (UHD)
+  * [USRP-2901](https://www.ni.com/en-us/shop/model/usrp-2901.html): 70 MHz-6 GHz, 2-Channel, 56 MHz Bandwidth SDR
+  * [VERT2450](https://www.ettus.com/all-products/vert2450/): 2.4 and 5 GHz Dual Band Vertical Antenna
+  * [VERT900](https://www.ettus.com/all-products/vert900/): 824-960 MHz 1710-1990 MHz Dual Band Vertical Antenna
+  * [VERT400](https://www.ettus.com/all-products/vert400/): 144 MHz, 400 MHz, 1200 MHz Tri Band Vertical Antenna
+* [TMY Technology](https://tmytek.com/) (TMYTEK)
+  * [BBox](https://tmytek.com/products/beamformers/bbox)
+  * [Ettus USRP X410](https://www.ni.com/en-us/shop/model/ettus-usrp-x410.html): 1 MHz to 7.2 GHz
+  * [High-altitude platform station](https://en.wikipedia.org/wiki/High-altitude_platform_station) (HAPS)
+    * [AALTO Zephyr HAPS](https://www.aaltohaps.com/Zephyr-HAPS)
+      > In European tradition, a zephyr is a light wind or a west wind, named after [Zephyrus](https://en.wikipedia.org/wiki/Zephyrus), the Greek god or personification of the west wind.
+* [Analog Devices](https://en.wikipedia.org/wiki/Analog_Devices) (ADI)
+  * [ADALM-PLUTO](https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html#eb-overview) Active Learning Module (ALM): 325 MHz to 3.8 GHz
 * [List of RF connector types](https://en.wikipedia.org/wiki/List_of_RF_connector_types)
   * [SMA connector](https://en.wikipedia.org/wiki/SMA_connector) (SubMiniature version A)
   * [N connector](https://en.wikipedia.org/wiki/N_connector) (named after [Paul Neill](https://en.wikipedia.org/wiki/Paul_Neill) 1882&mdash;1968)
-* [First-person view (radio control)](https://en.wikipedia.org/wiki/First-person_view_(radio_control)) (FPV)
-* [Software-defined radio](https://en.wikipedia.org/wiki/Software-defined_radio) (SDR)
-* [Universal Software Radio Peripheral](https://en.wikipedia.org/wiki/Universal_Software_Radio_Peripheral) (USRP)
+* [Cognitive radio](https://en.wikipedia.org/wiki/Cognitive_radio)
+  * [Reconfigurable antenna](https://en.wikipedia.org/wiki/Reconfigurable_antenna)
 * [GNU Radio](https://en.wikipedia.org/wiki/GNU_Radio)
 * [PySDR](https://pysdr.org/)
   * [PlutoSDR in Python](https://pysdr.org/content/pluto.html)
   * [PlutoSDR Basics](https://pysdr.org/content/pluto_intro.html)
+  * [USRP in Python](https://pysdr.org/content/usrp.html)
 * [HackRF One](https://greatscottgadgets.com/hackrf/one/)
 * [RTL-SDR](https://www.rtl-sdr.com/)
 ## Communication and Sensing
