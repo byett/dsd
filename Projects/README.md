@@ -41,6 +41,7 @@
 ## 2023 Fall
 * [Brick Breaker](https://github.com/redassser/487Final)
 * [Evade](https://github.com/Aoli03/DSD-Final-Lab-Project)
+* [Tetris](https://github.com/csirikak/CPE-487-Final)
 # Past Projects (these were not vetted by me personally)
 ## 2022 Fall
 * [FPGA Synthesizer](https://github.com/matthewgpetrin/cpe-487/tree/main/piano)
