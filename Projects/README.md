@@ -29,6 +29,13 @@
 * If you choose to start from an existing project and make substanstial changes/improvements, you must cite your starting place! This goes for the labs, these projects, or any others you may find. Do not pass off someone else's work as your own and you'll do just fine.
 
 # Past Projects (these were vetted by me personally)
+## 2024 Fall
+* [Whack-A-Mole](https://github.com/beartwoz/Whack-A-Mole)
+* [Agar.io Game](https://github.com/nlara6156/CPE487_Final_Project/tree/main)
+* [Switch Roulette](https://github.com/alan-m12/CPE-487-Final-Project)
+* [Guitar Hero](https://github.com/jmarti5682/CPE487_Final_Project)
+* [World's Hardest Game](https://github.com/Jshea1/WorldsHardestGame.git)
+* [Subway Surfers](https://github.com/ryanvconnolly/CPE487finalproject/blob/main/README.md)
 ## 2024 Spring
 * [Space Invaders](https://github.com/vrenda720/DSD_Project/tree/main)
 * [Full Pong Game](https://github.com/j-ferber/dsd-final-project)
