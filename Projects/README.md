@@ -24,8 +24,9 @@
 * For more complex projects that would require hardware that you do not already readily have access to, it is sufficient to model the desired final system in some way. For example, showing the output of a controller for a microwave or other digital system on the LCD screen instead of actually controlling a microwave.
 	* That said, if you already own these needed components, by all means use them!
 * If you are still “attached” to a particular lab (calculator, pong, etc.), you may still explore these areas further with additional functionality (many more operations for a calculator, multiple players or other modifications for pong, etc.)
-* You may instead peruse the following list of projects for some ideas. Some of these were personally vetted by me (Prof. Yett), others came prior to my time at Stevens. 
-* If you choose to start from an existing project and make substanstial changes/improvements, you must cite your starting place! This goes for the labs, these projects, or any others you may find.
+* You may also start with some of the components from the simulation exercices and approach the project from more of a true digital logic perspective using combinational and sequential logic techniques in a sufficiently advanced way.
+* You may instead peruse the following list of projects (or outside project sources) for some ideas. Some of these were personally vetted by me (Prof. Yett), others came prior to my time at Stevens. 
+* If you choose to start from an existing project and make substanstial changes/improvements, you must cite your starting place! This goes for the labs, these projects, or any others you may find. Do not pass off someone else's work as your own and you'll do just fine.
 
 # Past Projects (these were vetted by me personally)
 ## 2024 Spring
