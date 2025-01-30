@@ -7,10 +7,10 @@ use ieee.std_logic_1164.all;
 entity ha is
     port
     (
-        a:  in  std_ulogic; -- Input of the unresolved type
-        b:  in  std_ulogic; -- https://vhdlwhiz.com/std_logic-vs-std_ulogic/
-        s:  out std_ulogic; -- Output sum of a and b
-        c:  out std_ulogic  -- Output carry
+        a:  in  std_logic; 
+        b:  in  std_logic; 
+        s:  out std_logic; -- Output sum of a and b
+        c:  out std_logic  -- Output carry
     );
 end ha;
 
