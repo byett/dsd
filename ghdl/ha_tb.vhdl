@@ -11,10 +11,10 @@ architecture test of ha_tb is
     component ha
         port
         (
-            a:  in  std_ulogic;
-            b:  in  std_ulogic;
-            s:  out std_ulogic; -- Sum
-            c:  out std_ulogic  -- Carry
+            a:  in  std_logic;
+            b:  in  std_logic;
+            s:  out std_logic; -- Sum
+            c:  out std_logic  -- Carry
         );
     end component;
     
