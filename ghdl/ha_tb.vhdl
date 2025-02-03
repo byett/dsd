@@ -18,7 +18,7 @@ architecture test of ha_tb is
         );
     end component;
     
-    signal a, b, s, c : std_ulogic;
+    signal a, b, s, c : std_logic;
 begin
     half_addr: ha port map (a => a, b => b, s => s, c => c);
     
