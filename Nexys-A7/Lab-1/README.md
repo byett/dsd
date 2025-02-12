@@ -41,7 +41,7 @@
 
 * Two possible routes from here.
 
-# * Option 1
+#### Option 1
 
  * Add Sources > Target language > VHDL > Simulator language > VHDL > Create File > Create a new source file of file type VHDL called _**leddec**_ > Next
 
@@ -57,7 +57,7 @@
 
  * Sources > Constraints > Right click to open, copy, and paste leddec.xdc from the GitHub Raw > Save File
 
-# * Option 2
+#### Option 2
 
  * As an alternative, you can instead download files from Github and import them into your project when creating the project. The source file or files would still be imported during the Source step, and the constraint file or files would still be imported during the Constraints step.
 
