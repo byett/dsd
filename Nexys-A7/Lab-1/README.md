@@ -39,21 +39,27 @@
 
 * RTL Project > Next
 
-* Add Sources > Target language > VHDL > Simulator language > VHDL > Create File > Create a new source file of file type VHDL called _**leddec**_ > Next
+* Two possible routes from here.
 
-* Add Constraints > Create File > Create a new constraint file of file type XDC called **_leddec_** > Next
+# * Option 1
 
-* Default Part > Boards > Vendor: digilentinc.com > Name: Nexys A7-100T (Part: xc7a100tcsg324-1) > Click to highlight Nexys A7-100T > Next
+ * Add Sources > Target language > VHDL > Simulator language > VHDL > Create File > Create a new source file of file type VHDL called _**leddec**_ > Next
 
-* New Project Summary > Finish
+ * Add Constraints > Create File > Create a new constraint file of file type XDC called **_leddec_** > Next
 
-* Define Module > OK > Yes
+ * Default Part > Boards > Vendor: digilentinc.com > Name: Nexys A7-100T (Part: xc7a100tcsg324-1) > Click to highlight Nexys A7-100T > Next
 
-* Sources > Design Sources > Right click to open, copy, and paste leddec.vhd from the GitHub Raw > Save File
+ * New Project Summary > Finish
 
-* Sources > Constraints > Right click to open, copy, and paste leddec.xdc from the GitHub Raw > Save File
+ * Define Module > OK > Yes
 
-* As an alternative, you can instead download files from Github and import them into your project when creating the project. The source file or files would still be imported during the Source step, and the constraint file or files would still be imported during the Constraints step.
+ * Sources > Design Sources > Right click to open, copy, and paste leddec.vhd from the GitHub Raw > Save File
+
+ * Sources > Constraints > Right click to open, copy, and paste leddec.xdc from the GitHub Raw > Save File
+
+# * Option 2
+
+ * As an alternative, you can instead download files from Github and import them into your project when creating the project. The source file or files would still be imported during the Source step, and the constraint file or files would still be imported during the Constraints step.
 
 ### 2. Run synthesis
 
