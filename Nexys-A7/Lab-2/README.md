@@ -114,11 +114,11 @@
 
 Initially your "Sources" hierarchy in Vivavdo should look like this:
 
-![Hierarchy Before FSM.png](Hierarchy Before FSM.png)
+![HierarchyBeforeFSM.png](HierarchyBeforeFSM.png)
 
 After making the changes successfully, you should instead see something like this (though feel free to update labels and other names related to your FSM to better match the actually sequence you are trying to recognize):
 
-![Hierarchy After FSM.png](Hierarchy After FSM.png)
+![HierarchyAfterFSM.png](HierarchyAfterFSM.png)
 
 As part of the submission itself:
 
