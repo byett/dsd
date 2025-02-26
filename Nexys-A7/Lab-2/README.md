@@ -105,10 +105,23 @@
 ### 6. Work on and edit code with the following modifications (this will be your Lab 2 Extension/Submission!)
 
 * Start from the FSM you designed as part of Simulation Activity 3.
-* Incorporate the core code of your FSM into the code of Lab 2 in Vivado. This should be done in the "counter" file as it already incorporates a clock process (which you can modify to also perform the updating of the present state of your FSM) and as the direction of the counter can be reversed as part of this code. You should get rid of the RESET signal. You should also still end up with two processes - the clock and related updates, and the FSM logic.
-* Choose one of the bits of the "cnt" (make sure to think through and choose a particular bit that changes somewhat frequently but not nearly instanteously!) signal as the "input" to your FSM.
 * The output of your FSM should modify the direction of the counter (so for example, when your output becomes 1, your counter switches from counting up to counting down or vice versa).
-  * This does require some reconfiguring of your FSM. The output needs to be remembered in some way instead of just switching between 0's and 1's each state. I would recommend incorporating this memory into the process responsible for the clock and present state updating - trying to do this directly in the FSM logic tends to cause unexpected behaviors.
-* A short answer on your thoughts as to why we have the "only flip between 0 and 1 one time" requirement and what might happen if we did not have that requirement.
+  * We cannot just directly use the FSM output for this! We only want to flip the direction when we get to the very end of our FSM, so if we base the flipping directly off of our FSM output value, we will get undesired behavior.
+  * The updating of your signal related to the direction should occur within a process that is controlled by "clk". Otherwise, you will run into errors related to the timing of your implementation.
+* Incorporate the core code of your FSM into the code of Lab 2 in Vivado. This should be done in the "counter" file as it already incorporates a clock process (which you can modify to also perform the updating of the present state of your FSM) and as the direction of the counter can be reversed as part of this code. * This incorporation should be done in largely the same way as we have added components to testbenches. "counter" is effectively our testbench, supplying values to the FSM and receiving results. You will need some new signals to store the outputs from the FSM in particular.
+* Choose one of the bits of the "cnt" (make sure to think through and choose a particular bit that changes somewhat frequently but not nearly instanteously!) signal as the "input" to your FSM.
 * Other specifics of this intentionally left open-ended to allow for different approaches, but ask questions if you are unsure about these instructions or anything left unsaid!
+
+Initially your "Sources" hierarchy in Vivavdo should look like this:
+
+![Hierarchy Before FSM.png](Hierarchy Before FSM.png)
+
+After making the changes successfully, you should instead see something like this (though feel free to update labels and other names related to your FSM to better match the actually sequence you are trying to recognize):
+
+![Hierarchy After FSM.png](Hierarchy After FSM.png)
+
+As part of the submission itself:
+
+* A short answer on your thoughts as to why we have the "only flip between 0 and 1 one time" requirement and what might happen if we did not have that requirement.
+
 
