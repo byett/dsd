@@ -68,7 +68,7 @@
   * [Reference Manual](https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf) Sections 2.1, 2.2, and 3.2
 * Tools > Generate Memory Configuration File
   * Format: MCS
-  * Select "Memory Part" > Click ... > Manufacturer > Spansion > Density (Mb) > 128 > s25fl128sxxxxxx0-spi-x1_x2_x4 > OK
+  * Select "Memory Part" > Click ... > Manufacturer > Infineon (used to be listed under Spansion) > Density (Mb) > 128 > s25fl128sxxxxxx0-spi-x1_x2_x4 > OK
   * Filename > Recent Directories > C:/Users/.../hex4count > name a new file hex4count.runs/impl_1/hexcount.mcs > Save
   * Interface: SPIx1
   * Check "Load bitstream files > Select C:/Users/.../hex4count/hex4count.runs/impl_1/hexcount.bit > OK
