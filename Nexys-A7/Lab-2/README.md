@@ -76,7 +76,7 @@
   * Generate momory configuration file completed successfully > OK
 
 * Open Hardware Manager > Add Configuration Memory Device > xc7a100t_0
-  * Filter > Manufacturer > Spansion > Density (Mb) > 128
+  * Filter > Manufacturer > Infineon (used to be listed under Spansion) > Density (Mb) > 128
   * Configuration Memory Part > s25fl128sxxxxxx0-spi-x1_x2_x4 > OK
   * Do you want to program the configuration memory device now? > OK
       * After doing this once, it will be grayed out and you should not try to do it again!
