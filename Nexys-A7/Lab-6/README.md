@@ -54,19 +54,7 @@
 
 ### 5. Work on and edit code with the following modifications (depending on when you do this, it will be your Fourth, Fifth, or Sixth Lab Extension/Submission!)
 
-#### A) Change ball speed
-
-* The ball speed is currently 6 pixels per video frame
-
-* Use the slide switches on the Nexys A7-100T board to program the ball speed in the range of 1-32 pixels per frame
-
-  * **WARNING: Avoid setting the speed to zero as the ball will then never reach the bat or wall (how can you force the value to never go lower than 1?)**
-
-* You should also consider **when** to allow speed changes to occur that provides the smoothest gameplay experience
-
-* (For testing and/or fun) See how fast you can move the ball and still keep it in play
-
-#### B) Change bat width and count hits
+#### A) Change bat width and count hits
 
 * Double the width of the bat to make the game really easy
 
@@ -78,4 +66,14 @@
 
 * (For testing and/or fun) See how many times you can hit the ball in a row as the bat slowly shrinks
 
-* Likely during your gameplay, you will notice that hits are often counted multiple times (as in your count increases by more than 1 per successful hit). Remedy this situation in your code as well
+* During your gameplay, you should notice that hits are often counted multiple times (as in your count increases by more than 1 per successful hit). Remedy this situation in your code as well
+
+#### B) Change ball speed
+
+* The ball speed is currently 6 pixels per video frame
+
+* Use your "hits" counter from step A as a means to increase the speed in both the horizontal and vertical directions
+
+* Make sure that you reset the speed back to 6 in each direction when a new game is started!
+
+* (For testing and/or fun) See how many times you can hit the ball in a row as the ball increases in speed
