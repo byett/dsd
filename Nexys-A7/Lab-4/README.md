@@ -71,13 +71,11 @@
 
 ### 6. Work on and edit code with the following modifications (depending on when you do this, it will be your Fourth, Fifth, or Sixth Lab Extension/Submission!)
 
-#### A) Perform leading zero suppression
+#### A) Stop additional values from being entered
 
-* With the leading zeros suppressed, the number “0023” appears as “23” 
+* If you type more than 4 values for a single operand, prevent those additional values from being received
 
-* Hint: You can turn off any digit in the display by never taking its anode to ‘0’
-
-* Modify a particular assignment statement so that it only turns on a particular digit if it is non-zero or if there is non-zero information in the higher order digits of the data word
+* for example, typing ABC123 in that order should now show ABC1 from left to right instead of C123
 
 #### B) Expand the calculator to also do subtraction operations
 
