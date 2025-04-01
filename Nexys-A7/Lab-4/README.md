@@ -77,6 +77,8 @@
 
 * for example, typing ABC123 in that order should now show ABC1 from left to right instead of C123
 
+* This seems to work best when you treat the signal you create to track the number of values entered in much the same way as the operand/accumulator (a std_logic_vector of appropriate size, a regular and next/nx version, actually update the value of the regular version during the clocked process, etc.)
+
 #### B) Expand the calculator to also do subtraction operations
 
 * Use the button BTND (pin P18 on the Nexys A7-100T board) as the “–” key
