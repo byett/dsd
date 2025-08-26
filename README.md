@@ -140,6 +140,10 @@
   * [Bootloader](https://en.wikipedia.org/wiki/Bootloader)
 * [High Bandwidth Memory](https://en.wikipedia.org/wiki/High_Bandwidth_Memory) (HBM)
 * [Embedded system](https://en.wikipedia.org/wiki/Embedded_system)
+  * [Apollo Guidance Computer](https://en.wikipedia.org/wiki/Apollo_Guidance_Computer)
+  * [Inertial navigation system](https://en.wikipedia.org/wiki/Inertial_navigation_system)
+  * [Charles Stark Draper](https://en.wikipedia.org/wiki/Charles_Stark_Draper) 1901&mdash;1987
+  * [Charles Stark Draper Prize](https://en.wikipedia.org/wiki/Charles_Stark_Draper_Prize)
 * [Firmware](https://en.wikipedia.org/wiki/Firmware)
   * [Basic Input/Output System](https://en.wikipedia.org/wiki/BIOS) (BIOS)
   * [Unified Extensible Firmware Interface](https://en.wikipedia.org/wiki/UEFI) (UEFI)
@@ -181,7 +185,7 @@
 * [Restriction of Hazardous Substances Directive](https://en.wikipedia.org/wiki/Restriction_of_Hazardous_Substances_Directive) (RoHS)
 * [Waste Electrical and Electronic Equipment Directive](https://en.wikipedia.org/wiki/Waste_Electrical_and_Electronic_Equipment_Directive) (WEEE)
 * [Hardware acceleration](https://en.wikipedia.org/wiki/Hardware_acceleration)
-  * [AI accelerator](https://en.wikipedia.org/wiki/AI_accelerator) or neural processing unit (NPU)
+  * [Neural processing unit](https://en.wikipedia.org/wiki/Neural_processing_unit) (NPU) or AI accelerator
   * [Printed circuit board](https://en.wikipedia.org/wiki/Printed_circuit_board) (PCB)
     * [*Fundamentals of Printed Circuit Board Technologies*](https://asc-i.com/fundamentals-pcb-tech/download-e-book) by [American Standard Circuits](https://asc-i.com/)
     * [Gerber format](https://en.wikipedia.org/wiki/Gerber_format) is named after [Heinz Joseph Gerber](https://en.wikipedia.org/wiki/Joseph_Gerber) 1924&mdash;1996
@@ -192,8 +196,6 @@
   * [19-inch rack](https://en.wikipedia.org/wiki/19-inch_rack)
   * [Horizontal pitch](https://en.wikipedia.org/wiki/Horizontal_pitch) (HP) is 0.2 inches (5.08 mm) used to measure the horizontal width of rack mounted electronic equipment
   * [Rack unit](https://en.wikipedia.org/wiki/Rack_unit) (U) is 1.75 inches (44.45 mm) used to measure vertical heights of rack mounted equipment
-  * [Open Compute Project](https://en.wikipedia.org/wiki/Open_Compute_Project) (OCP)
-  * [Open Rack](https://en.wikipedia.org/wiki/Open_Rack)
 * [Central processing unit](https://en.wikipedia.org/wiki/Central_processing_unit) (CPU)
   * [CPU socket](https://en.wikipedia.org/wiki/CPU_socket)
   * [AMD WRX80 Motherboard64GB RAM ](https://www.gigabyte.com/Motherboard/WRX80-SU8-IPMI-rev-10#kf)
@@ -210,6 +212,7 @@
 * [Direct memory access](https://en.wikipedia.org/wiki/Direct_memory_access) (DMA)
 * [In-memory processing](https://en.wikipedia.org/wiki/In-memory_processing)
 * [Legendre memory unit](https://www.nengo.ai/nengo/examples/learning/lmu.html) (LMU)
+* [Network-attached storage](https://en.wikipedia.org/wiki/Network-attached_storage) (NAS)
 * [Multiple buffering](https://en.wikipedia.org/wiki/Multiple_buffering)
 * [Framebuffer](https://en.wikipedia.org/wiki/Framebuffer)
 * [Tensor Processing Unit](https://en.wikipedia.org/wiki/Tensor_Processing_Unit) (TPU)
@@ -220,6 +223,11 @@
 * [Neural processor](https://en.wikichip.org/wiki/neural_processor)
 * [Organ-on-a-chip](https://en.wikipedia.org/wiki/Organ-on-a-chip) (OOC)
 * [List of quantum processors](https://en.wikipedia.org/wiki/List_of_quantum_processors)
+---
+* [Open-source hardware](https://en.wikipedia.org/wiki/Open-source_hardware)
+  * [Open Source Hardware Association](https://en.wikipedia.org/wiki/Open_Source_Hardware_Association) (OSHWA)
+  * [Open Compute Project](https://en.wikipedia.org/wiki/Open_Compute_Project) (OCP)
+  * [Open Rack](https://en.wikipedia.org/wiki/Open_Rack)
 * [Semiconductor intellectual property core](https://en.wikipedia.org/wiki/Semiconductor_intellectual_property_core) (IP core)
 * [GNU Lesser General Public License](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License) (LGPL)
   * [CERN](https://en.wikipedia.org/wiki/CERN) Open Hardware License ([OHL](https://en.wikipedia.org/wiki/CERN_Open_Hardware_Licence))
@@ -239,6 +247,7 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
 After several language standardization steps that took place in 1987, 1993, 2000, 2002, and 2008, VHDL now includes a large set of packages that, once included in your code, give you the possibility of using several mathematical constants, numerical functions, overloaded operators, type conversion functions, enhanced signal types, and much more."\
   > Page 177: "This section presents the solutions to all problems presented throughout this book."
 * [Ada](https://en.wikipedia.org/wiki/Ada_(programming_language)) programming language
+* [Case sensitivity](https://en.wikipedia.org/wiki/Case_sensitivity)
 * [IEEE 1164-1993](https://standards.ieee.org/standard/1164-1993.html): IEEE Standard Multivalue Logic System for VHDL Model Interoperability (Std_logic [1164](https://en.wikipedia.org/wiki/IEEE_1164))
   * [std_logic vs. std_ulogic](https://vhdlwhiz.com/std_logic-vs-std_ulogic/) by VHDLwhiz
   * [Signed vs. Unsigned in VHDL](https://www.nandland.com/vhdl/examples/example-signed-unsigned.html) by Nandland

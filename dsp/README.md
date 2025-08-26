@@ -3,8 +3,12 @@
 * [Zach Star](https://www.youtube.com/@zachstar) by [Zachary Star](https://www.linkedin.com/in/zachary-s-777033ab/)
 * [Iain Explains Signals, Systems, and Digital Communications](https://www.youtube.com/@iain_explains) by Professor [Iain Collings](https://www.iaincollings.com/) of [Macquarie University](https://en.wikipedia.org/wiki/Macquarie_University) in Sydney, Australia
 * [Signals and Systems](https://www.youtube.com/playlist?app=desktop&list=PLXOYj6DUOGrrAlYxrAu5U2tteJTrSe5Gt) by EC Academy
-* [Signals and Systems](https://www.princeton.edu/~cuff/ele301/index.html) by Professor [Paul Cuff](https://www.princeton.edu/~cuff/) of Princeton University
 * [Fourier transform](https://www.youtube.com/playlist?app=desktop&list=PLBlnK6fEyqRhkN2yGQpH40Pk-paIJzzvv)
+* [Phil's Lab](https://www.youtube.com/@PhilsLab) by [Philip Salmony](https://github.com/pms67)
+## Courses
+* [Signals and Systems](https://ocw.mit.edu/courses/res-6-007-signals-and-systems-spring-2011/) by Professor [Alan V. Oppenheim](https://en.wikipedia.org/wiki/Alan_V._Oppenheim) of MIT
+* [Signals and Systems](https://www.princeton.edu/~cuff/ele301/index.html) by Professor [Paul Cuff](https://www.princeton.edu/~cuff/) of Princeton University
+* [Digital Signal Processing](https://ocw.mit.edu/courses/res-6-008-digital-signal-processing-spring-2011/) by Professor Alan V. Oppenheim of MIT
 ## Signal Processing
 * [Analog signal](https://en.wikipedia.org/wiki/Analog_signal)
 * [Signal processing](https://en.wikipedia.org/wiki/Signal_processing)
@@ -19,6 +23,8 @@
 * [SIMIODE](https://www.simiode.org/) (Systemic Initiative for Modeling Investigations and Opportunities with Differential Equations)
 * [Linear time-invariant (LTI) system](https://en.wikipedia.org/wiki/Linear_time-invariant_system)
 * [Recurrence relation](https://en.wikipedia.org/wiki/Recurrence_relation)
+* [Finite impulse response](https://en.wikipedia.org/wiki/Finite_impulse_response) (FIR)
+* [Infinite impulse response](https://en.wikipedia.org/wiki/Infinite_impulse_response) (IIR)
 ---
 * [Complex analysis](https://en.wikipedia.org/wiki/Complex_analysis)
   * [*Alice's Adventures in Wonderland*](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland) by [Lewis Carroll](https://en.wikipedia.org/wiki/Lewis_Carroll) 1832&mdash;1898
@@ -29,6 +35,7 @@
 * [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform)
 * [Fast Fourier transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform) (FFT)
   * [Joseph Fourier](https://en.wikipedia.org/wiki/Joseph_Fourier) 1768&mdash;1830
+* [Hilbert transform](https://en.wikipedia.org/wiki/Hilbert_transform)
 * [Laplace transform](https://en.wikipedia.org/wiki/Laplace_transform)
   * [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) 1749&mdash;1827
 * [Laurent series](https://en.wikipedia.org/wiki/Laurent_series)
@@ -40,4 +47,7 @@
   * [Brook Taylor](https://en.wikipedia.org/wiki/Brook_Taylor) 1685&mdash;1731
 * [Wavelet](https://en.wikipedia.org/wiki/Wavelet)
 * [Wavelet transform](https://en.wikipedia.org/wiki/Wavelet_transform)
+  * [Discrete wavelet transform](https://en.wikipedia.org/wiki/Discrete_wavelet_transform) (DWT)
+  * [Empirical wavelet transform](https://www.mathworks.com/help/wavelet/ug/empirical-wavelet-transform.html) (EWT)
+  * [ewt](https://www.mathworks.com/help/wavelet/ref/ewt.html)
 * [Z-transform](https://en.wikipedia.org/wiki/Z-transform)

@@ -1,5 +1,6 @@
 # Standards
 * [Accellera](https://en.wikipedia.org/wiki/Accellera)
+  * [Design and Verification Conference](https://www.accellera.org/about/dvcon) (DVCon)
 * [Advanced Microcontroller Bus Architecture](https://en.wikipedia.org/wiki/Advanced_Microcontroller_Bus_Architecture) (AMBA)
 * [American National Standards Institute](https://en.wikipedia.org/wiki/American_National_Standards_Institute) (ANSI)
 * [ANSI Selected Standards](https://webstore.ansi.org/industry/selected-standards)
@@ -23,6 +24,8 @@
   * [IEEE P3307](https://standards.ieee.org/ieee/3307/11503/) Adoption of Moving Picture, Audio and Data Coding by Artificial Intelligence (MPAI) Technical Specification Connected Autonomous Vehicle - Architecture (CAV) Version 1
 * [North American Charging Standard](https://en.wikipedia.org/wiki/North_American_Charging_Standard) (NACS)
   * [Opening the North American Charging Standard](https://www.tesla.com/blog/opening-north-american-charging-standard) by The Tesla Team, November 11, 2022
+* [Profibus](https://en.wikipedia.org/wiki/Profibus)
+* [Profinet](https://en.wikipedia.org/wiki/Profinet)
 * [SEMI](https://en.wikipedia.org/wiki/SEMI)
   * [Open Artwork System Interchange Standard](https://en.wikipedia.org/wiki/Open_Artwork_System_Interchange_Standard) (OASIS) replaced Graphic Design System [GDSII](https://en.wikipedia.org/wiki/GDSII)
 * [Semiconductor Industry Association](https://en.wikipedia.org/wiki/Semiconductor_Industry_Association) (SIA)

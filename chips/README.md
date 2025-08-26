@@ -12,9 +12,13 @@
 * [Building a Robust Semiconductor Ecosystem in New York State](https://esd.ny.gov/industries/semiconductors)
 * [European Chips Act](https://en.wikipedia.org/wiki/European_Chips_Act)
 ---
-* [John Bardeen](https://en.wikipedia.org/wiki/John_Bardeen) 1908&mdash;1991
-* [Walter Houser Brattain](https://en.wikipedia.org/wiki/Walter_Houser_Brattain) 1902&mdash;1987
-* [William Shockley](https://en.wikipedia.org/wiki/William_Shockley) 1910&mdash;1989
+* [Nobel Prize in Physics 1956](https://www.nobelprize.org/prizes/physics/1956/summary/)
+  * [William Shockley](https://en.wikipedia.org/wiki/William_Shockley) 1910&mdash;1989
+  * [John Bardeen](https://en.wikipedia.org/wiki/John_Bardeen) 1908&mdash;1991
+  * [Walter Houser Brattain](https://en.wikipedia.org/wiki/Walter_Houser_Brattain) 1902&mdash;1987
+* [Comstock Prize in Physics](https://en.wikipedia.org/wiki/Comstock_Prize_in_Physics)
+  * [Cyrus B. Comstock](https://en.wikipedia.org/wiki/Cyrus_B._Comstock) 1831&mdash;19101
+* [National Academy of Sciences](https://en.wikipedia.org/wiki/National_Academy_of_Sciences) (NAS)
 * [Frederick Terman](https://en.wikipedia.org/wiki/Frederick_Terman) 1900&mdash;1982
 * [Arnold Beckman](https://en.wikipedia.org/wiki/Arnold_Beckman) 1900&mdash;2004
 * [Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley)
@@ -50,6 +54,7 @@
 * [Nordic Semiconductor](https://en.wikipedia.org/wiki/Nordic_Semiconductor)
   * [nRF7002](https://www.nordicsemi.com/Products/nRF7002)
 * [NVIDIA graphics processing units](https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units)
+  * [List of Nvidia graphics processing units](https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units)
   * [NVIDIA GPU Technology Conference](https://en.wikipedia.org/wiki/Nvidia_GTC) (GTC)
   * [NVIDIA DGX](https://en.wikipedia.org/wiki/Nvidia_DGX)
   * S. K. Moore, ["The Secret to NVIDIA’s AI Success,"](https://spectrum.ieee.org/nvidia-gpu) *IEEE Spectrum*, September 7, 2023
@@ -66,6 +71,7 @@
     * [David Blackwell](https://en.wikipedia.org/wiki/David_Blackwell) 1919&mdash;2010
   * [GB200 NVL72](https://www.nvidia.com/en-us/data-center/gb200-nvl72/) connects 36 Grace CPUs and 72 Blackwell GPUs in a rack-scale design
   * [NVIDIA Omniverse](https://en.wikipedia.org/wiki/Nvidia_Omniverse)
+  * [NVIDIA Project DIGITS](https://www.nvidia.com/en-us/project-digits/)
 * [NXP](https://en.wikipedia.org/wiki/List_of_NXP_products)
   * [MIFARE](https://en.wikipedia.org/wiki/MIFARE)
 * [Qualcomm](https://en.wikipedia.org/wiki/Qualcomm)

@@ -15,16 +15,30 @@
 * [Brocade Communications Systems](https://en.wikipedia.org/wiki/Brocade_Communications_Systems)
 * [Cisco](https://en.wikipedia.org/wiki/Cisco)
 ---
+* [Association of Old Crows](https://en.wikipedia.org/wiki/Association_of_Old_Crows) (AOC)
+* [List of defense contractors](https://en.wikipedia.org/wiki/List_of_defense_contractors)
+* [List of modern armament manufacturers](https://en.wikipedia.org/wiki/List_of_modern_armament_manufacturers)
+* [BAE Systems Inc.](https://en.wikipedia.org/wiki/BAE_Systems_Inc.)
+  * [BAE Systems](https://en.wikipedia.org/wiki/BAE_Systems)
+  * [Hazeltine Corporation](https://en.wikipedia.org/wiki/Hazeltine_Corporation)
+* [Bechtel](https://en.wikipedia.org/wiki/Bechtel)
 * [CACI](https://en.wikipedia.org/wiki/CACI)
+* [General Dynamics](https://en.wikipedia.org/wiki/General_Dynamics) (GD)
 * [L3Harris](https://en.wikipedia.org/wiki/L3Harris)
 * [Leidos](https://en.wikipedia.org/wiki/Leidos)
   * [Science Applications International Corporation](https://en.wikipedia.org/wiki/Science_Applications_International_Corporation) (SAIC)
+* [Lockheed Martin](https://en.wikipedia.org/wiki/Lockheed_Martin)
 * [MIT Lincoln Laboratory](https://en.wikipedia.org/wiki/MIT_Lincoln_Laboratory)
 * [Mitre Corporation](https://en.wikipedia.org/wiki/Mitre_Corporation)
+* [Northrop Grumman](https://en.wikipedia.org/wiki/Northrop_Grumman)
+* [Peraton](https://en.wikipedia.org/wiki/Peraton)
+* [Rheinmetall](https://en.wikipedia.org/wiki/Rheinmetall)
+* [RTX Corporation](https://en.wikipedia.org/wiki/RTX_Corporation)
+* [Thales Group](https://en.wikipedia.org/wiki/Thales_Group)
 * [Vencore](https://en.wikipedia.org/wiki/Vencore)
   * [Peraton Labs](https://en.wikipedia.org/wiki/Peraton_Labs)
   * [Perspecta Inc.](https://en.wikipedia.org/wiki/Perspecta_Inc.)
-* [RTX Corporation](https://en.wikipedia.org/wiki/RTX_Corporation)
+* [United States Army Command, Control, Communication, Computers, Cyber, Intelligence, Surveillance and Reconnaissance Center](https://en.wikipedia.org/wiki/United_States_Army_Command,_Control,_Communication,_Computers,_Cyber,_Intelligence,_Surveillance_and_Reconnaissance_Center)
 ## Telecommunications
 * [Telecommunications](https://en.wikipedia.org/wiki/Telecommunications)
 * [Last mile](https://en.wikipedia.org/wiki/Last_mile_(telecommunications))
@@ -36,13 +50,19 @@
 * [Erlang](https://en.wikipedia.org/wiki/Erlang_(unit))
   * [Agner Krarup Erlang](https://en.wikipedia.org/wiki/Agner_Krarup_Erlang) 1878&mdash;1929
 * [Telephone](https://en.wikipedia.org/wiki/Telephone) by [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell) 1847&mdash;1922
+  * [Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs)
 * [Original North American area codes](https://en.wikipedia.org/wiki/Original_North_American_area_codes)
 * [Net neutrality](https://en.wikipedia.org/wiki/Net_neutrality)
 ## Information Theory
+* [Mathematical Analysis of Random Noise: Part I and Part II](https://ia802908.us.archive.org/4/items/bstj23-3-282/bstj23-3-282_text.pdf) and [Part III and Part IV](https://ia802201.us.archive.org/16/items/bstj24-1-46/bstj24-1-46.pdf) by [Stephen O. Rice](https://en.wikipedia.org/wiki/Stephen_O._Rice) 1907&mdash;1986
 * [A Mathematical Theory of Communication](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication) by [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) 1916&mdash;2001
   * [Juggling robot](https://www.youtube.com/watch?v=tXU3EPg2cgA)
   * [John Tukey](https://en.wikipedia.org/wiki/John_Tukey) 1915&mdash;2000
 * [Entropy (information theory)](https://en.wikipedia.org/wiki/Entropy_(information_theory))
+* [Entropy in thermodynamics and information theory](https://en.wikipedia.org/wiki/Entropy_in_thermodynamics_and_information_theory)
+* [Entropy (astrophysics)](https://en.wikipedia.org/wiki/Entropy_(astrophysics))
+* [Entropy](https://en.wikipedia.org/wiki/Entropy)
+* [Entropy (disambiguation)](https://en.wikipedia.org/wiki/Entropy_(disambiguation))
 * [Nyquist–Shannon sampling theorem](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem)
   * [Harry Nyquist](https://en.wikipedia.org/wiki/Harry_Nyquist) 1889&mdash;1976
   * [Nyquist frequency](https://en.wikipedia.org/wiki/Nyquist_frequency)
@@ -66,6 +86,7 @@
 * [Dispersion](https://en.wikipedia.org/wiki/Dispersion_(optics))
 * [Laser linewidth](https://en.wikipedia.org/wiki/Laser_linewidth)
 * [Optical fiber](https://en.wikipedia.org/wiki/Optical_fiber)
+* [Passive optical network](https://en.wikipedia.org/wiki/Passive_optical_network) (PON)
 * [Subcarrier multiplexing](https://en.wikipedia.org/wiki/Subcarrier_multiplexing)
 * [Wave interference](https://en.wikipedia.org/wiki/Wave_interference)
 ## Satellite Communications
@@ -88,11 +109,19 @@
   * [Heinrich Hertz](https://en.wikipedia.org/wiki/Heinrich_Hertz) 1857&mdash;1894
     * [Hertz](https://en.wikipedia.org/wiki/Hertz)
   * [Guglielmo Marconi](https://en.wikipedia.org/wiki/Guglielmo_Marconi) 1874&mdash;1937
+  * [Louis Alan Hazeltine](https://en.wikipedia.org/wiki/Louis_Alan_Hazeltine) 1886&mdash;1964
+    * [Neutrodyne](https://en.wikipedia.org/wiki/Neutrodyne)
+  * [Edwin Howard Armstrong](https://en.wikipedia.org/wiki/Edwin_Howard_Armstrong) 1890&mdash;1954
+    * [Superheterodyne receiver](https://en.wikipedia.org/wiki/Superheterodyne_receiver)
 * [Multipath propagation](https://en.wikipedia.org/wiki/Multipath_propagation)
 * [Non-line-of-sight propagation](https://en.wikipedia.org/wiki/Non-line-of-sight_propagation) (NLOS)
 * [Over-the-air update](https://en.wikipedia.org/wiki/Over-the-air_update)
 * [Polar code](https://en.wikipedia.org/wiki/Polar_code_(coding_theory))
 * [eNodeB](https://en.wikipedia.org/wiki/ENodeB)
+* [Fresnel zone](https://en.wikipedia.org/wiki/Fresnel_zone)
+  * [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel) 1788&mdash;1827
+* [Friis transmission equation](https://en.wikipedia.org/wiki/Friis_transmission_equation)
+  * [Harald T. Friis](https://en.wikipedia.org/wiki/Harald_T._Friis) 1893&mdash;1976
 * [Fronthaul](https://en.wikipedia.org/wiki/Fronthaul)
 * [Backhaul](https://en.wikipedia.org/wiki/Backhaul_(telecommunications))
 * [Wi-Fi 5 vs. Wi-Fi 6 vs. Wi-Fi 6E](https://www.pcworld.com/article/823810/wi-fi-5-vs-wi-fi-6-vs-wi-fi-6e-which-router-should-you-pick.html)
@@ -136,11 +165,15 @@
 * [eSIM](https://en.wikipedia.org/wiki/ESIM)
   * [Holafly](https://esim.holafly.com/)
 * [International mobile subscriber identity](https://en.wikipedia.org/wiki/International_mobile_subscriber_identity) (IMSI)
+* [International Mobile Equipment Identity](https://en.wikipedia.org/wiki/International_Mobile_Equipment_Identity) (IMEI)
+`*#06#`
+* [Unstructured Supplementary Service Data](https://en.wikipedia.org/wiki/Unstructured_Supplementary_Service_Data) (USSD)
 * [Integrated circuit card identifier](https://en.wikipedia.org/wiki/SIM_card#ICCID) (ICCID)
 * [Anechoic chamber](https://en.wikipedia.org/wiki/Anechoic_chamber)
 * [Reverberation chamber](https://en.wikipedia.org/wiki/Reverberation_room)
 * [Electromagnetic reverberation chamber](https://en.wikipedia.org/wiki/Electromagnetic_reverberation_chamber)
 * [First-person view (radio control)](https://en.wikipedia.org/wiki/First-person_view_(radio_control)) (FPV)
+* [Ataya](https://www.ataya.io/)
 ## Software-Defined Radio
 * [Software-defined radio](https://en.wikipedia.org/wiki/Software-defined_radio) (SDR)
   * [Vanu Bose](https://en.wikipedia.org/wiki/Vanu_Bose) 1965&mdash;2017

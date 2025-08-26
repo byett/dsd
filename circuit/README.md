@@ -1,4 +1,12 @@
 # Electronic Circuit
+## YouTube Channels
+* [CircuitBread](https://www.youtube.com/@CircuitBread/)
+* [Phil's Lab](https://www.youtube.com/@PhilsLab) by [Philip Salmony](https://github.com/pms67)
+---
+* [Understanding Electricity and Circuits: What the Text Books Don’t Tell You](https://www.vicphysics.org/documents/teachers/2002Sefton.pdf) 2002 by Ian M. Sefton
+* [Circuits and Electronics](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/) MIT OpenCourseWare (OCW)
+* [Learning Analog System Design With the MOSbius](https://spectrum.ieee.org/deep-brain-stimulation-depression) by [Peter R. Kinget](https://peterkinget.github.io/)
+---
 * [Electronic circuit](https://en.wikipedia.org/wiki/Electronic_circuit)
 * [Electrical network](https://en.wikipedia.org/wiki/Electrical_network)
 * [Network analysis (electrical circuits)](https://en.wikipedia.org/wiki/Network_analysis_(electrical_circuits))
@@ -13,6 +21,20 @@
   * [Hans Ferdinand Mayer](https://en.wikipedia.org/wiki/Hans_Ferdinand_Mayer) 1895&mdash;1980
   * [Edward Lawry Norton](https://en.wikipedia.org/wiki/Edward_Lawry_Norton) 1898&mdash;1983
 * [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell) 1847&mdash;1922
+---
+* [Wheatstone bridge](https://en.wikipedia.org/wiki/Wheatstone_bridge) 1833 and 1843
+  * [Samuel Hunter Christie](https://en.wikipedia.org/wiki/Samuel_Hunter_Christie) 1784&mdash;1865
+  * [Charles Wheatstone](https://en.wikipedia.org/wiki/Charles_Wheatstone) 1802&mdash;1875
+---
+* [Differential amplifier](https://en.wikipedia.org/wiki/Differential_amplifier)
+* [Operational amplifier](https://en.wikipedia.org/wiki/Operational_amplifier)
+  * [The Golden Rules of Op-Amps](https://www.circuitbread.com/ee-faq/what-are-the-golden-rules-of-op-amps)
+* [Operational amplifier applications](https://en.wikipedia.org/wiki/Operational_amplifier_applications)
+  * [Karl D. Swartzel Jr.](https://en.wikipedia.org/wiki/Karl_D._Swartzel_Jr.) 1907&mdash;1998
+* [Negative-feedback amplifier](https://en.wikipedia.org/wiki/Negative-feedback_amplifier)
+* [Push–pull output](https://en.wikipedia.org/wiki/Push%E2%80%93pull_output)
+* [LM741](https://www.ti.com/lit/ds/symlink/lm741.pdf)
+* [LM6172](https://www.ti.com/lit/ds/symlink/lm6172.pdf)
 ---
 * [Electromagnetic field](https://en.wikipedia.org/wiki/Electromagnetic_field)
 * [Radio-frequency engineering](https://en.wikipedia.org/wiki/Radio-frequency_engineering)

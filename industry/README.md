@@ -8,7 +8,9 @@
 * [TechInsights](https://www.techinsights.com/)
 * [IEEE Solid-State Circuits Society](https://sscs.ieee.org/)
 * [International Solid-State Circuits Conference](https://en.wikipedia.org/wiki/International_Solid-State_Circuits_Conference) (ISSCC)
+* [EmbeddedRelated.com](https://www.embeddedrelated.com/)
 * [embedded world Exhibition & Conference](https://de.wikipedia.org/wiki/Embedded_world_Exhibition_%26_Conference)
+  * [embedded world North America](https://www.embedded-world.de/en/embedded-world-wide/embedded-world-north-america)
 * [Hot Chips](https://hotchips.org/)
 * [Semiconductor consolidation](https://en.wikipedia.org/wiki/Semiconductor_consolidation)
 * [International Technology Roadmap for Semiconductors](https://en.wikipedia.org/wiki/International_Technology_Roadmap_for_Semiconductors) (ITRS)
@@ -54,6 +56,12 @@
 * [Organic electrochemical transistor](https://en.wikipedia.org/wiki/Organic_electrochemical_transistor) (OECT)
 * [Carbon nanotube field-effect transistor](https://en.wikipedia.org/wiki/Carbon_nanotube_field-effect_transistor) (CNTFET)
 * [Microelectromechanical systems](https://en.wikipedia.org/wiki/Microelectromechanical_systems) (MEMS)
+  * [There's Plenty of Room at the Bottom](https://en.wikipedia.org/wiki/There%27s_Plenty_of_Room_at_the_Bottom) 1959
+  * [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) 1918&mdash;1988
+  * [William McLellan](https://en.wikipedia.org/wiki/William_McLellan_(American_electrical_engineer)) 1924&mdash;2011
+  * [Chronova Engineering](https://www.chronova-engineering.co.uk/)
+    * [YouTube](https://www.youtube.com/@chronovaengineering/)
+    * [Stirling engine](https://en.wikipedia.org/wiki/Stirling_engine) 1816 by [Robert Stirling](https://en.wikipedia.org/wiki/Robert_Stirling) 1790&mdash;1878
 * [Optical interconnect](https://en.wikipedia.org/wiki/Optical_interconnect)
 * [Photonic integrated circuit](https://en.wikipedia.org/wiki/Photonic_integrated_circuit) (PIC)
 * [Silicon photonics](https://en.wikipedia.org/wiki/Silicon_photonics)
@@ -137,6 +145,8 @@
 * [Technischer Überwachungsverein](https://en.wikipedia.org/wiki/Technischer_%C3%9Cberwachungsverein) (TÜV)
 * [UL](https://en.wikipedia.org/wiki/UL_(safety_organization))
 ## Semiconductor Companies
+* [List of largest technology companies by revenue](https://en.wikipedia.org/wiki/List_of_largest_technology_companies_by_revenue)
+* [List of public corporations by market capitalization](https://en.wikipedia.org/wiki/List_of_public_corporations_by_market_capitalization)
 * [List of semiconductor companies](https://en.wikichip.org/wiki/list_of_semiconductor_companies)
   * [Foundry model](https://en.wikipedia.org/wiki/Foundry_model)
   * [Pure play](https://en.wikipedia.org/wiki/Pure_play) foundries
@@ -160,12 +170,16 @@
   * [Aldec](https://en.wikipedia.org/wiki/Aldec)
   * [Altium](https://en.wikipedia.org/wiki/Altium)
   * [Empyrean Technology](https://www.empyrean-tech.com/)
+* [Semiconductor intellectual property core](https://en.wikipedia.org/wiki/Semiconductor_intellectual_property_core) (IP core)
+* [List of semiconductor IP core vendors](https://en.wikipedia.org/wiki/List_of_semiconductor_IP_core_vendors)
 ## Alliances and Consortia
 * [CHIPS Alliance](https://chipsalliance.org/) (Common Hardware for Interfaces, Processors and Systems) [repositories](https://github.com/chipsalliance)
 ## The United States
+* [AIStorm](https://aistorm.ai/)
 * [Alif Semiconductor](https://alifsemi.com/)
 * [Allied Electronics and Automation](https://en.wikipedia.org/wiki/Allied_Electronics)
 * [Amazon](https://en.wikipedia.org/wiki/Amazon_(company))
+* [Ambarella Inc.](https://en.wikipedia.org/wiki/Ambarella_Inc.)
 * [Ambiq](https://ambiq.com/)
 * [AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices)
   * [Xilinx](https://en.wikipedia.org/wiki/Xilinx)
@@ -267,6 +281,7 @@
 * [Mobileye](https://en.wikipedia.org/wiki/Mobileye) was acquired by Intel in 2017 and went public again in 2022
 * [Sony Semiconductor Israel](https://en.wikipedia.org/wiki/Sony_Semiconductor_Israel), formerly Altair Semiconductor
 * [Tower Semiconductor](https://en.wikipedia.org/wiki/Tower_Semiconductor)
+* [Weebit Nano](https://en.wikipedia.org/wiki/Weebit_Nano)
 ## Japan
 * [Asahi Kasei](https://en.wikipedia.org/wiki/Asahi_Kasei)
 * [Fujitsu](https://en.wikipedia.org/wiki/Fujitsu)
