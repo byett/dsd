@@ -6,22 +6,22 @@ end adder_tb;
 architecture behav of adder_tb is
   --  Declaration of the component that will be instantiated.
   component adder
-    port (ci : in bit; i0, i1 : in bit; s : out bit; co : out bit);
+    port (ci : in bit; a, b : in bit; s : out bit; co : out bit);
   end component;
 
-  signal i0, i1, ci, s, co : bit;
+  signal a, b, ci, s, co : bit;
 begin
   --  Component instantiation.
-  adder_0: adder port map (ci => ci, i0 => i0, i1 => i1,
+  adder_0: adder port map (ci => ci, a => a, b => b,
                            s => s, co => co);
 
   --  This process does the real job.
   process
     type pattern_type is record
       --  The inputs of the adder.
-      ci, i0, i1 : bit;
+      ci, a, b : bit;
       --  The expected outputs of the adder.
-      s, co : bit;
+      co, s : bit;
     end record;
     --  The patterns to apply.
     type pattern_array is array (natural range <>) of pattern_type;
@@ -38,8 +38,8 @@ begin
     --  Check each pattern.
     for i in patterns'range loop
       --  Set the inputs.
-      i0 <= patterns(i).i0;
-      i1 <= patterns(i).i1;
+      a <= patterns(i).a;
+      b <= patterns(i).b;
       ci <= patterns(i).ci;
       --  Wait for the results.
       wait for 1 ns;
