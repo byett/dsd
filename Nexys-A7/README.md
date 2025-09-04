@@ -24,12 +24,14 @@ The master XDC files of all Digilent boards can be found [here](https://github.c
 * Design Tools > Vivado Design Suite that includes Vivado and [Vitis](https://www.xilinx.com/products/design-tools/vitis/vitis-platform.html) HLS ([high-level synthesis](https://en.wikipedia.org/wiki/High-level_synthesis)) -- uncheck all others such as
   * Vitis Model Composer (Xilinx Toolbox for MATLAB and Simulink. Includes the functionality of System Generator for DSP)
   * DocNav
+  * MAKE SURE YOU UNCHECK "Acquire or Manage a License Key"
 * Devices > 7 Series > [Artix-7](https://www.xilinx.com/products/silicon-devices/fpga/artix-7.html) -- uncheck all others
 * Installation Options > Install Cable Drivers -- this is required
   * To install cable drivers on Linux, follow the instructions on P. 47 in [UG973](https://www.xilinx.com/support/documentation-navigation/design-hubs/dh0013-vivado-installation-and-licensing-hub.html) and enter the following commands as root
 ```sh
 ./tools/Xilinx/data/xicom/cable_drivers/lin64/install_script/install_drivers/install_drivers
 ```
+ * On the latest Windows installation, I'm finding that Vivado has removed the option to allow pre-installation of cable drivers. If needed, here is a resource that should allow us to install them manually after the fact: [link](https://docs.amd.com/r/en-US/ug973-vivado-release-notes-install-license/Install-Cable-Drivers). Credit to Ryan Manley for discovery.
 ![install-1.png](/Nexys-A7/install-1.png)
 ![install-2.png](/Nexys-A7/install-2.png)
 * Download and extract [board files](https://github.com/Digilent/vivado-boards/archive/master.zip)
