@@ -68,7 +68,10 @@
 
 ### 5. Edit code with the following modifications (this will be your Lab 3 Extension/Submission!)
 
-* Modify one or more of the provided programs such that there is a second ball. Each ball should have a different appearance including shape (one of them may remain a square, but the other should be a triangle, circle, etc.) and color, should move at different speeds, and should be placed at different starting x positions such that they do not initially collide with each other.
+* Modify one or more of the provided programs such that there is a second "ball". Each "ball" should:
+  * have a different appearance including shape (one of them may remain a square, but the other should be a triangle, circle, etc.) and color
+  * move at different speeds (you will need to introduce new signals to allow each ball to move both horizontally and vertically)
+  * be placed at different starting positions such that they do not initially collide with each other.
 
-* Introduce new signals to allow each ball to move both horizontally and vertically.
+* Include in your submission a discussion on how you created your new shape, how you discovered where to make the appropriate changes in the code, and a short video of your finished product.
 
