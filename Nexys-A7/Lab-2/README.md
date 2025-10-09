@@ -59,7 +59,7 @@
 
 * Click 'Program Device' then xc7a100t_0 to download hex4counter.runs/impl_1/hexcount.bit to the Nexys A7-100T board
 
-* The four digit counter counts from 0000 to FFFF (see [Modifications](/Modifications) for an eight-digit counter)
+* The four digit counter counts from 0000 to FFFF (see [Modifications](https://github.com/byett/dsd/tree/CPE487-Fall2025/Nexys-A7/Lab-2/Modifications) for an eight-digit counter)
 
 * Note: as you make modifications to the code, you may be prompted to re-do this process (synthesis, implementation, and bitstream). You DO have to do this for your new code to take effect.
 
