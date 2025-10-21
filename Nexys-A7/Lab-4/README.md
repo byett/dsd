@@ -71,13 +71,13 @@
 
 ### 6. Work on and edit code with the following modifications (depending on when you do this, it will be your Fourth, Fifth, or Sixth Lab Extension/Submission!)
 
-#### A) Stop additional values from being entered
+#### A) Perform leading zero suppression
 
-* If you type more than 4 values for a single operand, prevent those additional values from being received
+* With the leading zeros suppressed, the number “0023” appears as “23” 
 
-* for example, typing ABC123 in that order should now show ABC1 from left to right instead of C123
+* Hint: You can turn off any digit in the display by never taking its anode to ‘0’
 
-* This seems to work best when you treat the signal you create to track the number of values entered in much the same way as the operand/accumulator (a std_logic_vector of appropriate size, a regular and next/nx version, actually update the value of the regular version during the clocked process, etc.)
+* Modify a particular assignment statement so that it only turns on a particular digit if it is non-zero or if there is non-zero information in the higher order digits of the data word
 
 #### B) Expand the calculator to also do subtraction operations
 
