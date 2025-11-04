@@ -15,7 +15,8 @@
 	* This is a group assignment, and for the most part you are graded as a group. I reserve the right to modify single student grades for extenuating circumstances, such as a clear lack of participation from a group member. You are allowed to rely on the expertise of your group members in certain aspects of the project, but you should all have at least a cursory understanding of all aspects of your project.
 
 ## Presentation (20% of your project grade):
-* Additionally, you’ll be expected to give a demonstration + presentation during the final exam period. This can take the form of a live demonstration + informal discussion (the encouraged option in most situations that will be given more leeway from any technical difficulties), or a pre-created video including the project in action + slides describing much of the same content as the github submission (a backup option primarily for groups that will be missing multiple members during the final exam period).
+* Additionally, you’ll be expected to give a demonstration + presentation during the final exam period. This should take the form of a live demonstration (showcasing your code actually running on the board) + discussion (a virtual poster presentation that we will host in the B12 lab).
+* I plan to randomly assign 2 sets of groups to essentially have 2 hour-long sessions. In each session roughly half of you will be presenting and the other half will walk around and see everyone's projects. You are expected to be there for the full exam period and to actively participate in this process, and will receive a deduction if you fail to do so.
 	* Though this a group assignment, the presentation in particular is an area where I will penalize students who do not participate in the presentation/discussion or who are unable to answer questions about their project.
 
 ## Extra Notes:
@@ -28,7 +29,21 @@
 * You may instead peruse the following list of projects (or outside project sources) for some ideas. Some of these were personally vetted by me (Prof. Yett), others came prior to my time at Stevens. 
 * If you choose to start from an existing project and make substanstial changes/improvements, you must cite your starting place! This goes for the labs, these projects, or any others you may find. Do not pass off someone else's work as your own and you'll do just fine.
 
-# Past Projects (these were vetted by me personally)
+# Past Projects (these were vetted by me personally. They may not be perfect still but should help give you some ideas of projects that did fairly well)
+## 2025 Spring
+* [Grid Escape](https://github.com/ashaligram04/Grid_Escape/blob/main/README.md)
+* [Duck Hunt](https://github.com/tfisher-2/Duck-Hunt/tree/main)
+* [Donkey Kong](https://github.com/kk-ashish/CPE-487-Final-Project/tree/main)
+* [Frogger](https://github.com/UsuarioDelNet/487FinalProject)
+* [Card Memory Game](https://github.com/jmorsillo/CPE-487-Final-Project-Card-Memory)
+* [Two player Racing](https://github.com/Tuki260/DSD-Project)
+* [Snake](https://github.com/JohnCallinan/CPE-487.git)
+* [Start of a Karaoke Project](https://github.com/I-Gringeri/FinalProjectCPE487)
+* [Start of Flight Simulator (uses the rotational axes of the board, very cool!)](https://github.com/alionaheitz/CPE487Project)
+* [Updated Subway Surfers, see 2024 Fall](https://github.com/LeorYom/FPGA-CPE478Project)
+* [FPGA .wav Player](https://github.com/ChristopherSpadavecchia/FPGA-Wav-Player/blob/main/README.md)
+* [Original Game](https://github.com/bdiaz4/Digital-System-Design-Final-Project/tree/main)
+* [Simon Says](https://github.com/AbigailN10/CPE487/tree/main)
 ## 2024 Fall
 * [Whack-A-Mole](https://github.com/beartwoz/Whack-A-Mole)
 * [Agar.io Game](https://github.com/nlara6156/CPE487_Final_Project/tree/main)
