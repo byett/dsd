@@ -71,7 +71,6 @@
 * [FPGA Synthesizer](https://github.com/matthewgpetrin/cpe-487/tree/main/piano)
 ## 2022 Spring
 * [2 Player Pong](https://github.com/marcusats/CPE-487-A/tree/main/FinalProject)
-* [4 Player Pong](https://github.com/joeyp2k/CPE487/tree/main/final)
 * [Brick Breaker](https://github.com/dsmith15/CPE487-DSD/tree/main/Final%20Project%20-%20Brick%20Breaker)
 * [Crazy Pong](https://github.com/DanNovikov1/Digital-System-Design/tree/main/Final_Project)
 * [Crossy Road](https://github.com/alex-waldron/CPE487/tree/main/FinalProject)
