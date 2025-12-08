@@ -83,7 +83,6 @@
 * [T-Rex Dinosaur Run](https://github.com/rhyspiecesno8/CPE-487-Repository-RhysLee/tree/main/FinalProject)
 * [VHDL Platformer](https://github.com/Cmurphy5-stevens/CPE487/tree/main/Project)
 ## 2021 Fall
-* [Brick Breaker v2](https://github.com/jniglio/CPE-487/tree/main/Final%20Project)
 * [Dodgeball](https://github.com/cgiannak/CPE-487-Final-Project)
 * [Final Message](https://github.com/emcadamsv/CPE-487/tree/main/Final%20Project)
 * [FPGAsteroids](https://github.com/JohnSiyaga/dsd/tree/main/Projects/asteroids)
