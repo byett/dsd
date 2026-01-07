@@ -56,7 +56,7 @@ The master XDC files of all Digilent boards can be found [here](https://github.c
   * [Tool command language](https://vhdlwhiz.com/why-you-need-to-learn-tcl/) (Tcl)
 
 ## MAC USERS
-* [This looks promising for a relatively recent approach on recent Macs](https://medium.com/@luaburak/running-xilinx-vivado-on-your-m1-m2-m3-mac-482badb89de4)
+* [This](https://medium.com/@luaburak/running-xilinx-vivado-on-your-m1-m2-m3-mac-482badb89de4) or [this](https://forum.digilent.com/topic/32526-report-on-vivado-working-on-arm-macos-to-program-basys-3/) look promising for more recent versions of MAC OS. Will still need to do some setup for our specific board after installation but start with the installation part.
 
 * Older instructions that used to work on prior versions of MAC OS: [this is the pr you need to pull](https://github.com/ichi4096/vivado-on-silicon-mac/pull/32 ) and [this is the main github with the read me](https://github.com/ichi4096/vivado-on-silicon-mac)
 
