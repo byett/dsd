@@ -30,6 +30,20 @@
 * If you choose to start from an existing project and make substanstial changes/improvements, you must cite your starting place! This goes for the labs, these projects, or any others you may find. Do not pass off someone else's work as your own and you'll do just fine.
 
 # Past Projects (these were vetted by me personally. They may not be perfect still but should help give you some ideas of projects that did fairly well)
+## 2025
+* [Balatro](https://github.com/nhabakus/Simplified-Balatro.git)
+* [Pokemon battles](https://github.com/SuhYoonbeom/VHDL-Pokemon-Demo)
+* [Plants vs. Zombies](https://github.com/kaitlynbjerke/CPE487)
+* [Cat vs. Mouse / Stealth](https://github.com/DivineFinesse/CPE-487/tree/cef17ae1e1c5df1beb5a995709551ed9b2c4eeba/Final%20Project)
+* [3D Renderer](https://github.com/KK2NJ/CPE487_FinalProject/tree/main)
+* [Updated Guitar Hero](https://github.com/sanvatsarkaranuj/Fall25GuitarHero)
+* [2048](https://github.com/alexismerola/CPE487.git)
+* [Plinko](https://github.com/deepshah1065/CPE487?tab=readme-ov-file)
+* [Crossy Road](https://github.com/asentak/CPE487Project.git)
+* [Pacman](https://github.com/Mig-298/CPE-487/tree/main)
+* [Galaga](https://github.com/michaelmosch15/CPE487galaga)
+* [Updated Flight Simulator](https://github.com/AidanRuck/FPGAFlightSimulator2.0)
+* [Mini-Golf](https://github.com/asprigle65/Mini-Golf/blob/main/README.md)
 ## 2025 Spring
 * [Grid Escape](https://github.com/ashaligram04/Grid_Escape/blob/main/README.md)
 * [Duck Hunt](https://github.com/tfisher-2/Duck-Hunt/tree/main)
