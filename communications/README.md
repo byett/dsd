@@ -14,6 +14,7 @@
 ---
 * [Brocade Communications Systems](https://en.wikipedia.org/wiki/Brocade_Communications_Systems)
 * [Cisco](https://en.wikipedia.org/wiki/Cisco)
+* [Coherent Corp.](https://en.wikipedia.org/wiki/Coherent_Corp.)
 ---
 * [Association of Old Crows](https://en.wikipedia.org/wiki/Association_of_Old_Crows) (AOC)
 * [List of defense contractors](https://en.wikipedia.org/wiki/List_of_defense_contractors)
@@ -32,6 +33,7 @@
 * [Mitre Corporation](https://en.wikipedia.org/wiki/Mitre_Corporation)
 * [Northrop Grumman](https://en.wikipedia.org/wiki/Northrop_Grumman)
 * [Peraton](https://en.wikipedia.org/wiki/Peraton)
+* [Radio Club of America](https://radioclubofamerica.org/)
 * [Rheinmetall](https://en.wikipedia.org/wiki/Rheinmetall)
 * [RTX Corporation](https://en.wikipedia.org/wiki/RTX_Corporation)
 * [Thales Group](https://en.wikipedia.org/wiki/Thales_Group)
@@ -115,6 +117,7 @@
     * [Superheterodyne receiver](https://en.wikipedia.org/wiki/Superheterodyne_receiver)
 * [Multipath propagation](https://en.wikipedia.org/wiki/Multipath_propagation)
 * [Non-line-of-sight propagation](https://en.wikipedia.org/wiki/Non-line-of-sight_propagation) (NLOS)
+* [Orthogonal Time Frequency Space](https://en.wikipedia.org/wiki/Orthogonal_Time_Frequency_Space) (OTFS)
 * [Over-the-air update](https://en.wikipedia.org/wiki/Over-the-air_update)
 * [Polar code](https://en.wikipedia.org/wiki/Polar_code_(coding_theory))
 * [eNodeB](https://en.wikipedia.org/wiki/ENodeB)
@@ -172,6 +175,7 @@
 * [Anechoic chamber](https://en.wikipedia.org/wiki/Anechoic_chamber)
 * [Reverberation chamber](https://en.wikipedia.org/wiki/Reverberation_room)
 * [Electromagnetic reverberation chamber](https://en.wikipedia.org/wiki/Electromagnetic_reverberation_chamber)
+* [Faraday cage](https://en.wikipedia.org/wiki/Faraday_cage)
 * [First-person view (radio control)](https://en.wikipedia.org/wiki/First-person_view_(radio_control)) (FPV)
 * [Ataya](https://www.ataya.io/)
 ## Software-Defined Radio
@@ -217,6 +221,11 @@
   * [USRP in Python](https://pysdr.org/content/usrp.html)
 * [HackRF One](https://greatscottgadgets.com/hackrf/one/)
 * [RTL-SDR](https://www.rtl-sdr.com/)
+* [Open RAN](https://en.wikipedia.org/wiki/Open_RAN)
+  * [O-RAN Alliance](https://www.o-ran.org/)
+  * [O-RAN Near-Real Time RIC Installation Guide](https://openaicellular.github.io/oaic/oran_installation.html)
+* [srsRAN](https://www.srslte.com/)
+  * [Installation Guide](https://docs.srsran.com/projects/project/en/latest/user_manuals/source/installation.html)
 ## Communication and Sensing
 * [Integrated sensing and communication](https://isac.committees.comsoc.org/) (ISAC)
 * [Passive radar](https://en.wikipedia.org/wiki/Passive_radar)

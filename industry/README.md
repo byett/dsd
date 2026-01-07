@@ -17,6 +17,7 @@
 * IEEE [International Roadmap for Devices and Systems](https://irds.ieee.org/) (IRDS)
 * [The Node is Nonsense](https://ieeexplore.ieee.org/document/9150552)
 * [A Better Way to Measure Progress in Semiconductors](https://spectrum.ieee.org/a-better-way-to-measure-progress-in-semiconductors)
+* [Ovum Ltd.](https://en.wikipedia.org/wiki/Ovum_Ltd.) was rebranded as Omdia in February 2020
 ## Semiconductor Fabrication
 * [Semiconductor device fabrication](https://en.wikipedia.org/wiki/Semiconductor_device_fabrication)
 * [Wafer](https://en.wikipedia.org/wiki/Wafer_(electronics))
@@ -80,6 +81,8 @@
   * [Gallium nitride](https://en.wikipedia.org/wiki/Gallium_nitride) (GaN)
   * [Precious metal](https://en.wikipedia.org/wiki/Precious_metal)
   * [Rare-earth element](https://en.wikipedia.org/wiki/Rare-earth_element)
+    * [Niron Magnetics](https://www.nironmagnetics.com/)
+    * [Jian-Ping Wang](https://cse.umn.edu/ece/jian-ping-wang), ["Environment-friendly bulk Fe₁₆N₂ permanent magnet: Review and prospective"](https://www.sciencedirect.com/science/article/abs/pii/S0304885319325454?via%3Dihub)
   * [Lunar resources](https://en.wikipedia.org/wiki/Lunar_resources)
   * [Electronic waste](https://en.wikipedia.org/wiki/Electronic_waste)
   * [Computer recycling](https://en.wikipedia.org/wiki/Computer_recycling)
@@ -164,7 +167,7 @@
 * [List of MEMS foundries](https://en.wikipedia.org/wiki/List_of_MEMS_foundries)
 * [List of EDA companies](https://en.wikipedia.org/wiki/List_of_EDA_companies)
   * [Synopsys](https://en.wikipedia.org/wiki/Synopsys)
-    * [Ansys](https://en.wikipedia.org/wiki/Ansys)
+    * [Ansys](https://en.wikipedia.org/wiki/Ansys) since July 17, 2025
   * [Cadence Design Systems](https://en.wikipedia.org/wiki/Cadence_Design_Systems)
   * Siemens EDA (formerly [Mentor Graphics](https://en.wikipedia.org/wiki/Mentor_Graphics))  
   * [Aldec](https://en.wikipedia.org/wiki/Aldec)
@@ -194,6 +197,7 @@
   * [Silicon One](https://www.cisco.com/c/en/us/solutions/silicon-one.html)
 * [Diodes Incorporated](https://en.wikipedia.org/wiki/Diodes_Incorporated)
 * [Google](https://en.wikipedia.org/wiki/Google)
+  * [Google Axion processors](https://cloud.google.com/products/axion)
 * [Honeywell](https://en.wikipedia.org/wiki/Honeywell)
   * [Intermec](https://en.wikipedia.org/wiki/Intermec)
 * [IBM](https://en.wikipedia.org/wiki/IBM)
@@ -283,6 +287,8 @@
 * [Tower Semiconductor](https://en.wikipedia.org/wiki/Tower_Semiconductor)
 * [Weebit Nano](https://en.wikipedia.org/wiki/Weebit_Nano)
 ## Japan
+* [Ajinomoto](https://en.wikipedia.org/wiki/Ajinomoto)
+  * [Ajinomoto Build-up Film](https://www.ajinomoto.com/innovation/our_innovation/buildupfilm) (ABF) 
 * [Asahi Kasei](https://en.wikipedia.org/wiki/Asahi_Kasei)
 * [Fujitsu](https://en.wikipedia.org/wiki/Fujitsu)
 * [Hitachi](https://en.wikipedia.org/wiki/Hitachi)
@@ -292,13 +298,16 @@
 * [Nichia](https://en.wikipedia.org/wiki/Nichia)
 * [Panasonic](https://en.wikipedia.org/wiki/Panasonic)
   * [Sanyo](https://en.wikipedia.org/wiki/Sanyo)
-* [Rapidus](https://asia.nikkei.com/Business/Tech/Semiconductors/Toyota-joins-7-other-Japan-companies-to-make-next-generation-chips)
+* [Rapidus](https://en.wikipedia.org/wiki/Rapidus)
+  * [Toyota joins 7 other Japan companies to make next-generation chips](https://asia.nikkei.com/Business/Tech/Semiconductors/Toyota-joins-7-other-Japan-companies-to-make-next-generation-chips), November 10, 2022
 * [Renesas Electronics](https://en.wikipedia.org/wiki/Renesas_Electronics)
   * [Dialog Semiconductor](https://en.wikipedia.org/wiki/Dialog_Semiconductor)
   * [Design AI/ML Applications the Easy Way](https://www.renesas.com/en/blogs/design-aiml-applications-easy-way)
 * [Ricoh](https://en.wikipedia.org/wiki/Ricoh)
 * [Sega](https://en.wikipedia.org/wiki/Sega)
 * [Sony](https://en.wikipedia.org/wiki/Sony)
+  * [START Lab](https://en.wikipedia.org/wiki/START_Lab)
+  * [Taiyo Yuden](https://en.wikipedia.org/wiki/Taiyo_Yuden)
 * [Toshiba](https://en.wikipedia.org/wiki/Toshiba)
 ## South Korea
 * [LG Electronics](https://en.wikipedia.org/wiki/LG_Electronics)

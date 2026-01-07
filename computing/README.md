@@ -39,6 +39,11 @@
 * [Supercomputer](https://en.wikipedia.org/wiki/Supercomputer)
 * [Floating point operations per second](https://en.wikipedia.org/wiki/Floating_point_operations_per_second) (FLOPS)
   * Trillions of operations per second (TOPS)
+* [Categorical abstract machine](https://en.wikipedia.org/wiki/Categorical_abstract_machine) (CAM)
+  * [ML](https://en.wikipedia.org/wiki/ML_(programming_language)) (Meta Language)
+  * [Caml](https://en.wikipedia.org/wiki/Caml) (Categorical Abstract Machine Language)
+  * [OCaml](https://en.wikipedia.org/wiki/OCaml) (Objective Caml)
+  * [Jane Street Capital](https://en.wikipedia.org/wiki/Jane_Street_Capital)
 ---
 * [Tamperproofing](https://en.wikipedia.org/wiki/Tamperproofing)
 * [Pentalobe screw](https://en.wikipedia.org/wiki/Pentalobe_screw)
@@ -93,13 +98,6 @@
 * [Lambda](https://lambdalabs.com/)
 * [Microway](https://www.microway.com/)
 * [Supermicro](https://en.wikipedia.org/wiki/Supermicro)
-## Data Centers
-* [Cirrascale Cloud Services](https://en.wikipedia.org/wiki/Cirrascale_Cloud_Services)
-* [CoreWeave](https://en.wikipedia.org/wiki/CoreWeave)
-* [DOE Data Center Load Flexibility Workshop Summary](https://eta.lbl.gov/publications/doe-data-center-load-flexibility), January 1, 2025
-* [Moxa Technologies](https://en.wikipedia.org/wiki/Moxa_Technologies)
-  * [Moxibustion](https://en.wikipedia.org/wiki/Moxibustion)
-* [Open Compute Project](https://en.wikipedia.org/wiki/Open_Compute_Project) (OCP)
 ## Quantum Computers
 * [Quantum circuit](https://en.wikipedia.org/wiki/Quantum_circuit)
 * [Quantum logic gate](https://en.wikipedia.org/wiki/Quantum_logic_gate)

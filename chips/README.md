@@ -9,6 +9,7 @@
   * [Experiential Learning for Emerging and Novel Technologies](https://beta.nsf.gov/funding/opportunities/experiential-learning-emerging-novel-technologies) (ExLENT)
 * [CHIPS for America](https://www.nist.gov/chips)
   * [CHIPS R&D Standards Summit](https://www.nist.gov/news-events/events/2023/09/chips-rd-standards-summit)
+* [National Semiconductor Technology Center](https://natcast.org/) (NSTC)
 * [Building a Robust Semiconductor Ecosystem in New York State](https://esd.ny.gov/industries/semiconductors)
 * [European Chips Act](https://en.wikipedia.org/wiki/European_Chips_Act)
 ---
@@ -69,9 +70,14 @@
     * [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper) 1906&mdash;1992
   * [Blackwell (microarchitecture)](https://en.wikipedia.org/wiki/Blackwell_(microarchitecture))
     * [David Blackwell](https://en.wikipedia.org/wiki/David_Blackwell) 1919&mdash;2010
-  * [GB200 NVL72](https://www.nvidia.com/en-us/data-center/gb200-nvl72/) connects 36 Grace CPUs and 72 Blackwell GPUs in a rack-scale design
+    * [GB200 NVL72](https://www.nvidia.com/en-us/data-center/gb200-nvl72/) connects 36 Grace CPUs and 72 Blackwell GPUs in a rack-scale design
+  * [Rubin (microarchitecture)](https://en.wikipedia.org/wiki/Rubin_(microarchitecture))
+    * [Vera Rubin](https://en.wikipedia.org/wiki/Vera_Rubin) 1928&mdash;2016
+  * [Feynman (microarchitecture)](https://en.wikipedia.org/wiki/Feynman_(microarchitecture))
+    * [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) 1918&mdash;1988
   * [NVIDIA Omniverse](https://en.wikipedia.org/wiki/Nvidia_Omniverse)
   * [NVIDIA Project DIGITS](https://www.nvidia.com/en-us/project-digits/)
+  * [Groq](https://en.wikipedia.org/wiki/Groq)
 * [NXP](https://en.wikipedia.org/wiki/List_of_NXP_products)
   * [MIFARE](https://en.wikipedia.org/wiki/MIFARE)
 * [Qualcomm](https://en.wikipedia.org/wiki/Qualcomm)
@@ -79,6 +85,8 @@
     * [Part I](https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/Whitepaper-The-future-of-AI-is-hybrid-Part-1-Unlocking-the-generative-AI-future-with-on-device-and-hybrid-AI.pdf)
     * [Part II](https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/Whitepaper-The-future-of-AI-is-hybrid-Part-2-Qualcomm-is-uniquely-positioned-to-scale-hybrid-AI.pdf)
   * [Snapdragon](https://en.wikipedia.org/wiki/List_of_Qualcomm_Snapdragon_processors)
+  * [Dragonwing](https://www.qualcomm.com/dragonwing)
+    * [Qualcomm Launches World’s First Enterprise Mobile Processor With Fully Integrated RFID Capabilities](https://www.qualcomm.com/news/releases/2025/08/qualcomm-launches-world-s-first-enterprise-mobile-processor-with), 26 August 2025
 * Samsung [Exynos](https://en.wikipedia.org/wiki/Exynos)
 
 ## Packaging
@@ -89,6 +97,12 @@
 * [Flat no-leads package](https://en.wikipedia.org/wiki/Flat_no-leads_package)
 * [Chip-scale package](https://en.wikipedia.org/wiki/Chip-scale_package) (CSP)
 * [Wafer-level packaging](https://en.wikipedia.org/wiki/Wafer-level_packaging) (WLP)
+* [Chip-on-Wafer-on-Substrate](https://en.wikichip.org/wiki/tsmc/cowos) (CoWoS)
+  * [The Chronicle of CoWoS](https://3dfabric.tsmc.com/english/dedicatedFoundry/technology/cowos.htm)
+* [Ajinomoto](https://en.wikipedia.org/wiki/Ajinomoto)
+  * [Ajinomoto Build-up Film](https://www.ajinomoto.com/innovation/our_innovation/buildupfilm) (ABF)
+* [Flip Chip Ball Grid Array](https://en.wikichip.org/wiki/Flip_Chip_Ball_Grid_Array) (FC-BGA)
+* [Chip-scale package](https://en.wikipedia.org/wiki/Chip-scale_package) (CSP)
 
 ## Others
 * [List of linear integrated circuits](https://en.wikipedia.org/wiki/List_of_linear_integrated_circuits)
