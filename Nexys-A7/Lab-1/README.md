@@ -1,6 +1,6 @@
 # Lab 1: Seven-Segment Decoder
 
-* Built a single-digit (4-bit) hex counter to display its value on eight-digit common anode seven-segment LED displays (See Section 9.1 Seven-Segment Display of the [Reference Manual]( https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf))
+* Build a single-digit (4-bit) hex counter to display its value on eight-digit common anode seven-segment LED displays (See Section 9.1 Seven-Segment Display of the [Reference Manual]( https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf))
 
 ![a7.png](a7.png)
 
@@ -103,7 +103,7 @@
 
 * The counter module builds a 29-bit binary counter cnt clocked by the input clk
 * Bits 25 to 28 generate a 4-bit value count used to drive the LED decoder
-* For the input clock running at 100 MHz, the value of count changes at a frequency of 100 MHz / 2<sup>25</sup> ≈ 2.98 Hz with a complete cylce taking approximately 16 / 2.98 ≈ 5.37 seconds
+* For the input clock running at 100 MHz, the value of count changes at a frequency of 100 MHz / 2<sup>25</sup> ≈ 2.98 Hz with a complete cycle taking approximately 16 / 2.98 ≈ 5.37 seconds
 * This information is important because we are intentionally delaying the clock inputs so we can actually see the numbers changing one by one. Without the cnt signal and choosing specific bits from that signal to display, the default 100 MHz frequency is far too fast!
 
 ### 1. Create a new project called _hexcount_ in Vivado
@@ -153,6 +153,8 @@
 ### 5. Work on and edit code with the following modifications (this will be your Lab 1 Extension/Submission!)
 
 * Speed up OR slow down the rate at which different hex values appear on the board
+  * It is not really feasible to do this by changing the actual clock coming directly from the board - I recommend focusing on the code itself and which information in the code is responsible for our speed.
+  * Don't go too crazy with the speeding up - we still want to actually be able to see the values change!
 * Some behavior of your choosing to change the location where the hex value appears on your board (rotating through all spots, bouncing back and forth between 2 spots, location controlled by 1 or more switches, etc.)
   * This is expected to be a "live" change (aka something that occurs as the program is running, not just an initial change to the code that changes the location only at the start of the program) 
 
