@@ -8,7 +8,7 @@ ENTITY counter IS
 	PORT (
 		clk : IN STD_LOGIC;
 		count : OUT STD_LOGIC_VECTOR (15 DOWNTO 0); 
-		dig : OUT STD_LOGIC_VECTOR (1 DOWNTO 0)); 
+		mpx : OUT STD_LOGIC_VECTOR (1 DOWNTO 0)); 
 END counter;
 
 ARCHITECTURE Behavioral OF counter IS
@@ -21,5 +21,5 @@ BEGIN
 		END IF;
 	END PROCESS;
 	count <= cnt (38 DOWNTO 23); -- 16 bits
-	dig <= cnt (18 DOWNTO 17); -- 2 bits
+	mpx <= cnt (18 DOWNTO 17); -- 2 bits
 END Behavioral;
