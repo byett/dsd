@@ -33,14 +33,14 @@ constant simulationTime : time := 240 ns;
 begin
     muxComponent: MUX
         generic map (
-            N => 8)
+            N => N)
         port map (
             D1_in, D2_in, sel, MX_OUT
         );
         registerGeneration: for i in 1 downto 0 generate
         R: reg
         generic map (
-            N => 8)
+            N => N)
         port map (MX_OUT, LD(i), CLK, registers(i));
         end generate registerGeneration;
 clk_process: process
