@@ -55,6 +55,8 @@
 
 * Click 'Open Hardware Manager' and click 'Open Target' then 'Auto Connect'
 
+* STOP HERE AND SKIP DOWN TO STEP 5. COME BACK ONCE YOU START WORKING ON MODIFICATIONS
+
 * Click 'Program Device' then xc7a100t_0 to download hex4counter.runs/impl_1/hexcount.bit to the Nexys A7-100T board
 
 * The four digit counter counts from 0000 to FFFF (see [Modifications](https://github.com/byett/dsd/tree/CPE487-Fall2025/Nexys-A7/Lab-2/Modifications) for an eight-digit counter)
@@ -71,7 +73,7 @@
   * Filename > Recent Directories > C:/Users/.../hex4count > name a new file hex4count.runs/impl_1/hexcount.mcs > Save
   * Interface: SPIx1
   * Check "Load bitstream files > Select C:/Users/.../hex4count/hex4count.runs/impl_1/hexcount.bit > OK
-  * Check "Overwrite"
+  * Check "Overwrite", then click "Ok" at the bottom
   * Generate momory configuration file completed successfully > OK
 
 * Open Hardware Manager > Add Configuration Memory Device > xc7a100t_0
@@ -85,16 +87,14 @@
   * Configuration file > Click ... > Select C:/Users/.../hex4counter.runs/impl_1/hexcount.mcs > OK
   * PRM file > Click ... > Select C:/Users/.../hex4counter.runs/impl_1/hexcount.prm > OK
       * When I got to this step, it would not allow me to select this PRM file. The rest of the process seemed to go correctly without this step, so for now if this happens to you just move on to the next step - Prof. Yett
-  * Address Range > Click V > Select "Entire Configuration Memory Device" > OK
+  * Address Range > Click the dropdown > Select "Entire Configuration Memory Device" > OK
   * Flash programming completed successfully > OK
 
 * Right click xc7a100t_0 under "Hardware" > Boot from Configuration Memory Device > The four digit counter starts
 
-* File > Close Hardware Manager 
+* Close Hardware Manager 
 
-* File > Close Project 
-
-* POWER OFF > POWER ON > Wait for 10 seconds > The counter starts
+* POWER OFF the board > POWER ON the board > Wait for 10 seconds > The counter starts
 
 ![hexcounter.gif](https://github.com/byett/dsd/blob/CPE487-Spring2024/Nexys-A7/Lab-2/hexcounter.gif)
 
