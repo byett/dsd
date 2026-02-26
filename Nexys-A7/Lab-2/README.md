@@ -49,8 +49,6 @@
 
 ### 3b. (optional, generally not recommended as it is difficult to extract information from and can cause Vivado shutdown) Open implemented design
 
-* Tools > Edit Device Properties > Configuration Modes > Check "Master SPI x1"
-
 ### 4. Generate bitstream, open hardware manager, and program device
 
 * Click 'Generate Bitstream'
