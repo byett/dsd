@@ -69,8 +69,8 @@
 ### 5. Edit code with the following modifications (this will be your Lab 3 Extension/Submission!)
 
 * Modify one or more of the provided programs such that there is a second "ball". Each "ball" should:
-  * have a different appearance including shape (one of them may remain a square, but the other should be a triangle, circle, etc.) and color
-  * move at different speeds (you will need to introduce new signals to allow each ball to move both horizontally and vertically)
+  * have a different appearance including shape (one of them may remain a square, but the other should be a triangle, circle, etc.) and color. For the color, you MUST introduce at least one more bit of color data on top of those currently used in ball.vhd. We are currently using red(2), green(2), and blue(1), but vga_top includes the other bits that are available to us (which are currently all being forced to 0) on lines 59-61.
+  * move at different speeds and in both directions (you will need to introduce new signals to allow each ball to move both horizontally and vertically!)
   * be placed at different starting positions such that they do not initially collide with each other.
 
 * Include in your submission a discussion on how you created your new shape, how you discovered where to make the appropriate changes in the code, and a short video of your finished product.
