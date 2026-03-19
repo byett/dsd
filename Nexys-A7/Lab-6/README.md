@@ -14,7 +14,6 @@
 
 * The **_pong_** module is the top level.
   * BTN0 on the Nexys2 board is used to initiate a serve.
-  * The process ckp is used to generate timing signals for the VGA and ADC modules.
 
 ### 1. Create a new RTL project _pong_ in Vivado Quick Start
 
@@ -62,7 +61,7 @@
 
 * The bat should reset to starting width when we miss the ball
 
-* Count the number of successful hits after each serve and display the count in binary on the 7-segment displays of the Nexys A7-100T board. 
+* Count the number of successful hits after each serve and display the count **in binary** on the 7-segment displays of the Nexys A7-100T board. 
 
 * (For testing and/or fun) See how many times you can hit the ball in a row as the bat slowly shrinks
 
