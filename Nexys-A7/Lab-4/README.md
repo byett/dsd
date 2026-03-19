@@ -6,7 +6,7 @@
 
 * The top level source module is called **_hexcalc_** that
   * Creates an instance of the keypad interface and 7-segment decoder interface modules
-  * Make connection to the display, buttons, and external keypad
+  * Makes connection to the display, buttons, and external keypad
   * Has a timing process to generate [clock signals](https://en.wikipedia.org/wiki/Clock_signal) for the keypad, display multiplexer, and [finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine)
   * Implements a finite-state machine for the operations of the calculator in response to button pushes
 
@@ -69,6 +69,8 @@
 
 * Press the “clear” key (BTNC) to set the result on the display to zero
 
+* Capture a video of this normal behavior!
+
 ### 6. Work on and edit code with the following modifications (depending on when you do this, it will be your Fourth, Fifth, or Sixth Lab Extension/Submission!)
 
 #### A) Perform leading zero suppression
@@ -79,8 +81,10 @@
 
 * Modify a particular assignment statement so that it only turns on a particular digit if it is non-zero or if there is non-zero information in the higher order digits of the data word
 
-#### B) Expand the calculator to also do subtraction operations
+#### B) Expand the calculator to also perform an additional operation
 
-* Use the button BTND (pin P18 on the Nexys A7-100T board) as the “–” key
+* If your group number as per Canvas is _even_, use the button BTND (pin P18 on the Nexys A7-100T board) to trigger a rotate left of the first value entered, where the second value entered tells us how much to rotate by.
 
-* Hint: Modify the ENTER_ACC state to also test for the “–” key being depressed, then follow a similar procedure as for addition
+* If your group number as per Canvas is _odd_, instead use the button BTND (pin P18 on the Nexys A7-100T board) to trigger a multiplication of the two values.
+
+* Hint: Modify the ENTER_ACC state to also test for BTND being depressed, then follow a similar procedure as for addition
