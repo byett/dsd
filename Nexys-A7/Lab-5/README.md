@@ -90,9 +90,9 @@ Program the FPGA on the Nexys A7-100T board to generate a wailing audio siren us
 
 #### A) Incorporate a square wave
 
-* Modify the tone module to create a square wave instead of a triangle wave when the upper push button (BTNU) is depressed
+* Modify the tone module to create a square wave instead of a triangle wave when the upper push button (BTNU) is depressed (use the [Online tone generator](https://onlinetonegenerator.com/) if you are not sure if you have successfully made this change - in general square waves and triangle waves do not sound substantially different!)
 
-* Add this push button as an input to siren.vhd and pass its value down to the tone module
+* Add this push button as an input to siren.vhd and pass its value down to the tone module, going through all intermediate files in the hierarchy as well
 
   * This step is important! We need to properly consider the overall hierarchy of the project when incorporating new inputs
 
@@ -111,6 +111,8 @@ Program the FPGA on the Nexys A7-100T board to generate a wailing audio siren us
 #### C) Add a second wail instance to drive the right audio channel
 
 * Use different high and low tone limits and wailing speed for the right audio channel
+    * Therefore, only one of the two channels should incorporate the switches to set the wailing speed. You may choose to use the button for one or both of the channels.
+    * You will also need to remove one existing line of code to allow you to use the right channel correctly. In your lab submission, make sure you state what line you had to remove!
 
 * Note: you will need headphones or another wired device with left and right audio output channels to hear both channels at once.
 
