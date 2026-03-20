@@ -96,7 +96,7 @@ Program the FPGA on the Nexys A7-100T board to generate a wailing audio siren us
 
   * This step is important! We need to properly consider the overall hierarchy of the project when incorporating new inputs
 
-* Get the correct pin number for this push button from the [Reference Manual](https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf) or from the full version of the [constraint file](https://github.com/byett/dsd/blob/CPE487-Fall2024/Nexys-A7/Nexys-A7-100T-Master.xdc). This needs to be changed on the constraint (.xdc) file as well!
+* Get the correct pin number for this push button from the [Reference Manual](https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf) or from the full version of the [constraint file](https://github.com/byett/dsd/blob/CPE487-Spring2026/Nexys-A7/Nexys-A7-100T-Master.xdc). This needs to be changed on the constraint (.xdc) file as well!
 
 * Note the difference in the quality of the tone when switching to a square wave tone
 
@@ -106,7 +106,7 @@ Program the FPGA on the Nexys A7-100T board to generate a wailing audio siren us
 
 * Add these as inputs to siren.vhd
 
-* Get the correct pin number for these switches from the [Reference Manual](https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf) or from the full version of the [constraint file](https://github.com/byett/dsd/blob/CPE487-Spring2024/Nexys-A7/Nexys-A7-100T-Master.xdc). These need to be changed on the constraint (.xdc) file as well!
+* Get the correct pin number for these switches from the [Reference Manual](https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf) or from the full version of the [constraint file](https://github.com/byett/dsd/blob/CPE487-Spring2026/Nexys-A7/Nexys-A7-100T-Master.xdc). These need to be changed on the constraint (.xdc) file as well!
   
 #### C) Add a second wail instance to drive the right audio channel
 
