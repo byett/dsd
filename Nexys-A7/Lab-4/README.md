@@ -83,7 +83,7 @@
 
 #### B) Expand the calculator to also perform an additional operation
 
-* If your group number as per Canvas is _even_, use the button BTND (pin P18 on the Nexys A7-100T board) to trigger a rotate left of the first value entered, where the second value entered tells us how much to rotate by.
+* If your group number as per Canvas is _even_, use the button BTND (pin P18 on the Nexys A7-100T board) to trigger a less than comparison. If the first value entered was less than the second value entered, the result should be 1; otherwise, the result should be 0.
 
 * If your group number as per Canvas is _odd_, instead use the button BTND (pin P18 on the Nexys A7-100T board) to trigger a multiplication of the two values.
 
