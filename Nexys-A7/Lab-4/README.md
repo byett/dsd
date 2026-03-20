@@ -86,5 +86,6 @@
 * If your group number as per Canvas is _even_, use the button BTND (pin P18 on the Nexys A7-100T board) to trigger a less than comparison. If the first value entered was less than the second value entered, the result should be 1; otherwise, the result should be 0.
 
 * If your group number as per Canvas is _odd_, instead use the button BTND (pin P18 on the Nexys A7-100T board) to trigger a multiplication of the two values.
+  * You will need to account for the fact that multiplication fills up 32 bits of information and therefore causes a size mismatch with our **nx_acc** signal that we try to store our result into. The final product should show the bottom 16 bits of the multiplication on your anodes.
 
 * Hint: Modify the ENTER_ACC state to also test for BTND being depressed, then follow a similar procedure as for addition
