@@ -16,6 +16,7 @@
 
 ## Presentation (20% of your project grade):
 * Additionally, you’ll be expected to give a demonstration + presentation during the final exam period. This should take the form of a live demonstration (showcasing your code actually running on the board) + discussion (a virtual poster presentation that we will host in the B12 lab).
+* Posters should generally contain the key points of each section of your github repository. Don't try to fit literally everything, but a system-level diagram and a few bullet points summarizing each section should do it.
 * I plan to randomly assign 2 sets of groups to essentially have 2 hour-long sessions. In each session roughly half of you will be presenting and the other half will walk around and see everyone's projects. You are expected to be there for the full exam period and to actively participate in this process, and will receive a deduction if you fail to do so.
 	* Though this a group assignment, the presentation in particular is an area where I will penalize students who do not participate in the presentation/discussion or who are unable to answer questions about their project.
 
