@@ -13,6 +13,7 @@
 * And of course, the code itself separated into appropriate .vhd and .xdc files. (50 points of the Submission category; based on the code working, code complexity, quantity/quality of modifications, etc.)
 * You are not really expected to be github experts – as long as one of you can confidently create the repository and help others add to it, that should be sufficient. If no group members fall under this criteria, discuss with me as soon as possible.
 	* This is a group assignment, and for the most part you are graded as a group. I reserve the right to modify single student grades for extenuating circumstances, such as a clear lack of participation from a group member. You are allowed to rely on the expertise of your group members in certain aspects of the project, but you should all have at least a cursory understanding of all aspects of your project.
+ * One additional note: You MAY use genAI or similar tools to assist with formatting your github repo, to create starter code that you then further modify to meet your final project objectives, or to assist you for troubleshooting or similar tasks. You MUST cite any occurrences of you doing so. You MAY NOT use genAI to do your project for you, or to completely write your repo's content for you. GenAI does not know what you actually did for your project - only you do!
 
 ## Presentation (20% of your project grade):
 * Additionally, you’ll be expected to give a demonstration + presentation during the final exam period. This should take the form of a live demonstration (showcasing your code actually running on the board) + discussion (a virtual poster presentation that we will host in the B12 lab).
@@ -31,7 +32,7 @@
 * If you choose to start from an existing project and make substanstial changes/improvements, you must cite your starting place! This goes for the labs, these projects, or any others you may find. Do not pass off someone else's work as your own and you'll do just fine.
 
 # Past Projects (these were vetted by me personally. They may not be perfect still but should help give you some ideas of projects that did fairly well)
-## 2025
+## Fall 2025
 * [Balatro](https://github.com/nhabakus/Simplified-Balatro.git)
 * [Pokemon battles](https://github.com/SuhYoonbeom/VHDL-Pokemon-Demo)
 * [Plants vs. Zombies](https://github.com/kaitlynbjerke/CPE487)
