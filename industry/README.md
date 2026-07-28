@@ -8,6 +8,7 @@
 * [TechInsights](https://www.techinsights.com/)
 * [IEEE Solid-State Circuits Society](https://sscs.ieee.org/)
 * [International Solid-State Circuits Conference](https://en.wikipedia.org/wiki/International_Solid-State_Circuits_Conference) (ISSCC)
+* [IEEE International Conference on Flexible Printable Sensors and Systems](https://ieee-sensors.org/conferences/ieee-fleps-2026/) (IEEE FLEPS)
 * [EmbeddedRelated.com](https://www.embeddedrelated.com/)
 * [embedded world Exhibition & Conference](https://de.wikipedia.org/wiki/Embedded_world_Exhibition_%26_Conference)
   * [embedded world North America](https://www.embedded-world.de/en/embedded-world-wide/embedded-world-north-america)
