@@ -2,10 +2,22 @@
 ## YouTube Channels
 * [CircuitBread](https://www.youtube.com/@CircuitBread/)
 * [Phil's Lab](https://www.youtube.com/@PhilsLab) by [Philip Salmony](https://github.com/pms67)
+* [Robert Feranec](https://www.youtube.com/c/RobertFeranec)
+* [The Engineering Mindset](https://www.youtube.com/c/Theengineeringmindset)
 ---
-* [Understanding Electricity and Circuits: What the Text Books Don’t Tell You](https://www.vicphysics.org/documents/teachers/2002Sefton.pdf) 2002 by Ian M. Sefton
+* [All About Circuits](https://www.allaboutcircuits.com/)
 * [Circuits and Electronics](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/) MIT OpenCourseWare (OCW)
+* [Electrical engineering](https://en.wikipedia.org/wiki/Electrical_engineering)
+* [Electron](https://en.wikipedia.org/wiki/Electron)
+  * [Amber](https://en.wikipedia.org/wiki/Amber)
+* [Electronics Tutorials](https://www.electronics-tutorials.ws/)
+* [Last Minute Engineers](https://lastminuteengineers.com/)
 * [Learning Analog System Design With the MOSbius](https://spectrum.ieee.org/deep-brain-stimulation-depression) by [Peter R. Kinget](https://peterkinget.github.io/)
+* [Lessons In Electric Circuits](https://www.ibiblio.org/kuphaldt/electricCircuits/) by [Tony Kuphaldt](https://www.linkedin.com/in/tony-kuphaldt-7913136/)
+  * [Schweitzer Engineering Laboratories](https://en.wikipedia.org/wiki/Schweitzer_Engineering_Laboratories) (SEL)
+  * [Edmund O. Schweitzer III](https://en.wikipedia.org/wiki/Edmund_O._Schweitzer_III)
+* [List of electrical engineers](https://en.wikipedia.org/wiki/List_of_electrical_engineers)
+* [Understanding Electricity and Circuits: What the Text Books Don’t Tell You](https://www.vicphysics.org/documents/teachers/2002Sefton.pdf) 2002 by Ian M. Sefton
 ---
 * [Electronic circuit](https://en.wikipedia.org/wiki/Electronic_circuit)
 * [Electrical network](https://en.wikipedia.org/wiki/Electrical_network)
@@ -20,6 +32,7 @@
 * [Norton's theorem](https://en.wikipedia.org/wiki/Norton%27s_theorem) 1926
   * [Hans Ferdinand Mayer](https://en.wikipedia.org/wiki/Hans_Ferdinand_Mayer) 1895&mdash;1980
   * [Edward Lawry Norton](https://en.wikipedia.org/wiki/Edward_Lawry_Norton) 1898&mdash;1983
+* [Root mean square](https://en.wikipedia.org/wiki/Root_mean_square) (RMS)
 * [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell) 1847&mdash;1922
 ---
 * [Wheatstone bridge](https://en.wikipedia.org/wiki/Wheatstone_bridge) 1833 and 1843
@@ -35,8 +48,9 @@
   * [Karl D. Swartzel Jr.](https://en.wikipedia.org/wiki/Karl_D._Swartzel_Jr.) 1907&mdash;1998
 * [Negative-feedback amplifier](https://en.wikipedia.org/wiki/Negative-feedback_amplifier)
 * [Push–pull output](https://en.wikipedia.org/wiki/Push%E2%80%93pull_output)
-* [LM741](https://www.ti.com/lit/ds/symlink/lm741.pdf)
-* [LM6172](https://www.ti.com/lit/ds/symlink/lm6172.pdf)
+* [LM741](https://www.ti.com/product/LM741) Single, 44-V, 1-MHz Operational Amplifier
+* [LM6172](https://www.ti.com/product/LM6172) Dual High Speed, Low Power, Low Distortion Voltage Feedback Amplifier
+* [MCP6004](https://www.microchip.com/en-us/product/mcp6004) 1 MHz, Low-Power Op Amp
 ---
 * [Electromagnetic field](https://en.wikipedia.org/wiki/Electromagnetic_field)
 * [Radio-frequency engineering](https://en.wikipedia.org/wiki/Radio-frequency_engineering)

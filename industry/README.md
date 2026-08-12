@@ -8,6 +8,7 @@
 * [TechInsights](https://www.techinsights.com/)
 * [IEEE Solid-State Circuits Society](https://sscs.ieee.org/)
 * [International Solid-State Circuits Conference](https://en.wikipedia.org/wiki/International_Solid-State_Circuits_Conference) (ISSCC)
+* [IEEE International Conference on Flexible Printable Sensors and Systems](https://ieee-sensors.org/conferences/ieee-fleps-2026/) (IEEE FLEPS)
 * [EmbeddedRelated.com](https://www.embeddedrelated.com/)
 * [embedded world Exhibition & Conference](https://de.wikipedia.org/wiki/Embedded_world_Exhibition_%26_Conference)
   * [embedded world North America](https://www.embedded-world.de/en/embedded-world-wide/embedded-world-north-america)
@@ -18,11 +19,16 @@
 * [The Node is Nonsense](https://ieeexplore.ieee.org/document/9150552)
 * [A Better Way to Measure Progress in Semiconductors](https://spectrum.ieee.org/a-better-way-to-measure-progress-in-semiconductors)
 * [Ovum Ltd.](https://en.wikipedia.org/wiki/Ovum_Ltd.) was rebranded as Omdia in February 2020
+* [The U.S.-Japan Semiconductor Agreement: Keeping Up the ManagedTrade Agenda](https://www.heritage.org/asia/report/the-us-japan-semiconductor-agreement-keeping-the-managedtrade-agenda)
+* [Cleanroom](https://en.wikipedia.org/wiki/Cleanroom)
+  * [KIDE](https://cckide.com/en/) 
+  * [Engineering, procurement, and construction](https://en.wikipedia.org/wiki/Engineering,_procurement,_and_construction) (EPC)
 ## Semiconductor Fabrication
 * [Semiconductor device fabrication](https://en.wikipedia.org/wiki/Semiconductor_device_fabrication)
 * [Wafer](https://en.wikipedia.org/wiki/Wafer_(electronics))
 * [Wafer backgrinding](https://en.wikipedia.org/wiki/Wafer_backgrinding) (WBG)
 * [Die](https://en.wikipedia.org/wiki/Die_(integrated_circuit))
+* [Epitaxial wafer](https://en.wikipedia.org/wiki/Epitaxial_wafer)
 * [Yield](https://en.wikichip.org/wiki/yield) is the fraction of dies on the yielding wafers that perform properly
 * [Photolithography](https://en.wikipedia.org/wiki/Photolithography)
   * [Nanolithography](https://en.wikipedia.org/wiki/Nanolithography)
@@ -64,8 +70,9 @@
     * [YouTube](https://www.youtube.com/@chronovaengineering/)
     * [Stirling engine](https://en.wikipedia.org/wiki/Stirling_engine) 1816 by [Robert Stirling](https://en.wikipedia.org/wiki/Robert_Stirling) 1790&mdash;1878
 * [Optical interconnect](https://en.wikipedia.org/wiki/Optical_interconnect)
+  * [COmpact Universal Photonic Engine](https://ieeexplore.ieee.org/document/9501846) (COUPE)
 * [Photonic integrated circuit](https://en.wikipedia.org/wiki/Photonic_integrated_circuit) (PIC)
-* [Silicon photonics](https://en.wikipedia.org/wiki/Silicon_photonics)
+* [Silicon photonics](https://en.wikipedia.org/wiki/Silicon_photonics) (SiPh)
 * [Integrated quantum photonics](https://en.wikipedia.org/wiki/Integrated_quantum_photonics)
 * [Quantum logic gate](https://en.wikipedia.org/wiki/Quantum_logic_gate)
 * [Plasmon](https://en.wikipedia.org/wiki/Plasmon)
@@ -93,6 +100,7 @@
   * [GlobalWafers](https://www.gw-semi.com)
   * [Siltronic](https://en.wikipedia.org/wiki/Siltronic)
   * [Graphenea](https://www.graphenea.com/)
+* [Cylindrically symmetric rotating crystals observed in crystallization process of InSiO film](https://www.tandfonline.com/doi/full/10.1080/27660400.2023.2230870), July 13, 2023
 * [Extreme ultraviolet lithography](https://en.wikipedia.org/wiki/Extreme_ultraviolet_lithography) (EUV)
   * [High-numerical-aperture EUV lithography](https://spectrum.ieee.org/high-na-euv)
 * [ASML](https://en.wikipedia.org/wiki/ASML_Holding) (ASM Lithography) cofounded by [ASM](https://en.wikipedia.org/wiki/ASM_International) (Advanced Semiconductor Materials) International and [Philips](https://en.wikipedia.org/wiki/Philips) Electronics
@@ -128,6 +136,8 @@
 * [PCB Directory](https://www.pcbdirectory.com/)
 * [Jiva Materials](https://www.jivamaterials.com/)
   * [Jiva](https://en.wikipedia.org/wiki/Jiva)
+* [JLCPCB](https://en.wikipedia.org/wiki/JLCPCB)
+  * [EasyEDA](https://en.wikipedia.org/wiki/EasyEDA)
 ## Test Equipment Suppliers
 * [Electronic test equipment manufacturers](https://en.wikipedia.org/wiki/Category:Electronic_test_equipment_manufacturers)
 * [Danaher Corporation](https://en.wikipedia.org/wiki/Danaher_Corporation)
@@ -205,11 +215,18 @@
 * [Infinera](https://en.wikipedia.org/wiki/Infinera)
 * [Intel](https://en.wikipedia.org/wiki/Intel)
 * [ISSI](https://www.issi.com/) (Integrated Silicon Solution Inc.)
+* [Kulite Semiconductor Products, Inc.](https://kulite.com/)
+  * [Transducer](https://en.wikipedia.org/wiki/Transducer)
+  * [Anthony D. Kurtz](https://www.nae.edu/189828/ANTHONY-D-KURTZ-19292010) 1929&mdash;2010
 * [Lattice](https://en.wikipedia.org/wiki/Lattice_Semiconductor)
 * [Littelfuse](https://en.wikipedia.org/wiki/Littelfuse)
   * [IXYS Corporation](https://en.wikipedia.org/wiki/IXYS_Corporation)
 * [MACOM](https://en.wikipedia.org/wiki/MACOM_Technology_Solutions)
 * [Marvell](https://en.wikipedia.org/wiki/Marvell_Technology,_Inc.)
+  * [Sehat Sutardja](https://en.wikipedia.org/wiki/Sehat_Sutardja) 1961&mdash;2024
+    * [Remembering Sehat Sutardja, Marvell Co-founder](https://www.marvell.com/blogs/remembering-sehat-sutardja-marvell-co-founder.html), September 18, 2024
+  * [Pantas Sutardja](https://www.forbes.com/profile/pantas-sutardja/)
+  * [Weili Dai](https://en.wikipedia.org/wiki/Weili_Dai)
 * [Menlo Micro](https://menlomicro.com/)
   * [GE Ventures](https://en.wikipedia.org/wiki/GE_Ventures)
 * [Meta Platforms](https://en.wikipedia.org/wiki/Meta_Platforms)
@@ -219,6 +236,7 @@
 * [Micron](https://en.wikipedia.org/wiki/Micron_Technology)
   * [IM Flash Technologies](https://en.wikipedia.org/wiki/IM_Flash_Technologies)
 * [Microsoft](https://en.wikipedia.org/wiki/Microsoft)
+* [MKS Inc.](https://en.wikipedia.org/wiki/MKS_Instruments)
 * [NVIDIA](https://en.wikipedia.org/wiki/Nvidia)
   * [Ageia](https://en.wikipedia.org/wiki/Ageia)
   * [Mellanox Technologies](https://en.wikipedia.org/wiki/Mellanox_Technologies)
@@ -250,6 +268,7 @@
 * [Wolfspeed](https://en.wikipedia.org/wiki/Wolfspeed), formerly Cree, Inc.
 ## Australia
 * [BrainChip](https://en.wikipedia.org/wiki/BrainChip)
+* [Nanoveu](https://nanoveu.com/)
 ## China
 * [Semiconductor industry in China](https://en.wikipedia.org/wiki/Semiconductor_industry_in_China)
 * [Alibaba](https://en.wikipedia.org/wiki/Alibaba_Group)
@@ -261,12 +280,14 @@
 * [Bitmain](https://en.wikipedia.org/wiki/Bitmain)
 * [BYD](https://en.wikipedia.org/wiki/BYD_Company)
 * [Canaan Creative](https://en.wikipedia.org/wiki/Canaan_Creative)
+* [Epiworld International](https://www.epiworld-cn.com/)
 * [Haier](https://en.wikipedia.org/wiki/Haier)
 * [Horizon Robotics](https://en.horizon.ai/)
 * [Huawei](https://en.wikipedia.org/wiki/Huawei)
   * [HiSilicon](https://en.wikipedia.org/wiki/HiSilicon)
 * [Innosilicon](https://www.innosilicon.com/)
 * [Lenovo](https://en.wikipedia.org/wiki/Lenovo)
+* [Luxshare](https://en.wikipedia.org/wiki/Luxshare)
 * [Meizu](https://en.wikipedia.org/wiki/Meizu)
 * [Sai MicroElectronics Inc.](http://en.smeiic.com/) (SMEI)
 * [Tencent](https://en.wikipedia.org/wiki/Tencent)
@@ -274,6 +295,9 @@
 * [Tsinghua Unigroup](https://en.wikipedia.org/wiki/Tsinghua_Unigroup)
   * [UNISOC](https://en.wikipedia.org/wiki/UNISOC)
   * [Yangtze Memory Technologies Corporation](https://en.wikipedia.org/wiki/Yangtze_Memory_Technologies) (YMTC)
+* [VeriSilicon](https://www.verisilicon.com/en/Home)
+  * [Wayne Dai and Wei-Jin Dai](https://www.verisilicon.com/en/ExecutiveTeam)
+  * [Vivante Corporation](https://en.wikipedia.org/wiki/Vivante_Corporation)
 * [Xiaomi](https://en.wikipedia.org/wiki/Xiaomi)
 * [ZTE](https://en.wikipedia.org/wiki/ZTE)
 ## India
@@ -287,6 +311,7 @@
 * [Tower Semiconductor](https://en.wikipedia.org/wiki/Tower_Semiconductor)
 * [Weebit Nano](https://en.wikipedia.org/wiki/Weebit_Nano)
 ## Japan
+* [Semiconductor industry in Japan](https://en.wikipedia.org/wiki/Semiconductor_industry_in_Japan)
 * [Ajinomoto](https://en.wikipedia.org/wiki/Ajinomoto)
   * [Ajinomoto Build-up Film](https://www.ajinomoto.com/innovation/our_innovation/buildupfilm) (ABF) 
 * [Asahi Kasei](https://en.wikipedia.org/wiki/Asahi_Kasei)
@@ -305,17 +330,22 @@
   * [Design AI/ML Applications the Easy Way](https://www.renesas.com/en/blogs/design-aiml-applications-easy-way)
 * [Ricoh](https://en.wikipedia.org/wiki/Ricoh)
 * [Sega](https://en.wikipedia.org/wiki/Sega)
+* [Shin-Etsu Chemical](https://en.wikipedia.org/wiki/Shin-Etsu_Chemical)
 * [Sony](https://en.wikipedia.org/wiki/Sony)
   * [START Lab](https://en.wikipedia.org/wiki/START_Lab)
   * [Taiyo Yuden](https://en.wikipedia.org/wiki/Taiyo_Yuden)
 * [Toshiba](https://en.wikipedia.org/wiki/Toshiba)
 ## South Korea
+* [Semiconductor industry in South Korea](https://en.wikipedia.org/wiki/Semiconductor_industry_in_South_Korea)
 * [LG Electronics](https://en.wikipedia.org/wiki/LG_Electronics)
 * [Magnachip](https://www.magnachip.com/)
 * [Samsung Electronics](https://en.wikipedia.org/wiki/Samsung_Electronics)
 * [SK Hynix](https://en.wikipedia.org/wiki/SK_Hynix)
 * [Key Foundry](https://www.key-foundry.com/)
 ## Taiwan
+* [Pan Wen-Yuan](https://en.wikipedia.org/wiki/Pan_Wen-Yuan) 1912&mdash;1995
+  * [Present at the Creation: How Pan Wenyuan Connected Silicon Valley and China](https://medium.com/@andrewleonard/present-at-the-creation-how-pan-wenyuan-connected-silicon-valley-and-china-5ad1f1a36ad9), July 19, 2017
+  * [Calculation and design of resistance-coupled amplifiers using pentode tubes](https://ieeexplore.ieee.org/document/6435254), December 1940
 * [List of companies of Taiwan](https://en.wikipedia.org/wiki/List_of_companies_of_Taiwan)
 * [Semiconductor industry in Taiwan](https://en.wikipedia.org/wiki/Semiconductor_industry_in_Taiwan)
 * [Acer](https://en.wikipedia.org/wiki/Acer_Inc.)

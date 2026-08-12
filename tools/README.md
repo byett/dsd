@@ -1,12 +1,21 @@
 # Tools
 ## YouTube Channels
 * [American Standard Circuits](https://www.youtube.com/@americanstandardcircuits8780) 77-Second Webinars
+* [LabRecon](https://www.labrecon.com)
+  * [Joe Barbetta](https://www.labrecon.com/About.html)
+  * [Interview With Professor Barbetta](https://thestute.com/2018/08/17/interview-with-professor-barbetta/), August 17, 2018
 * [Nandland](https://www.youtube.com/@Nandland) by [Russell Merrick](https://www.linkedin.com/in/russell-merrick-6058b34)
 * [Phil's Lab](https://www.youtube.com/@PhilsLab) by [Philip Salmony](https://github.com/pms67)
 * [Simple Tutorials for Embedded Systems](https://www.youtube.com/@SimplyEmbedded) by [Greidi Ajalik](https://www.linkedin.com/in/greidi-ajalik/) 
   * [Greidi Ajalik](https://www.youtube.com/c/GreidiAjalik)
 * [w2aew](https://www.youtube.com/@w2aew) by [Alan Wolke](https://www.linkedin.com/in/alan-wolke-68a0292), [Radio Frequency](https://en.wikipedia.org/wiki/Radio_frequency) (RF) [Applications Engineer](https://en.wikipedia.org/wiki/Applied_engineering_(field)) at [Tektronix](https://en.wikipedia.org/wiki/Tektronix)
+## 3D Modeling Software
+* [List of 3D modeling software](https://en.wikipedia.org/wiki/List_of_3D_modeling_software)
+* [AutoCAD](https://en.wikipedia.org/wiki/AutoCAD) by [Autodesk](https://en.wikipedia.org/wiki/Autodesk)
+* [Onshape](https://en.wikipedia.org/wiki/Onshape)
+* [SolidWorks](https://en.wikipedia.org/wiki/SolidWorks)
 ## Documentation
+* [Mermaid (software)](https://en.wikipedia.org/wiki/Mermaid_(software))
 * [Overleaf electronics templates](https://www.overleaf.com/latex/templates/tagged/electronics)
 * [Q-circuit](https://physics.unm.edu/CQuIC/Qcircuit/)
   * [Q-circuit tutorial](https://physics.unm.edu/CQuIC/Qcircuit/Qtutorial.pdf)

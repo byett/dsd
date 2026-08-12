@@ -37,6 +37,7 @@
 * [Open MPI](https://en.wikipedia.org/wiki/Open_MPI)
 * [Parallel computing](https://en.wikipedia.org/wiki/Parallel_computing)
 * [Supercomputer](https://en.wikipedia.org/wiki/Supercomputer)
+  * [Supercomputing in China](https://en.wikipedia.org/wiki/Supercomputing_in_China)
 * [Floating point operations per second](https://en.wikipedia.org/wiki/Floating_point_operations_per_second) (FLOPS)
   * Trillions of operations per second (TOPS)
 * [Categorical abstract machine](https://en.wikipedia.org/wiki/Categorical_abstract_machine) (CAM)
@@ -94,6 +95,8 @@
 ---
 * X. Shi, X. Peng, L. He, Y. Zhao, and H. Jin, "[Waterwave: A GPU Memory Flow Engine for Concurrent DNN Training](https://ezproxy.stevens.edu:2161/document/10130297)," in *IEEE Transactions on Computers*, pp. 1-14, 2023. doi: 10.1109/TC.2023.3278530
 ## Servers
+* [Globus](https://www.globus.org/)
+  * [Globus Compute](https://github.com/globus/globus-compute)
 * [Hauppauge Computer Works](https://en.wikipedia.org/wiki/Hauppauge_Computer_Works)
 * [Lambda](https://lambdalabs.com/)
 * [Microway](https://www.microway.com/)

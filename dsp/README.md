@@ -6,9 +6,12 @@
 * [Fourier transform](https://www.youtube.com/playlist?app=desktop&list=PLBlnK6fEyqRhkN2yGQpH40Pk-paIJzzvv)
 * [Phil's Lab](https://www.youtube.com/@PhilsLab) by [Philip Salmony](https://github.com/pms67)
 ## Courses
-* [Signals and Systems](https://ocw.mit.edu/courses/res-6-007-signals-and-systems-spring-2011/) by Professor [Alan V. Oppenheim](https://en.wikipedia.org/wiki/Alan_V._Oppenheim) of MIT
+* [*Signals and Systems*](https://ocw.mit.edu/courses/res-6-007-signals-and-systems-spring-2011/) by Professor [Alan V. Oppenheim](https://en.wikipedia.org/wiki/Alan_V._Oppenheim) of MIT
 * [Signals and Systems](https://www.princeton.edu/~cuff/ele301/index.html) by Professor [Paul Cuff](https://www.princeton.edu/~cuff/) of Princeton University
+* [*Signals, Systems, and Transforms*](https://elcom-team.com/Subjects/Signals%20and%20Systems/%D8%A7%D9%84%D9%83%D8%AA%D8%A8%20%D9%88%20%D8%A7%D9%84%D8%AD%D9%84%D9%88%D9%84/signal-book-(5th-ed).pdf) by Charles L. Phillips, John M. Parr, and Eve A. Riskin
+* [*Engineering Signals and Systems, Theory and Applications*](https://ss2-2e.eecs.umich.edu/) by Fawwaz T. Ulaby and Andrew E. Yagle, University of Michigan, Ann Arbor
 * [Digital Signal Processing](https://ocw.mit.edu/courses/res-6-008-digital-signal-processing-spring-2011/) by Professor Alan V. Oppenheim of MIT
+* [*Signals and Systems: A Fresh Look*](https://ctchen.me/) by Chi-Tsong Chen 1936&mdash;2022 of Stony Brook University
 ## Signal Processing
 * [Analog signal](https://en.wikipedia.org/wiki/Analog_signal)
 * [Signal processing](https://en.wikipedia.org/wiki/Signal_processing)
@@ -25,6 +28,7 @@
 * [Recurrence relation](https://en.wikipedia.org/wiki/Recurrence_relation)
 * [Finite impulse response](https://en.wikipedia.org/wiki/Finite_impulse_response) (FIR)
 * [Infinite impulse response](https://en.wikipedia.org/wiki/Infinite_impulse_response) (IIR)
+* [International Conference on Acoustics, Speech, and Signal Processing](https://en.wikipedia.org/wiki/International_Conference_on_Acoustics,_Speech,_and_Signal_Processing) (ICASSP)
 ---
 * [Complex analysis](https://en.wikipedia.org/wiki/Complex_analysis)
   * [*Alice's Adventures in Wonderland*](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland) by [Lewis Carroll](https://en.wikipedia.org/wiki/Lewis_Carroll) 1832&mdash;1898
@@ -42,6 +46,9 @@
 * [Laurent series](https://en.wikipedia.org/wiki/Laurent_series)
   * [Laurent polynomial](https://en.wikipedia.org/wiki/Laurent_polynomial)
   * [Pierre Alphonse Laurent](https://en.wikipedia.org/wiki/Pierre_Alphonse_Laurent) 1813&mdash;1854
+* [Parks–McClellan filter design algorithm](https://en.wikipedia.org/wiki/Parks%E2%80%93McClellan_filter_design_algorithm)
+  * [Thomas W. Parks](https://en.wikipedia.org/wiki/Thomas_W._Parks) 1939&mdash;2020
+  * [James H. McClellan](https://en.wikipedia.org/wiki/James_H._McClellan)
 * [Residue theorem](https://en.wikipedia.org/wiki/Residue_theorem)
 * [Taylor series](https://en.wikipedia.org/wiki/Taylor_series)
   * [Taylor's theorem](https://en.wikipedia.org/wiki/Taylor%27s_theorem)

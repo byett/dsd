@@ -34,8 +34,19 @@
   * [Submer Technologies](https://wikitia.com/wiki/Submer_Technologies)
   * [Iceotope](https://www.iceotope.com/) 
 * [Thermal inertia](https://en.wikipedia.org/wiki/Thermal_inertia)
+* [Temperature measurement](https://en.wikipedia.org/wiki/Temperature_measurement)
+* [Rømer scale](https://en.wikipedia.org/wiki/R%C3%B8mer_scale) 1702
+  * [Ole Rømer](https://en.wikipedia.org/wiki/Ole_R%C3%B8mer) 1644&mdash;1710
+* [Fahrenheit](https://en.wikipedia.org/wiki/Fahrenheit) 1724
+  * [Daniel Gabriel Fahrenheit](https://en.wikipedia.org/wiki/Daniel_Gabriel_Fahrenheit) 1686&mdash;1736 met Ole Rømer in 1708 and produced a mercury thermometer and scale
+* [Celsius](https://en.wikipedia.org/wiki/Celsius) 1742
+  * [Anders Celsius](https://en.wikipedia.org/wiki/Anders_Celsius) 1701&mdash;1744
+* [Kelvin](https://en.wikipedia.org/wiki/Kelvin) 1848, formally added to the [International System of Units](https://en.wikipedia.org/wiki/International_System_of_Units) (SI) in 1954
+  * [Lord Kelvin](https://en.wikipedia.org/wiki/Lord_Kelvin) (William Thomson) 1824&mdash;1907
+  * [Absolute zero](https://en.wikipedia.org/wiki/Absolute_zero)
+  * [Joule–Thomson effect](https://en.wikipedia.org/wiki/Joule%E2%80%93Thomson_effect)
 ## Standards
-* [IEEE 1547](https://en.wikipedia.org/wiki/IEEE_1547) Standard for Interconnection and Interoperability of Distributed Energy Resources with Associated Electric Power Systems Interfaces
+* [IEEE 1547](https://en.wikipedia.org/wiki/IEEE_1547) Standard for Interconnection and Interoperability of Distributed Energy Resources With Associated Electric Power Systems Interfaces
 ## Nuclear Power
 * [Nuclear Power and Flexible Grid Solutions](https://ieee-pes.org/trending-tech/nuclear-power-and-flexible-grid-solutions/)
 * [Fukushima Daiichi Nuclear Power Plant](https://en.wikipedia.org/wiki/Fukushima_Daiichi_Nuclear_Power_Plant)
