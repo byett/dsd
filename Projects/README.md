@@ -4,7 +4,7 @@
 		* The more detailed the better – you all know how much I love a good finite state machine and Boolean logic, so those could be some good ideas if appropriate for your system. If not, some kind of high level block diagram showing how different parts of your program connect together and/or showing how what you have created might fit into a more complete system could be appropriate instead.
 	* A summary of the steps to get the project to work in Vivado and on the Nexys board (5 points of the Submission category)
  	* Description of inputs from and outputs to the Nexys board from the Vivado project (10 points of the Submission category)
-  		* As part of this category, if using starter code of some kind (discussed below), you should add at least one input and at least one output appropriate to your project to demonstrate your understanding of modifying the ports of your various architectures and components in VHDL as well as the separate .xdc constraints file.
+  		* As part of this category, if using starter code of some kind (discussed below), you should add at least one input and at least one output appropriate to your project to demonstrate your understanding of modifying the ports of your various architectures and components in VHDL/SV as well as the separate .xdc constraints file.
 	* Images and/or videos of the project in action interspersed throughout to provide context (10 points of the Submission category)
 	* “Modifications” (15 points of the Submission category)
 		* If building on an existing lab or expansive starter code of some kind, describe your “modifications” – the changes made to that starter code to improve the code, create entirely new functionalities, etc. Unless you were starting from one of the labs, please share any starter code used as well, including crediting the creator(s) of any code used. It is perfectly ok to start with a lab or other code you find as a baseline, but you will be judged on your contributions on top of that pre-existing code!
@@ -34,7 +34,7 @@
 # Past Projects (these were vetted by me personally. They may not be perfect still but should help give you some ideas of projects that did fairly well)
 ## Fall 2025
 * [Balatro](https://github.com/nhabakus/Simplified-Balatro.git)
-* [Pokemon battles](https://github.com/SuhYoonbeom/VHDL-Pokemon-Demo)
+* [Pokemon battles](https://github.com/SuhYoonbeom/VHDL/SV-Pokemon-Demo)
 * [Plants vs. Zombies](https://github.com/kaitlynbjerke/CPE487)
 * [Cat vs. Mouse / Stealth](https://github.com/DivineFinesse/CPE-487/tree/cef17ae1e1c5df1beb5a995709551ed9b2c4eeba/Final%20Project)
 * [3D Renderer](https://github.com/KK2NJ/CPE487_FinalProject/tree/main)
@@ -97,7 +97,7 @@
 * [Siren with Pmod Frequency Control](https://github.com/bobberySmith/cpe-487-final-project)
 * [Space Invaders 3.0](https://github.com/MiscellaneousMongoose/Digital-Signal-Design/tree/main/Final%20Project)
 * [T-Rex Dinosaur Run](https://github.com/rhyspiecesno8/CPE-487-Repository-RhysLee/tree/main/FinalProject)
-* [VHDL Platformer](https://github.com/Cmurphy5-stevens/CPE487/tree/main/Project)
+* [VHDL/SV Platformer](https://github.com/Cmurphy5-stevens/CPE487/tree/main/Project)
 ## 2021 Fall
 * [Dodgeball](https://github.com/cgiannak/CPE-487-Final-Project)
 * [Final Message](https://github.com/emcadamsv/CPE-487/tree/main/Final%20Project)
@@ -105,20 +105,20 @@
 * [Hexadecimal Calculator](https://github.com/wwargack/cpe487/tree/main/proj)
 * [Keep Away](https://github.com/RobotPrinceMV/CPE487/tree/main/Final%20Project)
 * [Mini Piano](https://github.com/Veggietay97/Vgty97/tree/master/CPE487/FInal_Project)
-* [Music Box in VHDL](https://github.com/rzhang37/Digital-System-Design/tree/main/FPGA%20Project)
-* [Photon Detection](https://github.com/rkondrat1/FPGA_VHDL/tree/main/FINAL)
+* [Music Box in VHDL/SV](https://github.com/rzhang37/Digital-System-Design/tree/main/FPGA%20Project)
+* [Photon Detection](https://github.com/rkondrat1/FPGA_VHDL/SV/tree/main/FINAL)
 * [Project Serpent](https://github.com/mpiasevo/Project-Serpant)
 * [Snake Game](https://github.com/veguruh/CPE487/tree/main/Final/Snake)
 * [Space Invaders 2.0](https://github.com/miafelic/CPE487/tree/main/Space%20Invaders%202.0)
 * [Space Race](https://github.com/Quentin-Jimenez/CPE-487/tree/main/Space%20Race)
 * [Two-Player Pong](https://github.com/kyritzb/CPE487/tree/main/final)
-* [VHDL Font](https://github.com/Alan489/DSD/tree/main/final)
+* [VHDL/SV Font](https://github.com/Alan489/DSD/tree/main/final)
 ## 2021 Spring
 * [CodeGolf](https://github.com/glimped/CodeGolf)
 * [Frogger](https://github.com/cbenson1/CPE487/tree/main/Frogger_Final)
 * [Mouse Reader](https://github.com/GSCoder1/CPE-487/tree/main/FinalProject)
 * [Project 42: Mouse in the House](https://github.com/andrewdangelo/42_DSD_Project)
-* [VHDL Image Processing](https://github.com/EKozlakov/DSDFP)
+* [VHDL/SV Image Processing](https://github.com/EKozlakov/DSDFP)
 ## 2020 Fall
 * [Audio Visual Equalizer](https://github.com/karlsheng99/CPE487_dsd/tree/master/project)
 * [Blackjack](https://sites.google.com/stevens.edu/ee322amartora/cpe-487/blackjack)
@@ -127,7 +127,7 @@
 * [Frogger](https://github.com/sbertussi/CPE-487/tree/master/Frogger_Project)
 * [Space Invaders](https://github.com/chungiee/DigitalSystemDesign/tree/master/spaceInvaders)
 * [Tic-Tac-Toe](https://github.com/RaZeragon/CPE487/tree/master/FinalProject)
-* [ViperHDL](https://github.com/JMavorah/SnakeVHDL)
+* [ViperHDL](https://github.com/JMavorah/SnakeVHDL/SV)
 ## 2020 Spring
 * [GameBuddy-Verilog](https://github.com/grantsimmons/GameBuddy-Verilog)
 * [Interface a Mouse With FPGA](https://github.com/HanlinMiao/CPE-487-A/tree/master/DSD%20Project)
@@ -141,7 +141,7 @@
 * [Racing Game](https://sites.google.com/stevens.edu/cpe487/project)
 * [Robotic Platform](https://github.com/TommyPinto/CPE487FinalProject)
 * [Snake](https://sites.google.com/stevens.edu/digital-system-design-cpe-487/project)
-* [Tetris](https://github.com/ygunarso/tetris-vhdl)
+* [Tetris](https://github.com/ygunarso/tetris-VHDL/SV)
 ## 2019 Spring
 * [Flappy Bird](https://sites.google.com/stevens.edu/cpe487website/project)
 * [Morse Code Transmitter](https://sites.google.com/stevens.edu/dsds19-zhec/projects/morse-code-transmitter)
