@@ -36,7 +36,6 @@
 * [Guitar Hero](https://github.com/jmarti5682/CPE487_Final_Project)
 * [World's Hardest Game](https://github.com/Jshea1/WorldsHardestGame.git)
 * [Subway Surfers](https://github.com/ryanvconnolly/CPE487finalproject/blob/main/README.md)
-* [Clock](https://github.com/cfoote5/CPE487_FinalProject)
 ## 2024 Spring
 * [Space Invaders](https://github.com/vrenda720/DSD_Project/tree/main)
 * [Full Pong Game](https://github.com/j-ferber/dsd-final-project)
