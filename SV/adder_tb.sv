@@ -1,6 +1,6 @@
 module adder_tb ();
     bit a, b, ci, s, co;
-    single_bit_full_adder adder0 (
+    adder adder0 (
         .A(a),
         .B(b),
         .Cin(ci),
