@@ -27,11 +27,11 @@
   * Shift to display 2 for a few milliseconds and then finally display 3 for a few milliseconds, after that go back and start again at display 0.
   * Each digit is thus illuminated only one quarter of the time
 
-### 1. Create a new RTL project called _hex4count_ in Vivado Quick Start
+### 1. Create a new RTL, Verilog project called _hex4count_ in Vivado Quick Start
 
 * **Make sure you re-download or otherwise re-create all files even if they have the same names as past labs - they may have changed!**
 
-* Click 'Create File' then create three new source files of file type VHDL called **_leddec_**, **_counter_**, and **_hexcount_**
+* Click 'Create File' then create three new source files of file type SV called **_leddec_**, **_counter_**, and **_hexcount_**
 
 * Create a new constraint file of file type XDC called **_hexcount_**
 
@@ -39,7 +39,7 @@
 
 * New Project Summary > Finish
 
-* Click design sources, copy leddec.vhd, counter.vhd, and hexcount.vhd from the GitHub Raw, and save files
+* Click design sources, copy leddec.sv, counter.sv, and hexcount.sv from the GitHub Raw, and save files
 
 * Click constraints, copy hexcount.xdc from the GitHub Raw, and save file
 
