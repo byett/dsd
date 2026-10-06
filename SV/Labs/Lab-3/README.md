@@ -9,7 +9,7 @@
 * 2019-11-03 pull request by Peter Ho with the 800x600@60Hz support for 100MHz clock
   * The Xilinx [Clocking Wizard](https://www.xilinx.com/products/intellectual-property/clocking_wizard.html)
   * [7 Series FPGAs Clocking Resources User Guide](https://www.xilinx.com/support/documentation/user_guides/ug472_7Series_Clocking.pdf)
-  * CLKOUT0_DIVIDE_F in Line 124 of clk_wiz_0_clk_wiz.vhd was updated from 25.3125 to 25.25 because it shall be a multiple of 0.125
+  * CLKOUT0_DIVIDE_F in Line 124 of clk_wiz_0_clk_wiz.SV was updated from 25.3125 to 25.25 because it shall be a multiple of 0.125
 
 * The **_vga_sync_** module uses a clock to drive horizontal and vertical counters h_cnt and v_cnt, respectively.
   * These counters are then used to generate the various timing signals.
@@ -38,7 +38,7 @@
 
 ### 1. Create a new RTL project _vgaball_ in Vivado Quick Start
 
-* Create five new source files of file type VHDL called **_clk_wiz_0_**, **_clk_wiz_0_clk_wiz_**, **_vga_sync_**, **_ball_**, and **_vga_top_**
+* Create five new source files of file type SV called **_clk_wiz_0_**, **_clk_wiz_0_clk_wiz_**, **_vga_sync_**, **_ball_**, and **_vga_top_**
 
 * Create a new constraint file of file type XDC called **_vga_top_**
 
@@ -46,7 +46,7 @@
 
 * Click 'Finish'
 
-* Click design sources and copy the VHDL code from clk_wiz_0.vhd, clk_wiz_0_clk_wiz.vhd, vga_sync.vhd, ball.vhd, and vga_top.vhd
+* Click design sources and copy the SV code from clk_wiz_0.SV, clk_wiz_0_clk_wiz.SV, vga_sync.SV, ball.SV, and vga_top.SV
 
 * Click constraints and copy the code from vga_top.xdc
 
@@ -69,7 +69,7 @@
 ### 5. Edit code with the following modifications (this will be your Lab 3 Extension/Submission!)
 
 * Modify one or more of the provided programs such that there is a second "ball". Each "ball" should:
-  * have a different appearance including shape (one of them may remain a square, but the other should be a triangle, circle, etc.) and color. For the color, you MUST introduce at least one more bit of color data on top of those currently used in ball.vhd. We are currently using red(2), green(2), and blue(1), but vga_top includes the other bits that are available to us (which are currently all being forced to 0) on lines 59-61.
+  * have a different appearance including shape (one of them may remain a square, but the other should be a triangle, circle, etc.) and color. For the color, you MUST introduce at least one more bit of color data on top of those currently used in ball.SV. We are currently using red[2], green[2], and blue[1], but vga_top includes the other bits that are available to us (which are currently all being forced to 0).
   * move at different speeds and in both directions (you will need to introduce new signals to allow each ball to move both horizontally and vertically!)
   * be placed at different starting positions such that they do not initially collide with each other.
 
