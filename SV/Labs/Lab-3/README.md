@@ -73,7 +73,7 @@
   * move at different speeds and in both directions (you will need to introduce new signals to allow each ball to move both horizontally and vertically!)
   * be placed at different starting positions such that they do not initially collide with each other.
 
-* Implement a [debug probe](DebugProbes.docx) on one of the color bits of your choosing that is part of at least one of the balls (so we know that it will change at some point). Capture a screenshot with that bit changing on the screen at least once after collecting some number of samples (enough to see something changing! But no specific requirement otherwise).
+* Implement a [debug probe](DebugProbes.docx) on one of the color bits of your choosing that is part of at least one of the balls (so we know that it will change at some point). Capture a screenshot with that bit changing on the screen at least once after collecting some number of samples (enough to see something changing! But no specific requirement otherwise. I was able to verify that it worked for 65536 samples though I suspect fewer should be fine).
 
-* Include in your submission a discussion on how you created your new shape, how you discovered where to make the appropriate changes in the code, and a short video of your finished product.
+* Include in your submission a discussion on how you created your new shape, how you discovered where to make the appropriate changes in the code, the code you needed and the screenshot mentioned for the debug probe part, and a short video of your finished product.
 
