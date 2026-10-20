@@ -13,7 +13,7 @@
   * When the serve input goes high, game_on is set to ‘1’ and the ball becomes visible again.
 
 * The **_pong_** module is the top level.
-  * BTN0 on the Nexys2 board is used to initiate a serve.
+  * BTNC on the Nexys board is used to initiate a serve.
 
 ### 1. Create a new RTL project _pong_ in Vivado Quick Start
 

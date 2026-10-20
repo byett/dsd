@@ -1,0 +1,91 @@
+# Lab 4: Hex Calculator
+
+* Program the FPGA on the Nexys A7-100T board to function as a simple hexadecimal calculator capable of adding and subtracting four-digit hexadecimal numbers using a 16-button keypad module ([Pmod KYPD](https://store.digilentinc.com/pmod-kypd-16-button-keypad/)) connected to the Pmod port JA (See Section 10 of the [Reference Manual](https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf)) directly or via an optional [2x6-pin cable](https://digilent.com/shop/2x6-pin-pmod-cable/) with three dots (or VDD/GND) facing up on both ends
+
+![kypd.png](kypd.png)
+
+* The top level source module is called **_hexcalc_** that
+  * Creates an instance of the keypad interface and 7-segment decoder interface modules
+  * Makes connection to the display, buttons, and external keypad
+  * Has a timing process to generate [clock signals](https://en.wikipedia.org/wiki/Clock_signal) for the keypad, display multiplexer, and [finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine)
+  * Implements a finite-state machine for the operations of the calculator in response to button pushes
+
+![hexcalc.png](hexcalc.png)
+
+* The finite-state machine uses a number of variables to keep track of the addition operation
+  * The variable _acc_ is an accumulator that holds the current summation result
+  * The variable _operand_ holds the value of the next operand that will be added to the accumulator
+  * The variable _display_ holds the value currently being displayed on the 7-segment displays
+  * The variable _pr_state_ is the current state of the finite-state machine
+* Depending on the current state, the machine will react to pushed keypad buttons or operation buttons to update variables, change the output, and select the next state
+  * When the _clear_ button is pushed, the machine enters the ENTER_ACC state
+    * In this state the machine waits for a keypad button to be pushed
+    * When a keypad button is pushed, the code adds the new digit to the 16-bit word in the accumulator and then waits in the ACC_RELEASE state for the button to be released
+    * It then returns to the ENTER_ACC state to wait for the next digit
+  * The process continues until the “+” button is pushed
+    * The machine then enters the START_OP state where it waits for the first digit of the second operand
+    * Once a keypad button has been pushed, it records the hex digit and then enters the OP_RELEASE state waiting for the keypad button to be released
+    * Once released, the machine enters the ENTER_OP state where it continues to received operand digits each time a keypad button is pushed
+  * The process continues until the user presses the “=’ button at which point it performs the addition and goes to the SHOW_RESULT state
+    * Once in the SHOW_RESULT state, it shows the result of the addition and waits for a keypad button push to start a new calculation
+
+### 1. Create a new RTL project _hexcalc_ in Vivado Quick Start
+
+* Create three new source files of file type SV called **_keypad_**, **_leddec16_**, and **_hexcalc_**
+
+* Create a new constraint file of file type XDC called **_hexcalc_**
+
+* Choose Nexys A7-100T board for the project
+
+* Click 'Finish'
+
+* Click design sources and copy the VHDL code from keypad.sv, leddec16.sv, and hexcalc.sv
+
+* Click constraints and copy the code from hexcalc.xdc
+
+* As an alternative, you can instead download files from Github and import them into your project when creating the project. The source file or files would still be imported during the Source step, and the constraint file or files would still be imported during the Constraints step.
+
+### 2. Run synthesis
+
+### 3. Run implementation
+
+### 3b. (optional, generally not recommended as it is difficult to extract information from and can cause Vivado shutdown) Open implemented design
+
+### 4. Generate bitstream, open hardware manager, and program device
+
+* Click 'Generate Bitstream'
+
+* Click 'Open Hardware Manager' and click 'Open Target' then 'Auto Connect'
+
+* Click 'Program Device' then xc7a100t_0 to download hexcalc.bit to the Nexys A7-100T board
+
+### 5. Use keypad and buttons
+
+* Enter a multi-digit hex (yes, it is specifically hexadecimal!) number using the keypad one character at a time to appear on the 7-segment displays
+
+* Enter the first operand, press the “+” key (BTNU)
+
+* Enter the second operand and press the “=” key (BTNL) so that the value of the sum of the operands appears on the display
+
+* Press the “clear” key (BTNC) to set the result on the display to zero
+
+* Capture a video of this normal behavior!
+
+### 6. Work on and edit code with the following modifications (depending on when you do this, it will be your Fourth, Fifth, or Sixth Lab Extension/Submission!)
+
+#### A) Perform leading zero suppression
+
+* With the leading zeros suppressed, the number “0023” appears as “23” 
+
+* Hint: You can turn off any digit in the display by never taking its anode to ‘0’
+
+* Modify a particular assignment statement so that it only turns on a particular digit if it is non-zero or if there is non-zero information in the higher order digits of the data word
+
+#### B) Expand the calculator to also perform an additional operation
+
+* If your group number as per Canvas is _even_, use the button BTND (pin P18 on the Nexys A7-100T board) to trigger a less than comparison. If the first value entered was less than the second value entered, the result should be 1; otherwise, the result should be 0.
+
+* If your group number as per Canvas is _odd_, instead use the button BTND (pin P18 on the Nexys A7-100T board) to trigger a multiplication of the two values.
+  * You will need to account for the fact that multiplication fills up 32 bits of information and therefore causes a size mismatch with our **nx_acc** signal that we try to store our result into. The final product should show the bottom 16 bits of the multiplication on your anodes.
+
+* Hint: Modify the ENTER_ACC state to also test for BTND being depressed, then follow a similar procedure as for addition
