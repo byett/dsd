@@ -34,6 +34,13 @@
 
 # Past Projects (these were vetted by me personally. They may not be perfect still but should help give you some ideas of projects that did fairly well)
 ### Also worth noting that these are all in VHDL. There should still be inspiration sources, or your first step as a SV group could be to take a VHDL project, use GenAI to translate it to SV, make sure it works, and then start making improvements.
+## Spring 2026
+* [Overcooked](https://github.com/kata011605-glitch/Overcooked/blob/main/README.md)
+* [Camera example](https://github.com/tkometani0512/OV7670-Nexys-A7-100T-Final-Project)
+* [Microprocessor example](https://github.com/michael-savo/FPGA-MIPS-Microprocessor-CPE-487/tree/3D_cube)
+* [Doodle jump](https://github.com/matthewjcho/doodle_jump)
+* [Apple I computer](https://github.com/dinkleberrg/CPE487-Apple-I/blob/main/README.md)
+* [Cybersecurity](https://github.com/theohrogalski/CPE487_Cybersecurity_Module)
 ## Fall 2025
 * [Balatro](https://github.com/nhabakus/Simplified-Balatro.git)
 * [Pokemon battles](https://github.com/SuhYoonbeom/VHDL/SV-Pokemon-Demo)
