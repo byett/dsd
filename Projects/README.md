@@ -33,6 +33,7 @@
 * If you choose to start from an existing project and make substanstial changes/improvements, you must cite your starting place! This goes for the labs, these projects, or any others you may find. Do not pass off someone else's work as your own and you'll do just fine.
 
 # Past Projects (these were vetted by me personally. They may not be perfect still but should help give you some ideas of projects that did fairly well)
+### Also worth noting that these are all in VHDL. There should still be inspiration sources, or your first step as a SV group could be to take a VHDL project, use GenAI to translate it to SV, make sure it works, and then start making improvements.
 ## Fall 2025
 * [Balatro](https://github.com/nhabakus/Simplified-Balatro.git)
 * [Pokemon battles](https://github.com/SuhYoonbeom/VHDL/SV-Pokemon-Demo)
